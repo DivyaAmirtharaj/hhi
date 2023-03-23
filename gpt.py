@@ -7,7 +7,7 @@ messages = [
         {"role": "system", "content": "You are a helpful assistant."},
 ]
 while True:
-    message = input("You: ")
+    message = input("Prompt: ")
     if message:
         messages.append(
                 {"role": "user", "content": message},
