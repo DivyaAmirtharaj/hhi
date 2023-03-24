@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-#Import open AI OS and System Modules
 import openai
-import os
-openai.api_key = os.environ['api_key']
+#openai.api_key = os.environ['api_key']
+openai.api_key = "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"
 messages = [
         {"role": "system", "content": "You are a helpful assistant."},
 ]
