@@ -1,4 +1,12 @@
 ## Project Overview
+The four main questions to see if AI system can answer from all the data are (main themes and common responses):
+
+1. What does justice mean to you?           
+2. How much of a priority is it for you to have justice for what happened to you during the conflict with ISIS?         
+3. Who should be held accountable?
+4. And how should they be held accountable?
+
+
 ### References
 <p> Data Parsing by ChatGPT3.5: https://medium.com/@dlaytonj2/chatgpt-can-it-discern-the-meaning-of-data-a2e766513d93 <br>
 Speech Transcribing: https://openai.com/research/whisper <br>
