@@ -28,6 +28,14 @@ class Processing:
             outfile.close()
             infile.close()
 
+    def fileProcess(self):
+        directory = self.new_dir
+        f = open(self.new_dir+'083.BJ.txt', 'r')
+        print(f.read())
+        for file_name in os.listdir(directory):
+            print(file_name)
+
 data = Processing()
 #data.fileClean()
-data.fileWrite()
+#data.fileWrite()
+data.fileProcess()
