@@ -1,7 +1,7 @@
 import docx2txt
 import glob
 
-directory = glob.glob('data/*.docx')
+directory = glob.glob('dedoose_data/*.docx')
 
 for file_name in directory:
     print(file_name)
