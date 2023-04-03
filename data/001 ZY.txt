@@ -1,0 +1,1383 @@
+Instructions for using this template 
+
+This template provides the interview questions as they appeared in the questionnaire in English, Kurmanji, and German. Three people were present during each interview: an Interviewer speaking English or German, an Interpreter translating the questions to Kurmanji, and a Respondent giving her response in Kurmanji. Under each question, please transcribe the question as it was explained in Kurmanji by the Interpreter, and the Respondent’s complete response. It is not necessary to transcribe what the Interviewer says in English or German. 
+
+Please transcribe directly into English. Transcribe the words verbatim, i.e. exactly as the Interpreter or Respondent says them, even if they are not in perfect English. 
+
+Format: Mark the Interpreter’s words with “I:” and the Respondent with “R:” – e.g.
+
+	I: How old are you? 
+
+	R: I am 42. 
+
+Skipped questionR: Some of the questions are skipped in each interview – if the question is not asked, please skip ahead to the next question that is asked.
+
+Unclear wordR: Any word that you can’t hear clearly or don’t understand should be marked in Red text. 
+
+ReviewerR: Please add your notes, clarifications, and corrections in Blue text directly after the response. 
+
+File naming: Transcribers, please save this file with the same number as the title of the audio file and your initials, e.g. “001 ZY”. Reviewers, please save the file by adding your initials to the end of the file name, e.g. “001 ZY VO”.
+
+File sending: Inform HHI by email when you are ready to send the file. HHI will request the file from you using Accellion. Accellion works best in Internet Explorer. You may need to update your version of Internet Explorer in order to use all features of Accellion. 
+
+
+
+
+
+
+
+
+
+Audio file name: [001]
+
+RESPONDENT CHARACTERISTICS	RESPONDENT CHARACTERISTICS	EIGENSCHAFTEN DES BEFRAGTEN
+
+C00 I would now like to ask you some short questions about yourself.	C00 Ez dixwazim bi hin pirsên derheqe we dest pê bikim.	C00 Ich möchte damit anfangen, Ihnen einige kurze Fragen zu Ihrer Person zu stellen.
+
+C01 Sex of respondent	C01 Zayenda bersivdarî/ê	C01 Geschlecht der/des Befragten
+
+[This does not need to be transcribed]
+
+
+
+C02 How old are you?	C02 Tu çend salî yî?	C03 Wie alt sind Sie?
+
+I: How old are you?
+
+ R: My birthday is 71. I'm 45?
+
+C04 What is your marital status?	C04 Tu zewiciyi  yan na?	C04 Wie ist Ihr Familienstand?
+
+I: Are you married or not?
+
+ R: Yes
+
+C05 If married or in a partnership, where is your spouse or partner?	C05 Heger tu zewicîyi , navê jina/mêrê we çi ye? / “Heger hûn zewicî ne, mêrê / zilamê te li ku derê ye?”	C05 Falls Sie verheiratet oder in einer Partnerschaft sind, wo befindet sich Ihr(e) Partner(in)?
+
+I: Where is your husband?  
+
+R: Isis took him
+
+I: So he is missing?
+
+ R: Yes, he is missing
+
+C06 How many people currently live with you, if any?	C06 Vêga çend kes bi te re dijîn?	C06 Wie viele Menschen leben derzeit bei Ihenn (falls zutreffend)?
+
+I: How many people live in this family?  
+
+R: I and my four children and my nephew (husband's brother's son). His mother and father, all his family went missing, so I took him with me.
+
+C07 Who are they?	C07 Ew kî ne?	C07 Und wer sind diese Personen?
+
+
+
+C08 Please specify who lives with you	C08 Tu dikeri biji ki bi tero dijine (jiyendibe)?	C08 Bitte benne die Personen, die mit Ihnen zusammen leben?
+
+
+
+C09 Can you read and write a simple message in any language?	C09 Tu dikarî di zimanekê de hevokek sivik bixwînîn û binivîsîn?	C09 Könneen Sie eine einfache Nachricht in einer beliebigen Sprache lesen und schreiben?
+
+I: Can you read or write in a language? In which language can you read and write? 
+
+R: We are Yazidi, we are Kurdish, our language is Kurdish, I know little bit Arabic. 
+
+I: Can you read and write?
+
+R: Yes, in Arabic
+
+C10 What is your highest education level?	C10 Herî dawî tu çûyî kîjan dibistanê (mektebê)?- bilindtrin dereje xandine tu gishti	C10 Was ist Ihr höchster Schulabschluss?
+
+I: Which level did you finish at school? 
+
+R: I finished the 6th class, primary school.
+
+I: You finished the 6th class and no more? 
+
+R: Yes, no more.
+
+C11 Please specify your highest education level	C11 Please specify your highest education level	C11 Bitte benennen Sie Ihren höchsten Schulabschluss
+
+
+
+C12 Are you currently in school?	C12 Tu nahe ji xwendevan î (talebe)?	C12 Gehen Sie derzeit zur Schule?
+
+I: Are you going to school now?
+
+ R: Yes, course. I has been eight months.
+
+I: It is in German language? 
+
+R: Yes
+
+C13 If not, do you plan to attend school in the future?	C13 Ger tu ne xwendevan bî,  tu dixwazî di dema bê de biçî dibistanê?	C13 Falls nicht, planen Sie in der Zukunft zur Schule zu gehen?
+
+
+
+C14 Are you currently employed?	C14 Tu nahe kar diki?	C14 Sind Sie derzeit berufstätig?
+
+I: Are you working? 
+
+R: No. I don't know the language. If I knew the language I would find a job for myself.
+
+
+
+C15 If yes, what is your current work?	C15 Ger te got erê, tu vêga çi karî dikî?	C15 Wenn ja, was ist Ihre aktuelle Arbeit?
+
+
+
+C17 If not, are you seeking employment?	C17 Ger te got na, tu dixwazî karik biki?	C17 Wenn nicht, suchen Sie eine Arbeit?
+
+I: So you are not thinking of finding a job for yourself now?
+
+ R: Now? Yes, I'm thinking. We are thinking of staying here, there is not other place that we can go.
+
+C18 If not, why not?	C18 Ger te got na, tu çima naxwazî kar biki?	C18 Falls nein, warum nicht?
+
+
+
+C19 And before ISIS, were you employed outside of your home?	C19 Beriya hijouma DAIŞ, tu qet kar kir?	C19 Übten Sie vor dem IS-Angriff eine bezahlte Arbeit aus?
+
+I: Before Isis came to your village, did you do any work/job outside? 
+
+R: We were farmer. Our work, before Isis came we were doing our own work. We were in the village, there were sheeps and we did agriculture.
+
+C20 If yes, what was your work?	C20 Ger te got erê, te çi karî dikir?	C20 Wenn ja, was war Ihre Arbeit?
+
+
+
+C21 I have a couple more questions about yourself. Remember, our interview is confidential	C21 Ez ê çend pirsên din ji te bikim Bizanibe ku haya tu kesî wê ji hevpeyvîna me nebe	C21 Ich habe noch ein paar Fragen an Sie. Denken Sie daran, dass unser Interview vertraulich ist
+
+
+
+C22 What is your religious faith, if any?	C22 dine te chiya?	C22 Was ist Ihr religiöser Glaube (falls vorhanden)?
+
+I: What is your religious faith? 
+
+R: Yazidi
+
+C23 Please specify your religion	C23 xere xwe beje dine te chiye	C23 Bitte benennen Sie Ihren Glauben
+
+
+
+C24 How would you identify your ethnic group?	C24 Tu ji kîjan milletê yî?	C24 Wie würden Sie Ihre ethnische Gruppe identifizieren?
+
+I: And you are from which ethnic group? 
+
+R: We are from Sinjar, from the Kocho village, Kocho was xxx for the community, they kept all of us.
+
+C25 Please specify your ethnic group	C25 xere xwe beje milet e te chiye?	C25 Bitte benennen Sie Ihre ethnische Gruppe
+
+
+
+
+
+
+
+
+
+
+
+PRIORITIES AND CURRENT CONDITIONS	Pêşik û Şertên niha	Prioritäten und aktuelle Bedingungen
+
+D00 Thank you for these answers. I would now like to discuss your current priorities and views on the future	D00 Spas ji bo bersivan. Niha, ez dixazim derheqê pêşik û nêrînên tê yên dahatûyî biaxivim	D00 Vielen Dank für diese Antworten. Ich möchte jetzt Ihre aktuellen Prioritäten und Ansichten über die Zukunft besprechen
+
+I: Thank you. 
+
+R: Thank you to you, too. I: I would like to talk about your concerns, your thoughts about your life, I would like to talk about these things.
+
+D01 What are your immediate concerns and priorities in your life today?	D01 Di jiyana te, omniyat u hazin e te chiye?	D01 Was sind heute Ihre unmittelbaren Anliegen und Prioritäten in Ihrem Leben?
+
+I: What are your immediate concerns and your priorities/hopes. I mean what would you like now, what is your desire?
+
+R: My desire, I haven't had even one good moment since three years. What I want is to see my husband while I'm alive, living. One of my son who was seventeen years old is lost and also my husband. My husband's brothers, their four families are lost, twenty people from my family are lost. My mother in law, my sisters in law, their families are lost.
+
+D02 What do you need most to rebuild your life?	D02 tu pedvi chi goh jiyane te pe ava bibe?	D02 Was benötigen Sie am meisten um Ihr Leben wieder aufzubauen?
+
+	I: What is important for you now to make your life better?
+
+R: Here...the other things are gone. The important thing is we want to live here safe with our children. 
+
+D03 Overall, how much control would you say you have over your life now?	D03 Giştî, tu di jiyana xwe de çiqas saitere(xodan beryari) te heye?	D03 Wieviel Kontrolle haben Sie jetzt im Großen und Ganzen über Ihr Leben?
+
+I: Now all the things you want to do are in your hands? 
+
+R: Yes. I: Now if they ask you have control over your life, you'll say no, what will you say then? Half, not very much, or very much (?) , which means I have very much control over my life.
+
+R: My life is in my hands. I'm with my four children, two daughters and two sons and my nephew (husband's brother's son) also live with us. Actually we don't have a good life. Our life level is zero, it is zero yes. We had hard times since three years.
+
+D04 What do you think the future holds for you?	D04 Tu mostaqbal de çi difikirî? Mostaqbal che ji tere hazirkriye?	D04 denken Sie, wie sieht Ihre Zukunft aus?
+
+I: Now what do you think about your future? R: About my future, what's gone is gone, if I can provide a future for my children. My children should get a future here. 
+
+D05 Given four choices and assuming the situation in Iraq improves, where would you rather live?	D05 Li Iraqê rewş baş bibe û chwar extiyare te hebin, tu yê li ku derê bijî?	D05 Angenommen, dass sich die Situation im Irak verbessert, wo würden Sie lieber leben?
+
+I: If you had four choices after the situation in Iraq gets better, where would you like to live? Germany, Kurdistan? Another country? Or another part in Iraq?
+
+ R: I don't want to see any land in Iraq, after my husband,  never again. And whichever country accomodate us, we can live , but not in Iraq we are not going to Kurdistan we are not going to Iraq, never. Kurdistan  destroyed our life, life of Yazidis.- Not the Arab countries but the other countries, whichever accomodate us we would like to live there. - We are thankful to them, I respect you but, what is your religion? Are you Muslim? Yazidi? R: I'm Yazidi. I: You are Yazidi? You're welcome. Not all the muslims are bad. In any place there are bad people and there are good people. I mean there were good muslim people also. But this thing happened to us in the name of muslims, thats why we took a dislike to muslims. - We don't want to live a place where even a muslim lives. - When my children go to the market sometimes they run away and come, they say we saw someone with beard. - We had very hard times, my chiildren were with me and we were detained. - We were in Syria in prison for nine months and three months in Iraq - we were in Tal afar in prison- 
+
+I: When you said you were in prison you mean you were in prison of Isis, they put the isis in prison?
+
+  R: Isis XXX  . I'll tell you sister, they surrounded our village for 13 day, people ran to the mountains, our village was in Cizîre, 1700/900 people, children and women were there. They kept us in the Kocho village for 13 days and we couldn't escape to the Sinjar Mountain. Our village is faraway from other Yazidi villages, It's like here is our village and the other village is Arab, the other one Arab and the other one also Arab. When the people fled and the Kurdish forces abandoned the village and fled, the Yazidis fled to the Sinjar Mountain. Some were able to escape, some couldn't do that, they caught someone.  But the Kocho village, we were all taken captive in the village. One day the Isis came, all of them men, they captured Kocho after 13 days. 
+
+D06 Can you explain why you choose that location?	D06 Gelo hûn dikarin bibêjin hûn çima çûn wir?	D06 Können Sie erklären, warum Sie diesen Ort auswählen?
+
+
+
+D07 Do you feel like you belong here in Germany?	D07 Tu hestdiki goh almaniya welate tebe?	D07 Fühlen Sie sich in Deutschland zu Hause?
+
+I: We would like to talk about your situation here in Germany. Do you feel like you can stay here in Germany? 
+
+R: Yes.
+
+ I: What is the level you want to stay here, zero is you dont want to stay here... 
+
+R: Yes, I would like to stay here. Any country is fine, I would like to stay  but just not the Arab countries. 
+
+D08 And overall, how would you judge your experience in Germany over the last two years?	D08 Di du salan de jiyana te ya li Almanyayê çawa derbas bû?	D08 Und wie würden Sie Ihre Erfahrungen in Deutschland in den letzten zwei Jahren beurteilen?
+
+I: The years that you have been in Germany how was it, was it good? I mean the time that you have stayed in Germany how was it? Good? Bad? 
+
+R: We have good time here for two years.  And our children are also good here.
+
+D09 Can you explain your answer? Why do you feel this way?	D09 Tu dikarî bersiva xwe zelaltir bikî? Hûn çima wûsa hîs dikin?	D09 Können Sie Ihre Antwort erklären? Warum haben Sie dieses Gefühl?
+
+I: Can you give an answer to us. You said you had good time here. Can you give us and answer why you said so?
+
+ R: Why? Because there is no Isis here. That's the only reason. 
+
+D10 If you were to return to Iraq or the Kurdistan Region of Iraq, what are the main changes that are needed in order for you to feel safe?	D10 Heger hûn vegerin Irakê yan jî Herêma Kurdîstan, ji bona ewlehîya(jiyanek paristi) we çi cure guhartin hewce ye?	D10 Wenn Sie zurück in den Irak oder nach Kurdistan gehen würden, was müsste sich vor allem ändern, damit sie sich sicher fühlen könnten?
+
+I: If you return to Iraq one day or the Kurdistan region, what is needed for your protection, what is important so that you feel yourself fine there?
+
+R: We are not returning. Any place we can stay, we are not returning to Iraq to Kurdistan. We fled from Syria and went to Kurdistan. For five months they didn't give us even one Dinar. 
+
+
+
+
+
+
+
+JUSTICE AND ACCOUNTABILITY	EDALET Û BERPIRSIYARÎ	Gerechtigkeit und Verantwortlichkeit
+
+E00 Earlier we discussed about priorities. I have a few more questions relating to that topic.	E00 Berî em derheqê pêşikên te axivîn, ez ê derheqê vê de çend pirsên din jî bikim	E00 Wir diskutierten bereits zuvor über Prioritäten, ich hätte noch mehr Fragen zu diesem Thema
+
+I: We talked about what you want so far and now we have some other questions to ask you. 
+
+E01 What does justice mean to you?	E01 Gelo ji bo we edelet wê çi be?	E01 Was bedeutet Gerechtigkeit für Sie?
+
+The first question, what is justice for you?
+
+ R: We have seen all kinds of things, all kinds of vileness. It has been two years that we are here, I'm worried about my husband, my mother in law, sister in law, my husband . We just thank to God, these people they accomodated us, they brought us and we settled here. 
+
+E02 How much of a priority is it for you to have justice for what happened to you during the conflict with ISIS?	E02 Ji bona tiştên ku hatin serê we di dema şerê DAEŞê de bidestxistina edeletê ji we re çiqas girîng (muhim)e?	E02 Wie hoch ist die Priorität für Sie, Gerechtigkeit für das zu erhalten, was Ihnen während des Konflikts mit dem IS passiert ist?
+
+I: How much is it important for you, the things that Isis did to you return as a justice to you, how much is it important to you? 
+
+R: The things that they did us are a lot. But the important thing for me is my husband be alive in their hands and return. It is important that he escapes, he has been in captivity for three years.
+
+E03 How optimistic are you that you will ever get justice?	E03 Ji bona bidestxistina edeleta hûn çiqas gesh (positiv) (mutafael) in?	E03 Wie optimistisch sind Sie, dass Sie jemals Gerechtigkeit erhalten werden?
+
+I: Do you really believe that one day you'll get justice? Do you know what justice is? Justice, how do you say justice, murtefel?
+
+R: By God's name, sister we'II not get justice. We have nothing. The Yazidis have nothing. It has been three years. 
+
+I: Can you say, you'll never have justice? 
+
+R: God knows, I don't know it. What I think is justice(our right) is my husband has been three years in Isis, that the countries rescue him, this is justice. As far as my husband is in Isis in captivity, it means we haven't any justice.  The most important thing for me in the life is my husband can escape. 
+
+E04 And how important is it for you that the persons who committed or perpetrated violence against civilians during the conflict with ISIS are held accountable for their actions?	E04 bu te (ji tere) chiqes muhime goh daishe li seri we kiri, bikevin ber dari adalete?	E04 Und wie wichtig ist es für Sie, dass diejenigen, die für die Gewalt gegen Zivilisten während des Konflikts mit IS verantwortlich sind, für ihre Handlungen zur Rechenschaft gezogen werden?
+
+I: How important is it for you the ones who did these to you, the Isis be held responsible? 
+
+R: It is very very important.  It is so important that if now I could reach anyone from them I'd drink his blood. 
+
+I: Why? 
+
+R: They left nothing that they didn't to us. The abducted our girls, killed our men, our babies who were two months old, they throw them, killed them.  The flesh of the cildren of women, they brought in plates and told them to eat. The women said we are hungry, they cried,  and they took their children from them, killed them and put in a plate and told them to eat. -They left nothing that they didn't do to us, they did everything in the world to us. - They made the woman who was 70 years old to marry, they made seven years old girl to marry. -In Syria an Yazidi girl killed herself just not to be raped by an Isis man. So, she killed herself, she was dead. But they stiil raped her. Thousands of Yazidi women and girls killed themselves. Some hang themselves, some stabed themselves. I mean I saw all of these things . -Now here some social workers  say us , why can't you concentrate on the school, learn?. We can learn nothing. - We have been in Syria for eight months in a prison under the ground. We couldn't see the day or night or the wind.  All the time it was dark. But just some days for a little while there was little bit light and that was all. - We couldn't have bath, they gave food to us once a day, and sometimes they didn't even give that. I had two children with me and there were two women, each had one child with them. We were three women. We couldn't wash ourselves, all our hair fell down.  We didn't have bath for eight months. We were in that prison under the ground. - Just sometimes the Isis took our children with themselves for one hour and then they brought them back. - Sister you have seen all our talks on the internet, our voice has spread to all the world but no one XXX. They would tie 25 women and girls with chains and took to the market. They sold them very cheap.  They sold with the price of a pair of shoes. They would say to an Isis man ''buy a pair of shoes for us and take a girl for yourself".  They sold some girls and women of us, the Yazidis, to fifty men.  Sometimes for one hour they would give to someone, some days  another man would come and take her for half an hour. Sister, if I tell to you the things until next year today, the things I'm going to say will not finish. - If a women like me were very tired of the situation and broke the windows and fought with them  to escape, if they said let them kill us we want to escape, they would broke her leg or her hand. They would shot her leg and tell her now flee if you can. Now, three places in may head is broken. I and my two children, one of them 14 years old and the other 8 years old, we tried to flee, they caught us and they hit us. With his gun he hit me and broke this part of my head. 
+
+I: Did they hit the children also?
+
+R: No, not the small one but they hit the old one. - Here I don't have my husband, some other people from the community they have husband, so they go outside to the city, but I don't my husband here. And I'll stay here as far as the social works help. I don't know anything, also don't know language. - Sister they captured us for one year. I haven't got any part of me that is healty. I don't have ideas/thoughts. I have headache. I have pain in my legs. Eight months in Syria there was no place to walk.
+
+I: We will talk about your medical problems later also.
+
+E05 Can you explain why you answered this way?	E05 Gelo hûn dikarin bibêjin we çima wûsa bersiv da?	E05 Können Sie erklären, warum Sie es so beantwortet haben?
+
+
+
+E06 Who should be held accountable?	E06 ki mostahaqiyi oqubeteye?	E06 Wer sollte zur Rechenschaft gezogen werden?
+
+I: Who do you think should be punished because of this, who is responsible?
+
+R: I think those who caused these should be held responsible. Who caused Yazidi and muslim fight, I wish both of their eyes be taken out. I don't know who they are. The Yazidis are poor people. The Yazidis never fight or attacts other people. Now if we Yazidi bring some muslims to our religion by force, what will that person get from my religion. Doing something by force is not helpful. -And the Muslims wanted to convert the Yazidis into Islam by force. -Then God created world He created every religion differently. The religion of Muslims is different, of Yazidis is different, of Christians is different.  When God created world He created their customs/ceremony accordingly. -We are Yazidis. They even had gun in their hands and told us to convert, we said no kill us. -They killed 500 men from the Kocho village, because they said we are Yazidi and we will not convert to another religion. 
+
+E07 And how should they be held accountable?	E07 çawa?	E07 Und wie sollten sie verantwortlich gemacht werden?
+
+
+
+E08 Are you aware of any current efforts to bring to justice those responsible for the violence?	E08 hun zanin naha ki pirsiyere haqi we dike?	E08 Wissen Sie von aktuellen Bemühungen diejenigen zur Rechenschaft zu ziehen, die für die Gewalt verantwortlich sind?
+
+
+
+E09 If yes, which ones?	E09 Heger cewaba we erê be, kîjan in?	E09 Falls ja, von welchen?
+
+
+
+E10 Is it possible to forgive those responsible for the violence?	E10 win dikarin wen zalime afubikin?	E10 Ist es möglich, denjenigen zu vergeben, die für die Gewalt verantwortlich sind?
+
+I: Do you think you can forgive those people who are responsible?
+
+R: No, I can never forgive. I can not forgive by God not just by people. 
+
+ 
+
+E11 If no, what should happen before you can forgive?	E11 Ger te got na, gerek che bibe goh tu bikare wen afubiki?	E11 Wenn nein, was muss passieren, bevor Sie vergeben können?
+
+I: You said you can not forgive them, so what would happen so that you can forgive them? I mean if what happens then you can say ok I forgave so many things. 
+
+R: Nothing. I will never forgive whatever happens. They did everything to us. They killed our men, we said ok let them kill but they raped the girl who were seven years old. Now if they brought our men, who are in captivity, we would still not forgive them after that thing they did(raping), the Yazidi women and girls lost their honour.
+
+I: Do you know there are someone who are trying to bring justice? Have you heard about that? 
+
+R: We, Yazidi don't have rights.Noone stands for the Yazidis. If we had someone who supports us, we have been the Kocho village for thirteen days, they would send two airplanes to help them escape. No one came to help  us. I have seen on the television Baba Şeyhk was crying, he said some planes at least should go to the Kocho village. 1700 people were there captured. They made our voice be heard by the world but no one to help. We stayed in Kochop for 13 days and after that 60 vehiches of Isis surrounded the Kocho village and they separated our men, and put the women, girls and children to the school, and they took the men towards mountain we heard their guns.-They killed all men. They put the women and girls to the school of Kocho. After they killed men then they separated the girls and women. They put all us into vehicles and brought us to Sinjar. They took 80 old women to a house away from us and they shot them all. -After they killed our mothers, the old women, they put the girls on the vehicles and took them to Mosul. -They women of my age and children, they brought to Talafar to a prison. -Later they took our children who were 13-14 years old to another place. -So after taking the girls and our children, who were 13-14, the Isis men would come to the Talafar prison every day and they would take the beautiful  women even if they had were married and had a child. After they took the women with one child now they would come and take the women with two child. - And the women of my age, we stayed for 4 months in Talafar in prison and then they took us to Syria. We stayed for eight months in prison in Syria. In Syria a woman from Holland bought me with my three children and she wanted me to be her butler. We went to her house. I was in her house and I went to market with my children and buy something and then from there we ran away. -When we ran away I took the phone numbers with me, the number of my husband, of the community of the village, so when they took us to Syria we went to the net, the phone in underground, (internet cafe?), I phone Iraq and said we are here in Syria and they sent soldiers and they saved us. - They checked us but they didn't know that we have numbers with us. We sewed the numbers to the children's hat. 
+
+BREAK
+
+R: So sister, you are the Yazidi of where?
+
+I: I'm Yazidi from Turkey.
+
+R: You are welcome
+
+I:Thank you.
+
+R: I stayed one day in Turkey when I escaped from the Isis. In the night. Without shoes. 
+
+I: Were you with your children? 
+
+R: No, only one of the children. There were two men, fighters, in Turkey, Ypg. I was with another woman. She had a daughter. When that woman (The Dutch woman) took us to her home, they took my son and they told him to read Quran but later he escaped. 
+
+R: Are you married? (To the interpretor)
+
+I: No
+
+R: How old are you?
+
+I: 30
+
+R: Why don't you marry?
+
+I: Because I'm studying and I'm very busy. And now to marry is up to you.
+
+R: In Iraq it was the same, not like the European countries. I mean men were the ones who took the decisions not the women. In Germany the women can decide. 
+
+I: Now shall we go on?
+
+R: Ok.
+
+I: We have a lot of questions, that's why we should go on.
+
+R: Ok. no problem.
+
+E12 I have a few more questions related to this topic.	E12 naha hin pirsiyame heye	E12 Ich habe ein paar Fragen im Zusammenhang mit diesem Thema
+
+
+
+E13 How important is it for you to know what happened during the conflict with ISIS?	E13 chiqas ji tere muhime tu  zanibi (bizani)  che biye(qawimiye) di shere daish de?	E13 Wie wichtig ist es für Sie persönlich zu wissen, was während des Konflikts mit dem IS passiert ist?
+
+I: How important is it for you to know what happens in the fight with Isis? 
+
+R: You mean what was the reason?
+
+I: I mean what to do with Isis?
+
+R: I'd cut their flesh with knife. 
+
+I: Is it very important for you?
+
+R: Yes, it is very very important. I mean chop them off in front of my eyes.
+
+
+
+E14 How important is it to you that the rest of the world knows about what happened during the conflict with ISIS?	E14 chiqas ji tere muhime xelik  zanibi (bizani)  che biye(qawimiye) di shere daish de?	E14 Und wie wichtig ist es Ihnen, dass der Rest der Welt erfährt, was während des Konflikts mit IS geschah?
+
+I: How important for you that all the world know about these things?
+
+R: It is also very important for me. 
+
+E15 And what about future generations? How important is it for them to know what happened during the conflict with ISIS?	E15 chiqas ji tere muhime zarok u neviye te  zanibi (bizani)  che biye(qawimiye) di shere daish de?	E15 Und was ist mit zukünftigen Generationen? Wie wichtig ist es für die zukünftige Generationen zu wissen, was während des Konflikts mit IS passiert ist?
+
+I: How important for you that your children and grandchildren know about what happened to you?
+
+R: My children were with me, they know all. 
+
+E16 Can you tell me why you answered this way about you, the world and future generations knowing about what has happened?	E16 chi qe ji tere muhime ji buna hemo insan zanibin che bu?	E16 Können Sie mir sagen, warum Sie so über sich, die Welt und zukünftigen Generationen geantwortet haben?
+
+I: Can you tell us how much important is it for you that all the people know about what happened to you, I mean all the world hear about it, why is it important, can you give answer?
+
+R: Why? Because the violence of the muslims was a very big violence, they made the women 70, 80 years old to marry. They beheaded children. Because of these things, it is essential that all the world know about what happeded, what the Isis did.
+
+E17 And what should be done to ensure that future generations know about what happened?	E17 che gereke (lazime) haye hamo zarok u naviye zanibin che bu?	E17 Und was sollte getan werden, um sicherzustellen, dass künftige Generationen wissen, was passiert ist?
+
+I: What is needed for our grandchildren and children know about this? 
+
+R: Every human who has honour  should learn about it, won't forget. We want this history never ever be forgotten. These things that we, the Yazidis experiences has never happened to anyone in the world . 
+
+E18 Have you heard of a truth commission?	E18 tu bare naha ta qat bisti bi (komisiyone rastiye)(lejnet edelete)?	E18 Haben Sie schon einmal von einer Wahrheitskommission gehört?
+
+ I: Have you heard about the truth commision? 
+
+R: What kind? 
+
+I: I would like to explain what the truth commision is. This truth commision investigated what the Isis did, what bad things they did, they will wrtie these things and after writing, they will give the grand court of the world, so as these people be punished. Have you heard about such a thing?
+
+R: We hope that these countries such as the USA, Germany will bring justice for us. I didn't hear anything else.
+
+E19 Truth Commissions investigate a pattern of crimes over a period of time, they are temporary and end with a report, and they are officially created by the government of the country. Do you think it is appropriate to have a truth commission for ISIS crimes?	E19 Komîsyonê rastîyê (lejnet edelete) li ser rojed pashi (bori) (maddi) fehse wen digrin chu kare e ne bash bi xelkero biye di waxteki u ew komisyona (committee) karixwe xeles dike w pishte dinifsine.Komîsyonê rastîyê bi navi hukmete welate che dibe.nirine te chiye ji bo komisiyonek e rastiye hebe ji daishre?	E19 Wahrheitskommissionen untersuchen vergangene Verbrechen über einen bestimmten Zeitraum. Sie arbeiten zeitlich begrenzt und schreiben am Ende einen Bericht. Sie werden offiziell durch den Staat (Regierung des Landes) gebildet. Denken Sie, dass es angemessen ist, eine Wahrheitskommission für IS-Verbrechen einzurichten?
+
+
+
+E20 In general, what do you think should be done for victims of ISIS?	E20 nirine te chiye, gerek(lazime) che bibe ji bo dehiyet (qorban) e daish?	E20 Im Allgemeinen, was denken Sie, was für die Opfer von IS getan werden sollte?
+
+I: Now, you are a victim of Isis, what kind of help should be given to you? What do you need?
+
+R: The thing that I need is my husband be rescued. That's the most important thing.
+
+I: Anything else important?
+
+R: The other thing is my children are young. So I expect them to help us, to accomodate us. My children are little girls. We want them to care about us, accomodate us. We want them to help us live here. Anyone who can give such a help God will help them also. -For example I have two daughters, two sons. My girls their ages are, one is 20 the other is 18. They would have married by now. As for the boys, they are young so they don't know anything. -Now,sister, I can count for example 40 families in the  village. No one from those families has come here yet. - For example my brother in law, he was older than my husband, they were 9 members, just his daughter who are 13 years old was able to come here from Kurdistan. So this girl has no place to go, that's why she needs help. I wish I didn't have my fingers, but I could grow that child as mine, that she could live together with us. And I want help from you so that that girl could come here, live with us. 
+
+
+
+E21 And what should be done specifically for the Yazidis?	E21 Û bi taybetî ji bo Ezidîya gereke (lazime) che bibe?	E21 Und was sollte speziell für die Jesiden getan werden?
+
+I: And especially for the Yazidis what should be done?
+
+R: The important thing is someone cares with/deals with the Yazidis. As my fathers has told us so far there has been 74 massacres of the Yazidis. We want to understand what is the reason that such a thing happens to the Yazidis. I mean the Yazidis don't do bad  things to anyone . We want to learn why this happens to the Yazidis. They are people who deals with their families only, they are poor people. 
+
+E22 And yourself, do you feel recognized as a victim?	E22 Gelo hûn xwe wekî qûrbanek dibinen?	E22 Und Sie, fühlen Sie sich als Opfer anerkannt?
+
+I: Do you see yourself as a victim? You were in Isis's hand. They did a lot. So do you see yourself as a victim?
+
+R: Yes, I see myself . We are poor. 
+
+I: How much do you see yourself as a victim?
+
+R: A lot. We haven't got anything.
+
+E23 Why do you feel that way?	E23 Hûn çima wiha (wilo) xwe dibinin?	E23 Warum haben Sie dieses Gefühl?
+
+
+
+
+
+
+
+PEACE	Aşitî	Frieden
+
+F00 Thinking about the situation in Iraq and how to move forward, I wanted to ask you a few questions.	F00 Bi nirxandina rewşa Iraqê û bi pesh chubun ez dixwazimhin pirsan bipirsim.	F00 Ich würde Ihnen jetzt noch ein paar Fragen zur Situation im Irak stellen und wie man diese Situation verbessern könnte.
+
+
+
+F01 In your opinion, is it possible to have a lasting peace in Iraq?	F01 Di fikra we de, li Iraqê aşitiyek direj mumkun e (e hebe)?	F01 Ist es Ihrer Meinung nach möglich, im Irak dauerhaften Frieden zu bewahren?
+
+I Do you think that there will be peace in Iraq?
+
+R: I don't believe. As far as there are muslims there won't be peace. Maybe for the muslims there will be peace but for the Yazidis there won't be a peace.
+
+F02 In your opinion, is it possible to have a lasting peace in the middle east region, across all countries?	F02 Û li  fikra we (nirine we), gelo li( sharq awsat)(dewlete araba) e aşitiyeke direj bibe , li her  welêtiki?”	F02 Und ist es Ihrer Meinung nach möglich, in allen Ländern des Nahen Ostens dauerhaften Frieden zu bewahren?"
+
+I: Do you think it is important that there will be peace in Iraq? I mean there won't be war?
+
+R: In all Arab countries there is war. As long as muslims exist there will be war.
+
+F03 What should be done to build lasting peace in Iraq?	F03 Ji bo  aşitiyak direj hebe li iraqe,gerek (lazim) che bibe?	F03 Was muss getan werden, um im Irak dauerhaften Frieden zu schaffen?
+
+I: What should be done so that the war in Iraq ends?
+
+R: I don't know. I don't know who does it.
+
+F04 How do you feel about the current military campaign against ISIS?	F04 Hûn bi che dihesin (hun chawa dikin)li hemberî kampanya (hecum) esker (leshker) diji daishe?	F04 Was denken Sie über die aktuelle militärische Kampagne gegen den IS?
+
+I: According to you the soldiers fighting with Isis are strong or not?
+
+R: I don't know
+
+F05 And what do you think should be done to protect Yazidis and other minorities in Iraq?	F05 Û  ji bona parastina Ezîdîya û miletin din li Iraqê gereke (lazim) chi bibe?	F05 Und was denken Sie, sollte getan werden, um die Jesiden und andere Minderheiten im Irak zu schützen?
+
+I: And for the protection of Yazidis and the other poeple in Iraq what should be done?
+
+R: I don't know.
+
+I: I mean what is important to be done in Iraq for the Yazidis so that the Yazidi community...
+
+R:Genocide is important. It is important that we don't have any genocides and have more rights.
+
+I: Any other thign important?
+
+R: It is important for us to learn why the muslims do this to the Yazidis. For example now five, ten or fiften Yazidi men won't catch a muslim girl and rape her. They would say she is innocent. God created their culture and customs differently. She is not from our religion. That's ok. -And those infidels, those muslims gave each Yazidi girl to seventy of their men, to one hundred men for half an hour, for one hour. - The most important the to learn and understand for us is why does this happens to the Yazidis.
+
+
+
+
+
+NARRATIVES AND MEMORIALIZATION	VEGOTIN Û PÎROZBAHÎ	Erzählungen und Mahnmale
+
+G00 We just discussed about truth and knowing what happened during the conflict. I have a few questions about your own experience of sharing what you lived through.	G00 wexte tu qisete xwe bi daishere ji miletere beji,ew milete e te jero guti che geweb dide te?G00 Wir diskutierten gerade über Wahrheit und wissen, was während des Konflikts passierte. Ich habe ein paar Fragen darüber, wie sie das erlebt haben, wenn Sie über Ihre Erfahrung berichtet haben.
+
+I: Now we asked you lots of questions, and now we want to learn when you were in the captivity of Isis what happened to you*
+
+R: All the story will not finish even if I tell for one year. 
+
+G01 Since you came to Germany, how often have you discussed with anyone your experiences during the conflict with ISIS?	G01 Ji dema ku hûn hatine Almanyayê, we çend caran tecribeyên xwe yên dema şerê DAEŞê bi kesan re denkriye (guhtiye)?	G01 Wie oft haben Sie seit Sie nach Deutschland gekommen sind mit jemandem über Ihre Erfahrungen während des Konflikts mit IS gesprochen?
+
+I: Since you have been in Germany how much/how many times did you talk about your experiences with Isis? Every day, once a day, once in a month, two times in a month?
+
+R: i didn't talk much. They wanted us to talk but I couldn't. Because our wound was fresh, so I didn't talk. - But now I want to talk because I want my voice be heard by all world. And believe me all the things that I'm talking about there is no lie. 
+
+I: So how much do you talk about your story now, very day , one a day? How often do you talk about your story?
+
+R: Day and night we talk about. I sit with my son we talk about it. I sit with my daughter, with my neighbour we talk about it. - It has been three yers we have been talking about it all the time.
+
+G02 Why do or did you discuss what happened to you?	G02 Hûn çima tiştan ku hate serê we pe dendikin (dibejin)(niqash dikin)?	G02 Warum möchten Sie nicht darüber sprechen, was mit Ihnen passiert ist?
+
+
+
+G03 Why do you never discuss what happened to you?	G03 çima hûn ticar tiştê ku hate serê we (nabejin,niqash nakin,dengnakin)	G03 Warum haben Sie nie darüber sprechen, was mit Ihnen passiert ist?
+
+
+
+G04 Who did you discuss your experience with? I will read some options to you and you can tell me which ones are people or groups you have spoken to.	G04 Hûn (chirok/tecrube) xwe bi kêre niqashdikin (dibejin) Ez ê niha ji we re hinek bijardeyan bixwînim û hûn jî ji me re bibejin ku hûn bikêre û bi kîjan grûban  niqashdikin (dengdikin)	G04 Mit wem sprechen Sie über Ihre Erfahrungen? Ich lese Ihnen eine Auswahl vor und Sie können mir sagen, mit welchen Personen oder Gruppen Sie gesprochen haben.
+
+I: Now, I will tell some people and you will tell me if you talked to them or not. You understand? She will tell you now and you will tell her if you talked to these people or not aunty.  Did you talk to a canselor, a doctor?
+
+R: Yes, two times. 
+
+I. To your responsible?
+
+R: Not much. They didn't tell us, didn't ask for it.
+
+
+
+G05 If other, please specify	G05 heger gutinek din heye,xere xwe beje	G05 Falls weitere Personen oder Gruppen, bitte benennen Sie diese.
+
+
+
+G06 If media, what kind of media outlet was it, for example radio, TV or newspaper?	G06 [Heger Medyaye] kijan bû,  (misal) radyo, TV yan ceride bu?	G06 [Falls Medien] Welche Art von Medium war es, z. B. Radio, Fernsehen oder Zeitung?
+
+I: Television and media?
+
+R: Yes, Tv. it is in German, can you understand?
+
+I: Yes .
+
+(She is showing a video, in that she talked to the media.)
+
+R: This is my son.
+
+IF LAWYER	Heger parêzer be	Falls Rechtsanwalt
+
+G07 If you spoke to a lawyer, was it a German lawyer or an international lawyer?	G07 [Heger parêzer be](muhami) Heger we bi parêzere we axaftin kiribe(denkirbe), ew parêzerek Alman bû yan jî navnetewî (alami/ international) bû?	G07 Sofern Sie mit einem Anwalt gesprochen haben, war es ein deutscher oder ein internationaler Rechtsanwalt?
+
+I: Did you talk to a lawyer?
+
+R: A woman came. She also said she's Yazidi, she was of your age.  There were two or three people with her. She had a camera. 
+
+I: The lawyer that you talked was he/she from Germany?
+
+R: Yes.
+
+G07.1 If other, please specify	G07.1 heger gutinek din heye,xere xwe beje	G07.1 Falls andere, bitte nennen Sie diese.
+
+
+
+G08 If you spoke to a lawyer, did they approach you or did you approach them?	G08 Heger we bi parêzerekê re axaftin çêkiribe, gelo ew hat jem we  yan  hûn chun jem ?	G08 Sofern Sie mit einem Anwalt gesprochen haben, haben Sie ihn/sie oder wurden Sie angesprochen?
+
+I :Did the lawyer approach to you or you approached to them?
+
+R: When?
+
+I: The lawyer
+
+R:I didn't go to the lawyer. 
+
+I: Did they approach you?
+
+R: Hmm, No, I didn't see lawyer.
+
+I: But that girl you said came, sou said she was Yazidi, lawyer. 
+
+R: Haa, yes ok they came here, with a man. No they approached me. they came here and then we went outside. 
+
+G09 Do you feel you understand what will happen to the information you shared with the lawyer?	G09 Hûn hîs dikin ku hûn fahm dikin ku dê çi bibe bi agahîyêne e we guti bi parêzere ?	G09 Haben Sie das Gefühl, zu verstehen, was mit den Informationen geschehen wird, die Sie dem Anwalt gegeben haben?
+
+I: The information that you gave them, do you think that they understood your story?
+
+R: I don't know. I just told them my story.
+
+G10 Have you received any communications from the lawyer since you spoke with them?	G10 Ji dema ku we bi wan re xeber da, we ti ragihandin (ceweb) ji parêzeran girt?	G10 Haben Sie vom Anwalt irgendwelche Mitteilungen erhalten, seit Sie mit ihm/ihr gesprochen haben?
+
+I: Did you receive any answer or letter or anything from the lawyers?
+
+R: He/she gave us their number.  He said we will drink a tea together, I said ok. When we came Germany my husband was in captivity in Syria, so we didn't want to be seen in the camera... My son, who was 14 years old when we did the video, was still in Syria and he said I watched your video on Facebook in Syria,  so I said to that woman to that lawyer,  I said it is not good that you put my picture on facebook because my son can get harm. She broadcasted.  She broadcasted us and I got angry to her. I cut her telephone, I said it is not good that you broadcast/spread our videos. You could write what we said but you shouldn't have put our videos. You put on facebook so now our photos spread all around the world. My son who was in captivity in Syria said he saw our videos on facebook and we didn't want any harm be on my son so I cut her telephone, I said that's enough. I said you broadcasted our face, we don't want that. I said ok you can write what I say, that's ok my words spread all around the world but not photos/videos. 
+
+IF POLICE	[Heger shirteye)	Falls Polizei
+
+G11 If you spoke to the police, did they approach you or did you approach them?	G11 [Heger shirteye) Heger we bi sherte re axaftin kiribe, ew hatin cem we le win chun cem wan ?	G11 [Im Fall von Polizei] Sofern Sie mit der Polizei gesprochen haben, haben Sie sie oder wurden Sie angesprochen?
+
+I: And did you speak to a police?
+
+R: No, they didn't ask for that.
+
+G12 Do you feel you understand what will happen to the information you shared with the police?	G12  hûn fahm dikin ku dê çi bibe bi ifedete  te bi shertede deyi ?	G12 Haben Sie das Gefühl, zu verstehen, was mit den Informationen geschehen wird, die Sie der Polizei gegeben haben?
+
+
+
+G13 Have you received any communications from the police since you spoke with them?	G13 Ji dema ku we bi wan re xeber da, we ti ragihandin (ceweb) ji sherte girt?	G13 Haben Sie von der Polizei irgendwelche Mitteilungen erhalten, seit Sie mit ihr gesprochen haben?
+
+
+
+G14 And since you came to Germany, how often have you written about your experiences during the conflict with ISIS, for example on Facebook, twitter, in letters or in a book?	G14 Ji dema ku hûn hatine Almanyayê, we çiqasî di derheqê tecrubeyên (qiset) xwe yên dema şerê DAEŞê li ser facebook, twitter, nameyan yan jî di kitab de nivîsî?	G14 Und seit Sie nach Deutschland gekommen sind, wie oft haben Sie über Ihre Erfahrungen während des Konflikts mit IS -- zum Beispiel auf Facebook, Twitter, in Briefen oder in einem Buch -- geschrieben ?
+
+I:Did you write your story on social media, facebook, newspaper or..?
+
+R: No. I didn't but one of my friend while we were in Syria in prison my friend wrote my and her story on facebook. I don't know how to use facebook. If I knew I would write.
+
+G15 Why do you write about what happened to you?	G15 çima hûn behsa çi hatiye serê we dikin?	G15 Warum schreiben Sie darüber, was Ihnen passier istt?
+
+
+
+G16 Where did you write about your experience? I will read some options to you and you can tell me which ones are places where you have written.	G16 We li ku derê tecrubeyên xwe ( qiset) nivîsî? Ez ê niha ji we re hinek bijardeyan bixwînim û hûn jî ji me re bibejin ku hûn bikêre û bi kîjan grûban re yazikir (nivisend)?	G16 Wo haben Sie über Ihre Erfahrungen geschrieben? Ich lese Ihnen eine Auswahl vor und Sie können mir sagen, wo sie darüber geschrieben haben.
+
+
+
+G17 If other, please specify	G17 heger gutinek din heye,xere xwe beje	G17 Falls andere, bitte nennen Sie diese.
+
+
+
+G18 And since you came to Germany, how often have you yourself sought information about what is happening in Iraq with the conflict with ISIS?	G18 Ji dema ku hûn hatine Almanyayê, hûn çiqas li agahîyên(malumet) ku di şerê DAEŞê de çi bûye digerin?	G18 Und seit Sie nach Deutschland gekommen sind, wie oft haben Sie sich über die Ereignisse im Irak mit dem Konflikt mit IS informiert?
+
+	I: Since you came Germany, how much / how often have you sought the information on Isis? News, do you know what news is?
+
+R: We didn't know the news. You know sister we didn't have any news. We were in prison underground for eight months, so we couldn't see anybody.  The young girls would travel. They would know abourt Isis, bring information. But the women like me didn't know any information. We knew what is going on with us but didn't know information about them , we didn't travel in their city, but the girls travelled, They took the girls from Raqqa to Tebqa, from there to Tal Abyad. We can only know about what happened to us. 
+
+I: And now, can you get any information/news on Tv?
+
+R: We have been here for two years but we don't have a television so we can't get any information. We want to have information but we don't have Tv or anything. Sometimes I speak to people from Iraq to ask them what happens. The things like what is going on with the Isis, where are they, how is it going...
+
+G19 Why do you seek information (or why not)?	G19 Hûn çima li agahîyan (malumet) digerin (yan nagerin)?	G19 Warum suchst du Informationen (oder warum nicht)?
+
+
+
+G20 Where do you seek information?	G20 Hûn agahîyan (malumet) li ku derê digerin?	G20 Wo informieren Sie sich?
+
+
+
+G21 If other, please specify	G21 heger gutinek din heye,xere xwe beje	G21 Falls andere, bitte nennen Sie diese.
+
+
+
+G22 And how do you and other members of the Yazidi community communicate with each other about different issues? I will read you a list of common forms of communication; as I name them, can you tell me whether or not you use each one?	G22 hûn û  malbata Êzîdîyan çawa têdikevin nav ragihandinê (bi hevre didin u distinin)? Ez ê ji we re hin cûreyên (extiyer)ragihandinê bixwînim; dema ku ez wan binavbikim, hûn dikarin ji min re bibêjin hûn kîjani bikartînin(estemaldikin) yan na	G22 Und wie kommunizieren Sie und andere Mitglieder der jesidischen Gemeinschaft miteinander über verschiedene Themen? Ich lese Ihnen eine Liste der häufigsten Formen der Kommunikation vor. Wenn ich sie nenne, können Sie mir sagen, ob Sie diese jeweils verwenden?
+
+I: You and the Yazidi community how can you communicate? On whatsapp?
+
+R: The Yazidi community in Iraq or in somewhere else?
+
+I: Wherever, it doesn't matter. How can you communicate?
+
+R: Whatsapp.
+
+I: Sms?
+
+R: No, voice messages.
+
+I: Telephone?
+
+R: No
+
+I: Faacebook?
+
+R: No, I don't have facebok.
+
+I: Radio?
+
+R: No, just whatsapp.
+
+I: Tv?
+
+R: No
+
+I: Newspaper?
+
+R: No
+
+G23 If other, please specify	G23 heger gutinek din heye,xere xwe beje	G23 Falls andere, bitte nennen Sie diese.
+
+
+
+
+
+
+
+
+
+TRAUMA	TRAÛMA	TRAUMA
+
+H00 For the last part of this interview, I would like to ask you some questions about how your experience of violence during the conflict with ISIS affects your everyday life today. I understand you have been through a lot and I also want to remind you that you don't have to talk about anything unless you feel comfortable sharing it. You can stop this interview at any time or just tell me if you don't want to answer any question.	H00 ji bu persiyane e teliye ez dixwazim pirsne din ji te pirsbikim,wexte tu di desti daish de bu,tecrube nebashbune (enef) wen bi tero chubu? Jiyane te chu bedili (gewri)	H00 Für den letzten Teil des Interviews möchte ich Ihnen einige Fragen dazu stellen, wie sich Ihre Gewalterfahrungen während des IS-Konflikts heute auf Ihren Alltag auswirken. Ich verstehe, dass Sie viel durchgemacht haben, und ich möchte Sie daran erinnern, dass Sie nicht über alles reden müssen, es sei denn, Sie fühlen sich damit wohl. Bitte sagen Sie mir jederzeit, wenn Sie das Interview beenden möchten, und wenn es irgendwelche Fragen gibt, die Sie lieber nicht beantworten.
+
+
+
+R: It would be very hard for me, but I'm going to talk.
+
+VIOL1 What can you tell us about the time you spent in captivity with ISIS?	VIOL1 Hûn dikarin ji bo dema ku hûn di destê DAEŞê de bûn çi bibêjin?	VIOL1 Was können Sie uns über die Zeit sagen, die Sie in IS-Gefangenschaft verbracht haben?
+
+I: Can you tell us your story in the time you were in captivity of Isis.
+
+R: Yes, I can tell. As I said you before my story will not end even if I tell it for a year.
+
+I: You can tell as much as you want. After that we will talk about your health aunty.
+
+R: My story, they caught us. They took us to Tal afar, we stayed in Tal Afar for four months. We had hard times. In the prison of Tal Afar, believe God, we didn't have a water to drink. We didn't have water, food, we couldn't have shower. they would hit us. They took girls for themselves, they took beautiful girls for themselves. We performed the namaz. - They didn't give us enough food. We couldn' have shower, they didn't give us food to eat, and water to drink. They hit us. They swore us They threatened us with their guns that they would kill us. They took our children. they kiiled our men. They killed our mothers in front of our eyes. Thye took our girls. They did everything. -There was a child of five or six years old there from our community, someone we know from our village, their daughter who was 6 years old, 6 or 5 probably she wasn't 6 yet, she cried, in Syria, because she had nothing to eat. - The girl's mother called them (Isis) and said "my daughter is hungry, so give her some food". They said ok your daughter is hungry, we'll give her something. They took the girl, hanged her and the girl was dead and they said to her mother " ok now come take your daughter".  In eight months they would just give us some dry/hard bread to eat, we had many many hard times. -My son was eight year old. Before they took my other son, my old son was also with me, they took my old son later . My younger son woke up in midnight, he was crying. I said "why are you crying", he said "I'm hungry".  He said "I'm hungry mother, I'm hungry". I said "but we don't have anything ". He said "go and bring just a little bit bread". - Sometimes we took some bread without their permission. They door was sometimes open. I would go to the kitchen, I would take a little bit bread and hide and would bring for my son. The Isis man would catch my arm and say "what do you have hiding there?" and he would hit me. - The women gave birth to children there, the Yazidi women. When we ran away they were pregnant, so they gave birth to children in Syria. They didn't have anything to eat. - They throw the babies. There was no milk to drink so they took the babies they said the milk is expensive to buy. Because the babies' mothers didn't eat anything they didn't have milk to breastfeed the babies. And they didn't but the milk from markets saying they didn't have money. So, they took the babies and throw away. 
+
+I: Who throw the children?
+
+R: Isis. - Our children ate toohpaste because they didn't have anything else to eat. - My story doesn't end because there is so much. - Until now our girls are still in ther hands. They killed our men, that's ok but I if only they didn't take our girls. They took our chilren.
+
+I: Shall we stop or you can continue talking?
+
+R: My story is long, so it doesn't end in a year. - In eight months I was in a small room like this. We were seven people there. It was very small, one and half meter wide and three meters long. -We were seven people. A baby. Three women and the children. - So when they kept us there, we thought they are going to marry us too, we had some papers from Iraq we said we had illnesses and pain and so they put us in a prison in the basement. 
+
+I: The women that they married was the one in the prison with you?
+
+R: Yes, she was. And she had a baby boy also. No she was ill also so they didn't marry her. - I have a lot to tell. 
+
+VIOL2 How long did you spend in captivity?	VIOL2 Hûn çiqas di destê DAEŞê de man?	VIOL2 Wie lange haben Sie in Gefangenschaft verbracht?
+
+
+
+VIOL3 What about your escape, would you like to share any information about  your escape?	VIOL3 Reva we (baze we), hûn dixwazin behsa reva xwe (baz dene xwe) bikin?	VIOL3 Möchten Sie uns etwas über Ihre Flucht erzählen?
+
+
+
+H01 How has your experience of violence by ISIS affected your current health related well-being?	H01 chiqes pisbune daishe  (  ser sehete we) (saxbuna we) bedilend?	H01 Wie haben sich Ihre Erfahrungen mit Gewalt durch IS auf Ihren Gesundheitszustand ausgewirkt?
+
+I: The experience you had in prison, the violence, do you still have some pain because of that? 
+
+R: Yes, I have a lot. 
+
+I: The experience you had in prison how much affacet your health?
+
+R: A lot. 
+
+H02 How much does the ISIS-violence you experienced affect your current health-related well-being?	H02 Gelo ev şîddeta DAÎŞê  chu saxbuna we bedilend?	H02 Wie sehr wirkt sich die erlebte IS-Gewalt auf Ihren Gesundheitszustand aus?
+
+
+
+H03 How much are you suffering from the following symptoms as an effect of the ISIS violence you experienced?	H03 kengi ji van ekhtiyerne derdi we dibije u chiqes derd mekine?	H03 Wie sehr leiden Sie unter den folgenden Symptomen als Folge der erlebten IS-Gewalt:
+
+I: Now we will talk about some ilnesses/pain and you'll tell us how much you suffer from them. 
+
+H04 Pain	H04 Êş (eshek)	H04 Schmerz
+
+I: Pain, pain of your body? How much, you have a lot? 
+
+R: Yes, a lot. Extremelly much.
+
+H05 Parasthesia of the skin or body (e.g. abnormal sensations such as tingling, prickling, numbness, or burning of the skin with no apparent physical cause)	H05 hesesiyet lasha (govd),taviziyen	H05 Missempfindung der Haut oder des Körpers (Kribbeln, Taubheitsgefühle ohne körperliche Ursache)
+
+I: Sometimes you have numbness in your hands, numbness in your feet. Which part of your body have pain?  Do you feel? Is it a lot or a little?
+
+R: Yes, I have a lot of pain. Sometimes I feel like someone stick a needle in my body. - Now I take some medicine here for two years, or I wouldn't get better. 
+
+H06 Movement disorder (e.g. walking or coordination difficulties)	H06 Nexweşîya Livindanê (misal. Tu dikeri bi dest w linge xwe bimeshi u rabi u runi)	H06 Bewegunsstörungen (z.B. Gangstörung, Koordinationsstörung)
+
+I: Is it difficult for you to walk, to stand up to sit? Is there any pain when you do these?
+
+R: Yes, All the things are difficult for me. Walking, sitting, talking, I mean everything is difficult for me. But for my children I bear the pain little bit.
+
+I: How much?  It is very difficult for you?
+
+R:  Yes, very very much. 
+
+H07 Dissociative seizures (i.e. losing consciousness or fainting without physical cause or sudden involuntary muscle contractions or trembling)	H07 be fehse taxtora dista du behs be  herzin/dejerfen	H07 Dissoziative (Krampf-) Anfälle (z.B. Ohnmacht ohne körperliche Ursache / Zittern / unwillkürliche Muskelkontraktionen)
+
+I: Sometimes you feel fainting?
+
+R: No, I don't feel so. But sometimes I feel like they stick some needles in my body but I don't feel fainting.
+
+H08 Functional limitations (e.g. blurred vision, hearing impairments, smelling disorder)	H08 tu hes deke misal debsi, dibne, bindki	H08 Funktionseinschränkungen (z.B. Seh-, Hör-, oder Riechstörungen)
+
+I: Can you see well or you don't smell something well, can you hear well?
+
+R: I cried so much so I have pain in my eyes. 
+
+I: How much?
+
+R: A lot.
+
+H09 Feeling of suffocation (e.g. shortness of breath, difficulty breathing)	H09 bena(nafs) ta tang debe	H09 Erstickungsgefühle (z.B. Schwierigkeiten zu Atmen)
+
+I: Sometimes do you feel depressed?
+
+R: Yes, a lot. I got angry to my children. I do that because I feel depressed. I get some pills then I feel ok. - When I feel so, my children step on my legs, step on my hands until I feel beter. So they to that to all my body and then after about an hour I feel ok.
+
+H10 Dizziness (e.g. sensation of spinning around or losing balance)	H10 gejbun (bidewxe) : wexte  wekî dinya li dora we digere	H10 Schwindel (z.B. Gleichgewicht verlieren)
+
+I: Sometimes do you feel dissiness? Like losing your balance?
+
+R: No, I don't feel so. - Sometimes I get tired of myself so much that I don't know what to do. 
+
+H11 Heart complaints (e.g. palpitations, fast heartbeats)	H11 dle ta deshe	H11 Herzbeschwerden (z.B. Herzrasen)
+
+I: How about your heart? 
+
+R: Thanks God my heart is ok. But I have shortness of breath. - I'm tired of myself, I feel depressed.
+
+H12 Gastrointestinal disorders (e.g. stomach-aches, diarrhea, nausea)	H12 maade ta(mida ta) deshe misal verek,varshe, zek eshek	H12 Magen-Darmbeschwerden (z.B. Durchfall, Übelkeit, Bauchschmerzen)
+
+I: Do you have diarrhea or stomach ache, or do you throw up?
+
+R: No, I don't. But just I feel depressed and my eyes and my ears. Not my stomach and I don't vomit. 
+
+H13 Do you have any other symptoms?	H13 li jem te sebebin din hene (araad)?	H13 Haben Sie weitere Symptome?
+
+Group	Group	
+
+
+
+H14 Other symptoms, please specify one here	H14 Heger tiştekî din hebe, hûn bibêjin	H14 Andere Symptome, bitte beschreiben Sie diese
+
+
+
+H15 How much are you suffering from the symptom you just mentioned?	H15 Heger tu pirsgirêkên we hebin, Hûn wana çiqas bi êş dijîn?	H15 Falls Sie an weiteren Beschwerden leiden, wie stark leiden Sie darunter?
+
+
+
+H16 Other symptoms, please specify another here	H16 heger sebebin din hene xwere xwe beje chine?	H16 Falls weitere Symptome, bitte beschreiben Sie weitere
+
+
+
+H17 How much are you suffering from the second symptom you just mentioned, if any?	H17 chiqes tu ji we sebebe dishe? Heger heye?	H17 Wie sehr leiden Sie unter dem zweiten Symtom, das Sie genannt haben?
+
+
+
+
+
+H18 How do you explain these effects of the ISIS violence on your health?	H18  Hûn van tiştên şîddeta DAÎŞê li ser xwe (sehet) (saxbun) çawa dibînin?	H18 Wie erklären Sie sich diese Auswirkungen der IS-Gewalt auf Ihre Gesundheit?
+
+I: Can you tell us your experience with Isis, how much did it affect you?
+
+R: A lot. Very much. 
+
+I: Can you tell us, how do you evaluate the things Isis did to you, the experience?
+
+R: I see them as extremelly hard. They didn't leave anything else bad that they didn't do, nothing else bad, we did everything. - They children drank their pee. It happened right before my eyes. Is there anything bigger/worse than this? No, there isn't. - I mean there is nothing else in the world that is bad that they didn't do. 
+
+H19 How important are the following concepts for you in explaining the effects of the ISIS violence on your health:	H19 chiqas je tara muhme ev xiarate eze neha bejem, na bushbuna Daesh chiqas le sar saxbuna ta tasir kir?	H19 Wie wichtig sind die folgenden Konzepte für Sie, um sich die Auswirkungen der IS-Gewalt auf Ihre Gesundheit zu erklären?
+
+I: Now we are going to tell you something aunty and you need to say how these things are important for your health. The effects after the experience with Isis, we will tell you some and you will say this is important and this is not important. 
+
+R: ok
+
+H20 Psychological causes (i.e. reaction of your mind or psyche to the ISIS violence)	H20  Sabebe nafsi misal( rad fel)	H20 Psychologische Ursachen (z.B. psychische Reaktion auf IS-Gewalt)
+
+I: Your psychology became bad? 
+
+R: Yes it did.
+
+I: How much?
+
+R: A lot.
+
+H21 Physical causes (i.e. reaction of your body to ISIS violence or physical stress reaction)	H21 lashe ta, misal  (rad fel) tafzi, eshek, asbi	H21 Physische Prozesse (z.B. körperliche Reaktionen, auf IS-Gewalt oder physische Stressreaktion)
+
+I: Your body? Not just your psychology, your body also is bad?
+
+R: Not any part of me is well. 
+
+H22 Supernatural influences (e.g. negative forces as the cause for symptoms)	H22 teshte na bash(misal, shedete(kwet) salbi)	H22 Übernatürliche Einflüsse (z.B. böse Kräfte als Ursache der Symptome)
+
+ 
+
+H23 Religious causes (e.g. punishment of God for sins)	H23 jezaye xode je ber gunaha	H23 religiöse Ursachen (z.B. Bestrafung durch Gott für Sünden)
+
+I: You think this was something by God?
+
+R: I don't know. It was neither by God nor by human. 
+
+H24 How does the violence you experienced affect your relationship with other people?	H24 pisbune (nebashbune)daishe ji ware chu tesire peywandiye  navbera we u milete kiri?	H24 Wie wirkt sich die Gewalt, die Sie erlebten, auf Ihre Beziehungen mit anderen Menschen aus?
+
+I: After this experience did you changed, your relationship changed?
+
+R: Yes, the relationship of all of us changed. I'm short of perception. For example I put something there and then I look for it for one hour to find it. I put salt instead of sugar into my tea. I can't think properly. All my body has pain. I lost my concentration.  - I always think of my children and my husband, nothing else.  
+
+H25 How does your experience of violence by ISIS affect your daily life in the Yazidi community?	H25 nav melate ezidya ev teshte geh hate sare ta, cawa tasire xa le sar roj ta haye?	H25 Und wie wirkt sich diese Erfahrung auf Ihren Alltag in der Gemeinschaft der Jesiden aus?
+
+I:The things you experienced how does the Yazidi community accept it?
+
+R: The Yazidi has nothing to do, they can't do anything. - Just Viyan Dahil and Baba Şeyhk they called the other countries for help but no country came for help. The Yazidi can't do anything. They are very weak now. 
+
+H26 If you feel excluded from the Yazidi community, how much do you feel that exclusion?	H26 Heger tu ji cemaata êzidîyan hatibi dûrxistin, tu vî dûrxistina çawa dibinî?	H26 Falls Sie sich von der jesidischen Gemeinschaft ausgeschlossen fühlen, wie stark fühlen Sie diese Ausgrenzung?
+
+I: Does the Yazidi communty accept you, the ones in the hands of Isis or they don't accept you?
+
+R: They accept us. They show us utmost respect.
+
+H27 How did your experience of violence by ISIS affect your faith?	H27 pisbune (nebashbune) daishe ji ware chu tesirkir ser imane (bawari) we?	H27 Wie beeinflusste die erlebte IS-Gewalt Ihren Glauben?
+
+I: The experience with Isis, did it change your faith? Did it make it stronger or?
+
+R:I'm on my faith until I die. I will not quit my religion. My religion is very important for me. As long as I can move and I can speak I will not quit my religion. - Now that our men were killed because they stayed on their religion, I will stay on my religion and they can kill me also. I'm proud that I'm on my religion and that I believe in God and Tawusi Melek. 
+
+H28 How strongly did your experience of violence by ISIS affect your yazidi faith?	H28 pisbune (nebashbune) daishe ji ware chu tesir imane (bawari)  we ji bo diyanet yizidi?	H28 Wie stark beeinflusste die IS-Gewalt Ihren jesidischen Glauben?
+
+I: The experience with Isis affect your faith? Do you feel your faith stronger or?
+
+R: Yes, my faith became stronger. I'm very proud of my religion. 
+
+H29 How do you cope with the effects you have described from the ISIS violence?	H29 Gelo tu çawa li ber van tiştên ku te behs kir didî?	H29 Wie können Sie die Auswirkungen der eben beschriebenen IS-Gewalt bewältigen?
+
+I: How do you cope with all the things you experienced. There are lots of thing happened, how do you cope with?
+
+R: I have to cope with because of my children.
+
+H30 What can you do for symptom relief?	H30  çi karî tu bikî ji bona rehetbûna xwe (nishan)?	H30 Was können Sie zur Linderung der Symptome tun?
+
+I: When you feel well because of these things, what do you do to relieve?
+
+R: I believe in God, I do nothing else. I feel little bit relieved thanks to my children. We are here, so I spend my time in school, in the market. I spend my time, God can help.
+
+H31 How much do the following strategies help you cope with the effects of the ISIS violence?	H31 Ev stratejîyên jêr çiqas alikarîya bi tere kir li ber pisbune (nabashbune) şîddeta DSÎŞê :	H31 Wie sehr helfen Ihnen die folgenden Strategien die Auswirkungen der IS-Gewalt zu bewältigen?
+
+I: Now we are going to tell something and you will say if they help you so that you cope with your experiences/troubles? A lot, a little, how much? So we will read and you will say if they help you so that you forget your troubles.
+
+H32 Believe in collective strength (e.g. strength of the Yazidi community or your family)	H32   te heziye xwe ji bawerbune di tefgeri xwe bir ( tefgeriye yizidi yan malbet)	H32 Glaube an gemeinschaftliche Stärke (z.B. Stärke der jesidischen Gemeinschaft oder Ihrer Familie)
+
+I: Belief in the Yazidi community that you would say I'm a member of the Yazidi community and I need to be strong? 
+
+R: Yes, a lot.
+
+H33 Believe in personal strength (e.g. believe in yourself or your own strength)	H33 baweriya te ya hêza şexsî (b.m. Bawerîya te ji bo te û ya şexsî)	H33 Glaube an persönliche Stärke (z.B. Glaube an sich selbst, an Ihre eigene Stärke)
+
+I: Do you believe in yourself, do you believe in your own power, you would say I will do this thing, I'm a strong woman I can cope with this?
+
+R: like what for example?
+
+I: Do you believe in yourself that you can cope with this also?
+
+R: Yes, Thanks God.
+
+I: How much? A lot, a little?
+
+R: I will not forget this as long as I live. It is very difficult to cope with this but I feel relieved with my children. It is difficult. - My life is like zero  level. I don't have a life after this massacre, after our men. 
+
+I: Do you feel yourself strong or not?
+
+R: No, I don't see myself strong. - No zero my strenght.
+
+H34 Praying	H34 limê kirin	H34 Beten
+
+I: Do you pray?
+
+R: Yes, I pray from morning to night.
+
+H35 Retreat (e.g. spending time alone)	H35 bi tene hizdki wexte xwe derbeski	H35 Rückzug (Zeit alleine verbringen)
+
+I: When you are alone, is it good or bad for you?
+
+R: When I'm alone I cry. 
+
+I: is it good or bad for you?
+
+R: No, it is not good. I will become mad if I stay alone.
+
+H36 Avoidance (e.g. avoiding things that remind you of ISIS)	H36 Rev/baz(b.m. Reva ji tiştên ku DAÎŞê tîne bîra we)	H36 Vermeidung (Dinge vermeiden, die Sie an den IS erinnern)
+
+I: The things that reminds you of Isis. For example when you were in captivity of Isis, you smell something now that reminds you them, do you stay away or, so that you won't think on Isis?
+
+R: The things they did me will never get out of my mind. I can not forget whatever I do. I try to forget but I can not. It stays in my mind. 
+
+I: But you don't keep yourself away from these thoughts?
+
+R: No.
+
+H37 Exchange trauma contents with others	H37 Bi kesên din re, behskirina sadmet (trauma) bikin	H37 Austausch über Traumainhalte mit anderen
+
+I: Do you speak these things to your friends?
+
+R: Yes, we do. This is the only thing we talk about. We say they did this to us, hit us, didn't give food to us. 
+
+H38 Seeking professional help (e.g. doctors, psycho-therapists)	H38 Lêgerîna alîkarîya profesyonelî/moxts (b.m. dixtor psîko-terapîst)	H38 sich professionelle Hilfe suchen (z.B. Ärzte / Psychotherapeuten)
+
+I: Do you want to see a psycho-therapist? Do you believe that a psycho-therapist can help you?
+
+R: No, here there is no help, the doctors don't give. They don't give us neither a medicine nor... You know the countries like these they don't mind as much as us. They tell us to go disco, to go to pool, go I don't know where,  we can not. - We tell them our son, sisters, husband is lost, they say ok, is this what all the life is about? - Sometimes when I go out and see someone resembling my son I become ill. Or when I see a woman with her husband going somewhere. I don't have husband or anything.
+
+H39 Seeking help within the Yazidi community	H39  alîkarîya di nav cemeatê (tefger) yizidiye bigerin	H39 sich Hilfe innerhalb der jesidischen Gemeinschaft suchen
+
+I: Do you believe that the Yazidi community can help you with the things you experienced?
+
+R: But, there is nothing the Yazidi can do, they would do if they could. It's zero. 
+
+H40 Do you have any other strategies that help you cope?	H40 Heger tiştekî din hebe.	H40 Haben Sie weitere Strategien, die Ihnen bei der Bewältigung helfen?
+
+I: Do you have any other thing that can help you so that you can forget these things?
+
+R:I can not forget. But It has been two years since I'm in Germany I take psychology medicines I feel better. - We want the social workers, the responsibles be aware what happened to us. Not like a child to shout at to feel angry to and say Germany is not like Iraq. In that case we feel offended. They need to know what happened to us. 
+
+Group	Group	
+
+H41 Other strategies, please specify one here	H41 ji keremea xwe bibêjin	H41 Andere, bitte nennen Sie diese
+
+
+
+H42 How much would you say the strategy you just mentioned helps you?	H42 Heger hûn behsa stratejiyên ku alikarîya berxwadana we dikin bikin, gelo hûn dikarin ev çiqas alikariya we dike?	H42 Falls sie weitere Bewältigungsstrategien angegeben haben, wie stark helfen diese Ihnen?
+
+
+
+H43 Other strategies, please specify another here	H43 ji keremea xwe bibêjin	H43 Falls Sie noch weitere Strategien verwenden, bitte nennen Sie eine weitere
+
+
+
+H44 How much would you say the strategy you just mentioned helps you?	H44 Heger hûn behsa stratejiyên ku alikarîya berxwadana we dikin bikin, gelo hûn dikarin ev çiqas alikariya we dike?	H44 Wie sehr hilft Ihnen die Strategie, die Sie eben genannt haben?
+
+
+
+H45 Now, I am going to name several forms of professional health care aids. Please tell me if you already had contact with them or received them. If you did, please tell me how much each one improved your well-being.	H45 Niha ezê navê  reya  bidim we. ji kerema xwe ji min re bibêjin ku hûn van dizanin û we ew girtine yan na?heger we w e kiribe evane çiqas piştgiriya we	H45 Ich werde Ihnen nun mehrere Arten von professionellen Hilfsangeboten nennen. Bitte sagen Sie mir, ob Sie diese Art vn Hilfe bereits in Anspruch genommen haben. Falls ja, bitte sagen Sie mir wie stark die einzelnen Hilfsangebote Ihr Wohlbefinden verbesserten.
+
+I: Now I'm going to tell you about a lot of things and you will tell if they will help you or not. 
+
+H46 Medication (e.g. anti-depressant or medicine that improves your mood)	H46 îlaç (derman)	H46 Medikamente (Psychopharmaka / Medikamente, die die Stimmung und psychische Gesundheit verbessern)
+
+I: You said I take medicine, the medicine will help you?
+
+R: Yes
+
+H47 Psychologists	H47 doxtor pisîkolog (nefsi)	H47 Psychologen
+
+I: The Psychologists?
+
+R: No. I mean they don't understand us.
+
+H48 Individual psychotherapy	H48 Psîkoterapîya Şexsî	H48 Einzel-Psychotherapie
+
+I: When you are alone with the Psychologist?
+
+R: I went to the Psychologist, they don't help. They don't understand us. 
+
+I: Did you see a Psychologists before?
+
+R: Yes, two times. She was a woman, an old woman. 
+
+H49 Group psychotherapy	H49 Psîkoterapîya Grûpan	H49 Gruppen-Psychotherapie
+
+I: Group psychotherapy, when you are with the others, you talk, is that helpful?
+
+R: No, I have never been in a Group psychotherapy
+
+H50 Religious or traditional healer	H50 hekime(ilackari) dini (oldari)	H50 Religiöse oder Traditionelle Heiler
+
+I: You know someone religions help, to talk on religion. Does that help you?
+
+R: The Sheyks are important for us and I feel better thanks to them. 
+
+I: How much?
+
+R: A lot.
+
+H51 Herbal medicine	H51 Îlacên nebatan (ilace normal wek chayi nebati)	H51 Pflanzliche Medizin
+
+I: You know what herbal medicine is? You knwo there are medicines the doctors give and there are other medicines, of flowers and such things, which are not dangerous, do you think these medicines are good for you, they will help?
+
+R: I don't know.
+
+H52 Social work or help with daily structure (e.g. childcare)	H52 Xebatên be Grupan yan jî alîkarîya karên rojane  (e.g. Nêrîna zarokan)	H52 Sozialarbeit oder Hilfe bei der Tagesstrukturierung (z.B. Kinderbetreuung)
+
+I: Do the social workers help you? Are they good for you, yes or no, do you want their help?
+
+R: The social workers are good to me. But the closest one called Sabirin, he's a muslim, he is not good to us. He is the top social worker - Our own social workers are nice, German, they are nice. 
+
+H53 Doctor or physician	H53 toxter?	H53 Ärzte
+
+I: Do the doctors help you so that you forget this thing?
+
+R: I just take this medicine. 
+
+H54 If doctor or physicianR: how much did it help?	H54 Toxter:  Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H54 Falls Ärzte: Wie sehr half das Ihnen?
+
+
+
+H55 If medication: how much did it help?	H55 îlaç (derman): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H55 Falls Medikamente: Wie sehr half das Ihnen?
+
+I: The medicine how much does it help?
+
+R: Not a lot, not a little, moderately. 
+
+H56 If psychologistR: how much did it help?	H56 doxtor pisîkolog (nefsi): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H56 Falls Psychologen: Wie sehr half das Ihnen?
+
+I: How much the psychologists help?
+
+R: He don't give any help. Zero. 
+
+H57 If individual psychotherapy: how much did it help?	H57 Psîkoterapîya Şexsî: Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H57 Falls Einzel-psychotherapie: Wie sehr half das Ihnen?
+
+I: Individual psychoterapy that you go on your own to see?
+
+R: He is good. He wrote this medicine for me I take I'm feeling well not. 
+
+I: How much?
+
+R: Level two.
+
+H58 If group psychotherapy: how much did it help?	H58 Psîkoterapîya Grûpan: Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H58 Falls Gruppen-psychotherapie: Wie sehr half das Ihnen?
+
+
+
+H59 If religious or traditional healer: how much did it help?	H59 hekime(ilackari) dini (oldari): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H59 Falls religiöse oder traditionelle Heiler: Wie sehr half das Ihnen?
+
+I: Religious people that can help you like Sheykh and such things?
+
+R: We haven't them here. I would like to but they aren't here. Zero.
+
+H60 If herbal medicine: how much did it help?	H60 Îlacên nebatan (ilace normal wek chayi nebati): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H60 Falls pflanzliche Medizin: Wie sehr half das Ihnen?
+
+
+
+H61 If social work: how much did it help?	H61  Xebatên be Grupan yan jî alîkarîya karên rojane: heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H61 Falls Sozialarbeit: Wie sehr half das Ihnen?
+
+I: Social work? 
+
+R: As I said German are nice but there is a muslim, I don't know where they brought him. - Social workers help us, they are not like the muslim ones.
+
+H62 How do you think these professional aids might improve your well-being?	H62 Gelo li (nirine we) gorî we ev alîkariyên profesyonel dê çawa alîkarîya we bike?	H63 Wie glauben Sie verbessern diese professionellen Hilfsangebote Ihr Wohlbefinden?
+
+I: Do you believe that the things we have been talking about help you improve your well-being?
+
+R: I believe in God. How , I didn't understand.
+
+I: The things we talked about, all these things do you believe they will help you get better.
+
+R: No, O don't believe. Our men are gone, it's ok, but if only the girls, women and children would return.
+
+H64 What kind of professional help would you like to receive but have not received yet?	H64  Gelo hûn(le nirine we) çi cûre alîkarîya profesyonel dixwazin lê heya niha we negirtîye?	H64 Welche Art professioneller Hilfe würden Sie gerne in Anspruch nehmen, haben sie aber bisher nicht bekommen?
+
+I: What kind of help do you need to get better, that you would say ok this kind of hel I need ?
+
+R: If my husband/our men return I would be better. All our men are lost. And if the social workers tolerate more to us.Now all these things happened to us. We are six people and in these two rooms, so we are not comfortable enough. -There are 40 people on one floor. So we don't feel comfortable also. There are 40 people on this floor. So when the children come from school it becomes crowded, and there is one kitchen. The children are hungry but one kitchen. -But the ones who has a man here with themselves, they can see a lawyer,  they can find a solution, but I don't have a man here so I can't. - And sister you know the Yazidi women didn't have an education, didn't study. It is like our eyes are closed.  - But we are also glad that they help us here, we are thankful. I'm very thankful. I can get money, I have the house here. The German people are great people, but if only  it would be possible not to see a muslim, when I see a muslim in the street it's like they stab me. - My daughter who is ten years old, when sometimes she goes on the streets to play she suddenly comes back and sayR: "Mom, there is a man with beard there, a woman with niqab", they are afraid of them. - Here the German says us not to wear these ugly black/dark scarves and clothes, but we, the Yazidi, have a tradition, if you lost someone you wear these. 
+
+H65 Below is a list of difficulties people sometimes have after stressful life events. Please indicate how distressing each difficulty has been for you DURING THE PAST SEVEN DAYS	H65 Li jêr lîsteyeke( kaeme) dijwarîyên ku mirov piştî bûyerên jîyaneke stresê dijî heye. Ji kerema xwe behsa dijwarîya tiştan bikin DI VÊ HEFTA VÊ DAWÎ de	H65 Ich nenne Ihnen jetzt einige Probleme, die Menschen manchmal nach belastenden Lebensereignissen haben. Geben Sie bitte an, wie bedrängend jedes Problem für Sie IN DEN LETZEN SIEBEN TAGEN war
+
+I: Now, I'm going to read a list for you and you are going to answer like the other time, you'll say if it is a lot or not. 
+
+H66 Any reminder brought back feelings about it	H66 Gelo tu tiştek van hêstan anî bîra we	H66 Immer, wenn ich an das Ereignis erinnert wurde, kehrten die Gefühle wieder.
+
+I: Anytime you think these things you remember the old times, it reminds you of it. - Do you remember these things sometimes? 
+
+R: It is always in my mind. 
+
+H67 I had trouble staying asleep	H67 Min pirsgirêka xewê jîya (moshkiled xewkirine hebu)	H67 Ich hatte Schwierigkeiten, nachts durchzuschlafen.
+
+I: Is it difficult for you to sleep at night?
+
+R: Yes, I can not sleep. Extremely.
+
+H68 Other things kept making me think about it	H68 Tiştên din min xist nava fikirandina wê	H68 Andere Dinge erinnerten mich immer wieder daran.
+
+I: Sometimes you seem something and then you remember these bad people again. - You said sometimes the cildren go and see someone with beard and you remember the experiences you lived again. 
+
+R: Yes. Sometimes when I sleep I see them, I see them hit me, rape me. Day and night they are in front of my eyes. 
+
+I : How much?
+
+R: Extremely.
+
+H69 I felt irritable and angry	H69 Ez xwe bi hêrs û nerehet hîs kir	H69 Ich fühlte mich reizbar und ärgerlich.
+
+I: I feel angry ?
+
+R: Yes, I feel angry so much to myself to my children. Extremely.
+
+H70 I avoided letting myself get upset when I thought about it or was reminded of it	H70 Dema ku ez ev bûyer hate heşê min an jî ku hate gotin, min xwe ji fikra xemgînbûnê dûr xist.	H70 Ich versuchte mich nicht aufzuregen, wenn ich daran dachte oder daran erinnert wurde.
+
+I: Do you tell yourself to relax when you remember these things?
+
+R: Yes, I do. sometimes my two children they come and they joke. I tell to myself let them do some joke and play but I can't. 
+
+I: So you can never avoid?
+
+R: No, I can't. Sometimes when talking on the phone I say ok let them talk but then suddenly I say that's enough I can't make it anymore. 
+
+I: How much?
+
+R: Extremely.
+
+H71 I thought about it when I didn't mean to	H71 ez pe defkrim, dema men na dexast	H71 Ich habe auch darüber nachgedacht, wenn ich es nicht wollte
+
+I: Do you think on these things even when you don't want to think on them?
+
+R: I didn't understad.
+
+I: For example when you wake up in the morning you say, ok I don't want to think of these things anymore still you think on them?
+
+R: Yes, I still think on them. 
+
+I: How much?
+
+S. Exteremely.
+
+H72 I felt as if it hadn't happened or wasn't real	H72 Hîssa min wekî ku ev tişt nehat serê min û nerast bû	H72 Es kam mir vor, als ob es gar nicht geschehen wäre oder irgenwie unwirklich war.
+
+I: Sometimes you feel as if it was a dream, you don't believe these things happened. How much?
+
+R: Sometimes I think and I say all these things are not true, they didn't happen. but then I say again, yes it's true, all these things happened. - The things I experienced is so big that I don't believe it is true. - I ask to myself is this really true? Exteremly.
+
+H73 I stayed away from reminders of it	H73 Min xwe ji tiştên ku têdixiste bîra min xwe dûr xist.	H73 Ich versuchte, Erinnerungen daran aus dem Weg zu gehen.
+
+I: Can you stay away not thinking of these things?
+
+R: No.
+
+H74 Pictures about it popped into my mind	H74 suret e ten sari ta	H74 Bilder, die mit dem Ereignis zu tun hatten, kamen mir plötzlich in den Sinn.
+
+I: Sometimes do you see the things happened as a picture in front of your eyes?
+
+R: Yes, all the time, from the moment I came here, it's like a picture in front of me.
+
+H75 I was jumpy and easily startled	H75 Ez tirsîyam û bi rehetî ketim nav tirsê	H75 Ich war leicht reizbar und schreckhaft.
+
+I: Do you become angry easily and then relax easily?
+
+R: I become agry easily and relax easily. How much?
+
+I: I become extremely angry.
+
+H76 I tried not to think about it	H76 Min hewl da ku nefikirim.	H76 Ich habe versucht, nicht daran zu denken.
+
+I: Do you try/hope not to think these things?
+
+R: I would like to forget these things, I would like these things get out of my life but it is difficult. - Sister, my cildren were students, they studied, my husband was a driver, when I see a driver I remember my husband. When I see a student here, I see a book, a pen they remind me of my son. 
+
+H77 I was aware that I still had a lot of feelings about it, but I didn't deal with them	H77 Ez ji hebûna fikrên wan haydar bûm (zani), lê min guhê nadaie.	H77 Ich merkte zwar, dass meine Gefühle durch das Ereignis noch sehr aufgewühlt waren, aber ich beschäftigte mich nicht mit ihnen.
+
+I: You knew that these things happened to you but you don't think of them. You yourself don't think. Is it extremely or? You didn't understand, right? - All these things happened and you became angry, depressed but you didn't deal with it? Is it so or no?
+
+R: No, it is not so. It is always in my mind whatever I do. - It was a big thing. - The most things happened in the Kocho village.
+
+H78 My feelings about it were kind of numb	H78 Hestên min di derheqê wê de, wekî cureyeke lalbûnê bû( moxder)	H78 Die Gefühle, die das Ereignis in mir auslösten, waren ein bisschen wie abgestumpft.
+
+I: Can you say your life is something like a death while you are alive?
+
+R: Yes
+
+I: How much?
+
+R: Extremely. From us the ones who saw the massacre are like dead but living in the world.
+
+H79 I found myself acting or feeling like I was back at that time	H79 Min xwe wekî lîstina rolekê an jî wekî ku ez ji demê paş ve hîs kir.	H79 Ich stellte fest, dass ich handelte oder fühlte, als ob ich in die Zeit (des Ereignisses) zurückversetzt sei.
+
+I: Sometimes you feel like you are back at those times that these things happened to you?
+
+R: Yes
+
+H80 I had trouble falling asleep	H80 Min zehmetîya raketin(xewkirin) hîs kir.	H80 Ich konnte nicht einschlafen.
+
+I: You can't fall sleep?
+
+R: I can sleep but when I wake up sometimes, I can't sleep for two hours. I remember all the things.
+
+H81 I had waves of strong feelings about it	H81 Bi min re pêlên hestên dijwar çêbûn- bi miro hisik mekin chebu ji derheqe we	H81 Es kam vor, dass die Gefühle, die mit dem Ereignis zusammenhingen, plötzlich für kurze Zeit viel heftiger wurden.
+
+I: All your days are not same. Sometimes you are fine sometimes bad. Is that so?
+
+R: Yes.
+
+I: How much?
+
+R: Sometimes I sit with my friends we talk for two hours I feel fine, sometimes I come back to home I look at the pictures of my son and husband I feel bad.
+
+I:How much?
+
+R: Extremely.
+
+H82 I tried to remove it from my memory	H82 Min hewl da ku ez ji bîra xwe derxim.	H82 Ich habe versuchte, es (das Ereignis) aus meiner Erinnerung zustreichen.
+
+I: Do you try to forget the things you lives, to remove them from your mind?
+
+R: I would like to do it. But whatever I do I can not remove them. 
+
+I: Extremely?
+
+R: Yes.
+
+H83 I had trouble concentrating	H83 Min zehmetîya lê hûrbûnê (terkiz) hîs kir.	H83 Es fiel mir schwer, mich zu konzentrieren.
+
+I: You can't concentrate?
+
+R: No we can't. When we came here to Germany we were twenty Yazidi women and came to Germany, we lost our bags. All our staff was inside but they are lost. They are preparing our residence permit now. I lose our money, mobile. 
+
+H84 Reminders of it caused me to have physical reactions, such as sweating, trouble breathing, nausea, or a pounding heart	H84 waxte dehat bira men, lasha men xu da, nafse men tang bu, madi men le hav kat, dli men be kwat lekat	H84 Die Erinnerungen daran lösten bei mir körperliche Reaktionen aus, wie Schwitzen, Atemnot, Schwindel oder Herzklopfen.
+
+I: Sometimes when you think these things happened do you sweat, you feel depressed?
+
+R: Yes, I sweat. Extremely, like now.
+
+H85 I had dreams about it	H85 Min di derheqê wê de xewnan dît.	H85 Ich träumte davon.
+
+I: Do you have dreams? 
+
+R: Yes, I have dreams about Isis.
+
+H86 I felt watchful and on guard	H86 Min xwe baldar û di nobettê de hîs kir.	H86 Ich empfand mich selber als sehr vorsichtig, aufmerksam oder hellhörig.
+
+I: You feel watchfull, you are on guard like your eyes are open like this? A little, a lot? - When you think of these things a lot, do you fear that these things are going to happen to me again?
+
+R: Always it is in my mind. -We have two rooms. Sometimes my children tell me to go and sit with them, for five minutes, four minutes, then I go to the other room. I stay there for two, three minutes and then I go again. I can't feel relieved anywhere. - When I'm in the bath to have a bath I want to open the door. 
+
+H87 I tried not to talk about it	H87 Min hewl da ku ez di derheqeê we de xeber nedim.	H87 Ich versuchte, nicht darüber zu sprechen.
+
+I:  Do you try to talk about the things you experienced?
+
+R: I need tell so that all the world hear our voice, but when I tell I become extremely frustrated. 
+
+H88 Thank you for these responses.	H88 ez sipasiye we dikim ji bu bersive we dat	H88 Danke für diese Antworten.
+
+I: Thank you, we have just a few more questions. then it is over.
+
+H89 Finally to conclude, can you tell me what was the most positive experience you had within the last two years in Germany?	H89 Pirsa herî dawî, tecrûbeya we herî xweş ku tu li Almanyayê jiyayî çi ne?	H89 Können Sie mir zum Abschluss sagen, was die positivsten Erfahrungen waren, die Sie innerhalb der letzten zwei Jahre in Deutschland hatten?
+
+I: The time you have been here in Germany, what positive things did you see?
+
+R: Germany is beautiful, very good for us. But I don't feel well psychologically, so I can't say I feel very well. Germany is very good for us, very helpful. But because the shock I had is very big I can't feel ok. 
+
+H90 How satisfied would you say you are with the Special Quota Project at this time?	H90  tu chiqas kani beji ew projekta (mashrou) special quota bash bu?	H90 Wie erfolgreich würden Sie das Sonderkontingent zu diesem Zeitpunkt bewerten?
+
+I: This project of bringing you to Germany, how much is it important for you?
+
+R: Extremely.
+
+H91 What are the three most positive aspects of the Special Quota Project in your opiinion?	H91 ka nav se(3) tecrubeya bash be ta ra darbas bun je projekte special Quota?	H91 Was sind Ihrer Meinung nach die 3 positivsten Aspekte des Sonderkontignents?
+
+I: Can you say three good things that you came here?
+
+R: We are not afraid, our children can get money, and German people are very nice we respect them. We are very glad. they take care of children. I wish there weren't Muslims.
+
+H92 What are the three most negative aspects of the Special Quota Project in your opinion?	H92 ka nav se(3) tecrubeya Na bash be ta ra darbas bun je projechte special Quota?	H92 Was sind Ihrer Meinung nach die 3 negativsten Aspekte des Sonderkontignents?
+
+I: Tell us three things that are bad here.
+
+R: There is nothing bad here for us but for seeing the muslims. - The Germans are all good for us, but just seeing the Muslims. Everything is ok but we just don't want to see Muslims. 
+
+H93 And what gives you hope for the future?	H93 che neren (Amale) je roja peshra (Mostakbel)?	H93 Und was gibt Ihnen Hoffnung für die Zukunft?
+
+I: What are your hopes for the future?
+
+R:I hope my cildren could have a future here. We are very pleased here. They take care of us. If they could have a future here, that's enough.
+
+I: Thank you
+
+R: Thank you to you too. You came here for us. You are welcome here. We are thankful to you that you make our voice be heard by the world, the Yazidis' voice. - I would like you tell the social workers to help us, to tell to take care of us, tell them we don't know the language, that here is not like in Iraq. We thank you and are thankful. You are working for us. - We feel good here in Germany- People seeing us in markets help us when they knoe we are Yazidi- We are very pleased. I pray God help you make you stronger. 
+
+I: Do you have any other qustions?
+
+R: Thank you for coming.
