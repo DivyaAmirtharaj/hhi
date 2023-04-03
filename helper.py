@@ -30,10 +30,10 @@ class Processing:
 
     def fileProcess(self):
         directory = self.new_dir
-        f = open(self.new_dir+'083.BJ.txt', 'r')
-        print(f.read())
         for file_name in os.listdir(directory):
-            print(file_name)
+            f = open(self.new_dir+file_name, 'r')
+            file_content = f.read()
+            print(file_content)
 
 data = Processing()
 #data.fileClean()
