@@ -25,6 +25,7 @@ class Processing:
                 print(outfile_name)
                 outfile = open(outfile_name, 'w', encoding='utf-8')
                 doc = docx2txt.process(infile)
+                doc = re.sub(r'\n\s*\n', '\n', doc)
                 outfile.write(doc)
             outfile.close()
             infile.close()
