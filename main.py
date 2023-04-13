@@ -3,6 +3,11 @@ import openai
 import os
 import nltk
 import math
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from collections import Counter
+import re
+import string
 
 openai.api_key = os.environ['api_key']
 
@@ -77,7 +82,7 @@ def chunk():
         # Load the interview transcript
         with open('dedoose_data/clean_dedoose_data/001 ZY.txt', 'r') as f:
                 transcript = f.read()
-        
+
         # Set up GPT request parameters
         chunk_size = 1000
         batch_size = math.ceil(len(transcript) // (chunk_size))      # number of batches to split the text into
@@ -88,7 +93,7 @@ def chunk():
         print("number of chunks", len(chunks))
         print("transcript len", len(transcript))
 
-        '''# Initialize the OpenAI model
+        # Initialize the OpenAI model
         model_engine = "davinci"  # or any other model you want to use
         model_prompt = "The following is an interview transcript.\n\nInterviewer: "
 
@@ -131,12 +136,49 @@ def chunk():
                 answer = response.choices[0].text
                 
                 # Print the answer (optional)
-                print(answer)'''
+                print(answer)
 
+def context_tokenize():
+        # Load text file
+        #nltk.download('stopwords')
+        with open('dedoose_data/clean_dedoose_data/001 ZY.txt', 'r') as f:
+                text = f.read()
+
+        # Tokenize text
+        tokens = word_tokenize(re.sub('[^a-zA-Z]+', ' ', text.lower()))
+
+        # Remove stop words and punctuation marks
+        stop_words = set(stopwords.words("english"))
+        filtered_tokens = [word for word in tokens if word not in stop_words and word not in string.punctuation]
+        print(filtered_tokens)
+
+        # Extract most frequent keywords
+        keyword_counts = Counter(filtered_tokens)
+        keywords = [keyword for keyword, count in keyword_counts.most_common(10)]
+        print(keywords)
+
+        # Generate prompts
+        prompts = ["Tell me about " + keyword for keyword in keywords]
+
+        # Generate responses
+        context = ""
+        for prompt in prompts:
+                response = openai.Completion.create(
+                        engine="davinci",
+                        prompt=prompt + "\n",
+                        max_tokens=512,
+                        n=1,
+                        stop=None,
+                        temperature=0.5,
+                        frequency_penalty=0,
+                        presence_penalty=0
+                )
+        context += response.choices[0].text
+        print(context)
 
 '''prompts = ['What does justice mean to you?', 'How much of a priority is it for you to have justice for what happened to you during the conflict with ISIS?', 'Who should be held accountable?', 'And how should they be held accountable?', 'What do the respondents say about their current priorities/concerns and what do they need the most to rebuild their lives? How this is connected to their response on justice and peace?']
 
 for prompt in prompts:
         main(prompt)'''
 
-chunk()
+context_tokenize()
