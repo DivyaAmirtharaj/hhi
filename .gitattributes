@@ -4,3 +4,4 @@ eng_notebook.md filter=git-crypt diff=git-crypt
 dedoose_data/** filter=git-crypt diff=git-crypt
 nlp_models/** filter=git-crypt diff=git-crypt
 results/** filter=git-crypt diff=git-crypt
+results/test/**
