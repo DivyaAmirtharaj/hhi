@@ -2,6 +2,10 @@ import docx2txt
 import glob
 import os
 import re
+import nltk
+nltk.download('words')
+from nltk.corpus import words
+
 
 class Processing:
     def __init__ (self):
@@ -33,10 +37,17 @@ class Processing:
     def fileProcess(self, directory):
         for file_name in os.listdir(directory):
             f = open(self.new_dir+file_name, 'r')
-            file_content = f.read()
+            file = f.readlines()
+            text_list = []
+            for line in file:
+                if line.startswith("E"):
+                    pass
+                else:
+                    text_list.append(line)
+            file_content = ''.join(text_list)
+
             outfile_name = os.path.join(self.justice_dir, file_name)
-            file_content = re.sub(r'\n\s*\n', '\n', file_content)
-            match = re.search(r'JUSTICE AND ACCOUNTABILITY(.*)NARRATIVES AND MEMORIALIZATION', file_content, re.DOTALL)
+            match = re.search(r'EDALET Û BERPIRSIYARÎ	Gerechtigkeit und Verantwortlichkeit(.*)PEACE', file_content, re.DOTALL)
             if match:
                 output_text = match.group(1).strip()
                 with open(outfile_name, 'w', encoding='utf-8') as f:
@@ -51,6 +62,6 @@ class Processing:
 section_start = 'JUSTICE AND ACCOUNTABILITY'
 section_end = 'NARRATIVES AND MEMORIALIZATION'
 data = Processing()
-#data.fileProcess('dedoose_data/clean_dedoose_data/')
+data.fileProcess('dedoose_data/clean_dedoose_data/')
 #data.fileWrite()
 #data.fileRead()
