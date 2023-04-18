@@ -22,7 +22,7 @@ class Database:
             CREATE TABLE IF NOT EXISTS users (
                 uuid integer PRIMARY KEY,
                 interview_name text UNIQUE,
-                audio_name text UNIQUE,
+                audio_name text UNIQUE
             );
         """)
         cur.execute("""
@@ -30,7 +30,7 @@ class Database:
                 question_id integer PRIMARY KEY,
                 question_name text,
                 question text,
-                section text,
+                section text
             );
         """)
         cur.execute("""
@@ -38,18 +38,18 @@ class Database:
                 response_id integer PRIMARY KEY,
                 uuid integer,
                 question_id integer,
-                response text,
+                response text
             );
         """)
         con.commit()
     
     @thread_db
-    def add_users(self, con, cur, interview_name, audio_name):
+    def add_users(self, con, cur, interview_name):
         uuid = random.randint(1, 2**20)
         cur.execute("""
-            INSERT INTO users (uuid, interview_name, audio_name)
-                VALUES (?, ?, ?, ?)
-        """, [uuid, interview_name, audio_name])
+            INSERT INTO users (uuid, interview_name)
+                VALUES (?, ?)
+        """, [uuid, interview_name])
         con.commit()
     
     @thread_db
@@ -92,7 +92,7 @@ class Database:
         return val[0]
     
     @thread_db
-    def add_responses(self, con, cur, interview_name, question_name, response):
+    def add_responses(self, con, cur, interview_name, question_name, response, audio_name):
         response_id = random.randint(1, 2**20)
         uuid = self.get_user(interview_name)
         question_id = self.get_question(question_name)
@@ -100,6 +100,9 @@ class Database:
             INSERT INTO responses (response_id, uuid, question_id, response)
                 VALUES (?, ?, ?, ?)
         """, [response_id, uuid, question_id, response])
+        cur.execute("""
+            UPDATE users SET audio_name = ? WHERE uuid = ?
+        """, [audio_name, uuid])
         con.commit()
     
     @thread_db
@@ -109,7 +112,7 @@ class Database:
         cur.execute("DROP table IF EXISTS responses")
         con.commit()
     
-    @thread_db
+    #@thread_db
     def delete_user(self, con, cur, interview_name):
         uuid = self.get_user(interview_name)
         cur.execute("""

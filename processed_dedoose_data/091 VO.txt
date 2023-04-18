@@ -1,0 +1,744 @@
+Instructions for using this template 
+This template provides the interview questions as they appeared in the questionnaire in English, Kurmanji, and German. Three people were present during each interview: an Interviewer speaking English or German, an Interpreter translating the questions to Kurmanji, and a Respondent giving her response in Kurmanji. Under each question, please transcribe the question as it was explained in Kurmanji by the Interpreter, and the Respondent’s complete response. It is not necessary to transcribe what the Interviewer says in English or German. 
+Please transcribe directly into English. Transcribe the words verbatim, i.e. exactly as the Interpreter or Respondent says them, even if they are not in perfect English. 
+Format: Mark the Interpreter’s words with “I:” and the Respondent with “R:” – e.g.
+	I: How old are you? 
+	R: I am 42. 
+Skipped questions: Some of the questions are skipped in each interview – if the question is not asked, please skip ahead to the next question that is asked.
+Unclear words: Any word that you can’t hear clearly or don’t understand should be marked in Red text. 
+Reviewers: Please add your notes, clarifications, and corrections in Blue text directly after the response. 
+File naming: Transcribers, please save this file with the same number as the title of the audio file and your initials, e.g. “001 ZY”. Reviewers, please save the file by adding your initials to the end of the file name, e.g. “001 ZY VO”.
+File sending: Inform HHI by email when you are ready to send the file. HHI will request the file from you using Accellion. Accellion works best in Internet Explorer. You may need to update your version of Internet Explorer in order to use all features of Accellion. 
+Audio file name: [091]
+RESPONDENT CHARACTERISTICS	RESPONDENT CHARACTERISTICS	EIGENSCHAFTEN DES BEFRAGTEN
+C00 I would now like to ask you some short questions about yourself.	C00 Ez dixwazim bi hin pirsên derheqe we dest pê bikim.	C00 Ich möchte damit anfangen, Ihnen einige kurze Fragen zu Ihrer Person zu stellen.
+C01 Sex of respondent	C01 Zayenda bersivdarî/ê	C01 Geschlecht der/des Befragten
+[This does not need to be transcribed]
+C02 How old are you?	C02 Tu çend salî yî?	C03 Wie alt sind Sie?
+C04 What is your marital status?	C04 Tu zewiciyi  yan na?	C04 Wie ist Ihr Familienstand?
+I: Are you married?
+R: yes
+C05 If married or in a partnership, where is your spouse or partner?	C05 Heger tu zewicîyi , navê jina/mêrê we çi ye? / “Heger hûn zewicî ne, mêrê / zilamê te li ku derê ye?”	C05 Falls Sie verheiratet oder in einer Partnerschaft sind, wo befindet sich Ihr(e) Partner(in)?
+C06 How many people currently live with you, if any?	C06 Vêga çend kes bi te re dijîn?	C06 Wie viele Menschen leben derzeit bei Ihenn (falls zutreffend)?
+I: How many people are currently living with you?
+R: in this house?
+I: yes
+R: 10 in total
+R: 4 children and 6 grown ups
+I: 6 children?
+R: 4
+I: 4 children ok
+C07 Who are they?	C07 Ew kî ne?	C07 Und wer sind diese Personen?
+I: one is your sister and others are not from your family?
+R: only my sister and the other i met them here
+C08 Please specify who lives with you	C08 Tu dikeri biji ki bi tero dijine (jiyendibe)?	C08 Bitte benne die Personen, die mit Ihnen zusammen leben?
+C09 Can you read and write a simple message in any language?	C09 Tu dikarî di zimanekê de hevokek sivik bixwînîn û binivîsîn?	C09 Können Sie eine einfache Nachricht in einer beliebigen Sprache lesen und schreiben?
+I: can you read or write in a language?
+R: no
+R: i write but i don't read well
+I: but you can write
+R: easy things
+I: in Arabic?
+R: no i didn't go to school in Iraq.
+I: she says, since you wrote these things then you can write
+R: i looked at the German paragraphs
+C10 What is your highest education level?	C10 Herî dawî tu çûyî kîjan dibistanê (mektebê)?- bilindtrin dereje xandine tu gishti	C10 Was ist Ihr höchster Schulabschluss?
+C11 Please specify your highest education level	C11 Please specify your highest education level	C11 Bitte benennen Sie Ihren höchsten Schulabschluss
+C12 Are you currently in school?	C12 Tu nahe ji xwendevan î (talebe)?	C12 Gehen Sie derzeit zur Schule?
+I: do you go to school now?
+R: no i don't go now, The school started on the 15th of September,  but my foot got stuck in the tram and i didnt go
+I: Your school started on the 15th of September?
+R:  I don't go now, I didn't start it 
+I: But before this one you went to a previous course?
+R: yes 
+C13 If not, do you plan to attend school in the future?	C13 Ger tu ne xwendevan bî,  tu dixwazî di dema bê de biçî dibistanê?	C13 Falls nicht, planen Sie in der Zukunft zur Schule zu gehen?
+C14 Are you currently employed?	C14 Tu nahe kar diki?	C14 Sind Sie derzeit berufstätig?
+I:  are you currently working? a job?
+R:  I go to a hair salon to learn
+I: here?
+R: yes 
+C15 If yes, what is your current work?	C15 Ger te got erê, tu vêga çi karî dikî?	C15 Wenn ja, was ist Ihre aktuelle Arbeit?
+C17 If not, are you seeking employment?	C17 Ger te got na, tu dixwazî karik biki?	C17 Wenn nicht, suchen Sie eine Arbeit?
+C18 If not, why not?	C18 Ger te got na, tu çima naxwazî kar biki?	C18 Falls nein, warum nicht?
+C19 And before ISIS, were you employed outside of your home?	C19 Beriya hijouma DAIŞ, tu qet kar kir?	C19 Übten Sie vor dem IS-Angriff eine bezahlte Arbeit aus?
+I: And before I was attack were you working back at home?
+R: no,  I was at home
+C20 If yes, what was your work?	C20 Ger te got erê, te çi karî dikir?	C20 Wenn ja, was war Ihre Arbeit?
+C21 I have a couple more questions about yourself. Remember, our interview is confidential	C21 Ez ê çend pirsên din ji te bikim Bizanibe ku haya tu kesî wê ji hevpeyvîna me nebe	C21 Ich habe noch ein paar Fragen an Sie. Denken Sie daran, dass unser Interview vertraulich ist
+C22 What is your religious faith, if any?	C22 dine te chiya?	C22 Was ist Ihr religiöser Glaube (falls vorhanden)?
+I:  your religion?
+R: huh?
+I:  what is your religion?
+R:  peacock angel
+I:  which means Yazidi?
+R: yes
+C23 Please specify your religion	C23 xere xwe beje dine te chiye	C23 Bitte benennen Sie Ihren Glauben
+C24 How would you identify your ethnic group?	C24 Tu ji kîjan milletê yî?	C24 Wie würden Sie Ihre ethnische Gruppe identifizieren?
+I:  your ethnic group? are you Yazidi? Kurdish?
+R: Yazidi 
+C25 Please specify your ethnic group	C25 xere xwe beje milet e te chiye?	C25 Bitte benennen Sie Ihre ethnische Gruppe
+PRIORITIES AND CURRENT CONDITIONS	Pêşik û Şertên niha	Prioritäten und aktuelle Bedingungen
+D00 Thank you for these answers. I would now like to discuss your current priorities and views on the future	D00 Spas ji bo bersivan. Niha, ez dixazim derheqê pêşik û nêrînên tê yên dahatûyî biaxivim	D00 Vielen Dank für diese Antworten. Ich möchte jetzt Ihre aktuellen Prioritäten und Ansichten über die Zukunft besprechen
+D01 What are your immediate concerns and priorities in your life today?	D01 Di jiyana te, omniyat u hazin e te chiye?	D01 Was sind heute Ihre unmittelbaren Anliegen und Prioritäten in Ihrem Leben?
+I: What is the most important thing now in your life?
+R:  in my life,  to feel safe for all the yazidis,  for instance: like all other countries, we should feel safe too, we should feel rested and comfortable. 
+D02 What do you need most to rebuild your life?	D02 tu pedvi chi goh jiyane te pe ava bibe?	D02 Was benötigen Sie am meisten um Ihr Leben wieder aufzubauen?
+I: What do you need so you're good rearrange your life ?
+R: I swear, life is  hard,  there's always torment and its not very beautiful.
+I: Ok but what do you think you need the most to have your old life back or to rearrange your life?
+R:  it's hard to have the previous life i had.
+D03 Overall, how much control would you say you have over your life now?	D03 Giştî, tu di jiyana xwe de çiqas saitere(xodan beryari) te heye?	D03 Wieviel Kontrolle haben Sie jetzt im Großen und Ganzen über Ihr Leben?
+I: We have no questions, you need to answer on the scale for example zero or none, or extremely, half half.I will ask now.
+I:  first question,  how much control do you have  over your life now?  like how much are you capable of taking your own decisions?
+R:  it's a hard question.
+I:  for example you don't have any control at all,
+R: 4
+I: 4?
+D04 What do you think the future holds for you?	D04 Tu mostaqbal de çi difikirî? Mostaqbal che ji tere hazirkriye?	D04 denken Sie, wie sieht Ihre Zukunft aus?
+I:  how do you think your future is? what do you think the future holds for you?
+R: nothing,  nothing left for the future.. it's all gone
+I: so are you pessimistic about your future? or optimistic?
+R: I live day by day and that's it. 
+D05 Given four choices and assuming the situation in Iraq improves, where would you rather live?	D05 Li Iraqê rewş baş bibe û chwar extiyare te hebin, tu yê li ku derê bijî?	D05 Angenommen, dass sich die Situation im Irak verbessert, wo würden Sie lieber leben?
+I: Everything situation in Iraq improves, do you want to return to Iraq?
+R: no
+I:  you want to stay in Germany?
+R: yes
+D06 Can you explain why you choose that location?	D06 Gelo hûn dikarin bibêjin hûn çima çûn wir?	D06 Können Sie erklären, warum Sie diesen Ort auswählen?
+R: We have nothing left in Iraq, al the good things are gone.
+D07 Do you feel like you belong here in Germany?	D07 Tu hestdiki goh almaniya welate tebe?	D07 Fühlen Sie sich in Deutschland zu Hause?
+I: Do feel like Germany is your country?  to feel like you're at home?
+R: no, it's a strange place
+R: We don't have a place for the yazidis
+I:  so you say not at all
+R: ..
+D08 And overall, how would you judge your experience in Germany over the last two years?	D08 Di du salan de jiyana te ya li Almanyayê çawa derbas bû?	D08 Und wie würden Sie Ihre Erfahrungen in Deutschland in den letzten zwei Jahren beurteilen?
+I: How do you describe your experience here in Germany? was it good or was it not good?
+R: good
+I: 3 or 4
+R: 4
+D09 Can you explain your answer? Why do you feel this way?	D09 Tu dikarî bersiva xwe zelaltir bikî? Hûn çima wûsa hîs dikin?	D09 Können Sie Ihre Antwort erklären? Warum haben Sie dieses Gefühl?
+I: Can you tell me why you picked 4?  why do you think it was good?
+R:  here is good
+I:  I mean what happened here so you said it was good?
+R:  our situation here is very comfortable,  we are rested,  the things that we have been provided by them here, we haven't got anything like it  back in Iraq
+D10 If you were to return to Iraq or the Kurdistan Region of Iraq, what are the main changes that are needed in order for you to feel safe?	D10 Heger hûn vegerin Irakê yan jî Herêma Kurdîstan, ji bona ewlehîya(jiyanek paristi) we çi cure guhartin hewce ye?	D10 Wenn Sie zurück in den Irak oder nach Kurdistan gehen würden, was müsste sich vor allem ändern, damit sie sich sicher fühlen könnten?
+I: What should be changed in Iraq so you could go back there and live there again?
+R:  safety, like we used to have before, and the yazidis  standing all together,  and no isis anymore. 
+JUSTICE AND ACCOUNTABILITY	EDALET Û BERPIRSIYARÎ	Gerechtigkeit und Verantwortlichkeit
+E00 Earlier we discussed about priorities. I have a few more questions relating to that topic.	E00 Berî em derheqê pêşikên te axivîn, ez ê derheqê vê de çend pirsên din jî bikim	E00 Wir diskutierten bereits zuvor über Prioritäten, ich hätte noch mehr Fragen zu diesem Thema
+E01 What does justice mean to you?	E01 Gelo ji bo we edelet wê çi be?	E01 Was bedeutet Gerechtigkeit für Sie?
+I: What does Justice mean to you?  when you hear the word justice?  do you know the word justice?
+R: no
+I:  the experience of violence you experienced by Isis, the horrible things you faced,  to bring Isis to Justice and put them in courts,  you know to have your right back to you
+R:  if it was up to me I would kill Isis all of them one by one,  until they all are gone.
+E02 How much of a priority is it for you to have justice for what happened to you during the conflict with ISIS?	E02 Ji bona tiştên ku hatin serê we di dema şerê DAEŞê de bidestxistina edeletê ji we re çiqas girîng (muhim)e?	E02 Wie hoch ist die Priorität für Sie, Gerechtigkeit für das zu erhalten, was Ihnen während des Konflikts mit dem IS passiert ist?
+I:  how important is it for you to have Justice?
+I:  like bring isis to court and judge them, how important is this thing for you? is it extremely important?
+R:  it is so important to finish Isis and be safe again.
+E03 How optimistic are you that you will ever get justice?	E03 Ji bona bidestxistina edeleta hûn çiqas gesh (positiv) (mutafael) in?	E03 Wie optimistisch sind Sie, dass Sie jemals Gerechtigkeit erhalten werden?
+I: How to optimistic are you about finishing isis?
+R:  I don't believe they will be finished
+I:  so how much do you say? 0?
+R: 0 
+E04 And how important is it for you that the persons who committed or perpetrated violence against civilians during the conflict with ISIS are held accountable for their actions?	E04 bu te (ji tere) chiqes muhime goh daishe li seri we kiri, bikevin ber dari adalete?	E04 Und wie wichtig ist es für Sie, dass diejenigen, die für die Gewalt gegen Zivilisten während des Konflikts mit IS verantwortlich sind, für ihre Handlungen zur Rechenschaft gezogen werden?
+I: And how important is it for you that these members of Isis held accountable in a court and to be judged?
+R:  I didn't understand
+I:  how important is it for you that these members of Isis to be held in a courtroom and to be held accountable for their crimes?
+R:  it is very important for me 
+E05 Can you explain why you answered this way?	E05 Gelo hûn dikarin bibêjin we çima wûsa bersiv da?	E05 Können Sie erklären, warum Sie es so beantwortet haben?
+I: Can you tell me why is it important for you?
+R:  they have intruded and done us wrong extremely,We have damaged our situation,  they destroyed and killed everyone.
+E06 Who should be held accountable?	E06 ki mostahaqiyi oqubeteye?	E06 Wer sollte zur Rechenschaft gezogen werden?
+I:  who should be held accountable from Isis?  is there any difference between their soldiers or  princess or do you think they all are the same?
+R:  they all are the same.
+E07 And how should they be held accountable?	E07 çawa?	E07 Und wie sollten sie verantwortlich gemacht werden?
+I:  how should they be punished?
+R:  they should be punished for everything they have done and for the war
+I:  yes but should they  be punished?
+R: I say,  they should be finished.
+I:   do you think they should be held in a courtroom and have a trial? trial?
+R: A trial is not enough, who will sue them?
+I: But do you  wish if they had a real trial ?
+R: yes
+E08 Are you aware of any current efforts to bring to justice those responsible for the violence?	E08 hun zanin naha ki pirsiyere haqi we dike?	E08 Wissen Sie von aktuellen Bemühungen diejenigen zur Rechenschaft zu ziehen, die für die Gewalt verantwortlich sind?
+I: Are you aware if there's any current trials in Iraq or out of Iraq?
+R: no
+E09 If yes, which ones?	E09 Heger cewaba we erê be, kîjan in?	E09 Falls ja, von welchen?
+E10 Is it possible to forgive those responsible for the violence?	E10 win dikarin wen zalime afubikin?	E10 Ist es möglich, denjenigen zu vergeben, die für die Gewalt verantwortlich sind?
+I:  is it possible to forgive Isis?
+R: me? no i won't forgive
+E11 If no, what should happen before you can forgive?	E11 Ger te got na, gerek che bibe goh tu bikare wen afubiki?	E11 Wenn nein, was muss passieren, bevor Sie vergeben können?
+E12 I have a few more questions related to this topic.	E12 naha hin pirsiyame heye	E12 Ich habe ein paar Fragen im Zusammenhang mit diesem Thema
+E13 How important is it for you to know what happened during the conflict with ISIS?	E13 chiqas ji tere muhime tu  zanibi (bizani)  che biye(qawimiye) di shere daish de?	E13 Wie wichtig ist es für Sie persönlich zu wissen, was während des Konflikts mit dem IS passiert ist?
+I: How important is it for you to know what is happening in the conflict with Isis?  do you want to know about news and information?
+R: yes,  I want to receive in every hour and to be notified that in every hour and Isis member is being killed.
+I:  so you say 4?extremely?
+R:  I say I hope they kill a lot of them
+I:  but you want to know what is happening
+R: yes
+E14 How important is it to you that the rest of the world knows about what happened during the conflict with ISIS?	E14 chiqas ji tere muhime xelik  zanibi (bizani)  che biye(qawimiye) di shere daish de?	E14 Und wie wichtig ist es Ihnen, dass der Rest der Welt erfährt, was während des Konflikts mit IS geschah?
+I:  how important is it for you that the rest of the world knows?
+R:  it's extremely important for me that the entire world knows
+E15 And what about future generations? How important is it for them to know what happened during the conflict with ISIS?	E15 chiqas ji tere muhime zarok u neviye te  zanibi (bizani)  che biye(qawimiye) di shere daish de?	E15 Und was ist mit zukünftigen Generationen? Wie wichtig ist es für die zukünftige Generationen zu wissen, was während des Konflikts mit IS passiert ist?
+I:  how important is it for you that the new generation, the upcoming children to know what happened to you and what did Isis do?
+R:  I don't want to the upcoming generation to know about what happened, I don't want them to think in this way and to have these horrible thoughts in there head.
+I:  so you don't want the children to know
+R:  no I don't want the children to know. 
+I: She says that the question is not about the children, the question is about the Next Generation, for example after a long time, after a long living. We die and after death a new generation is born,  do you want the Living ones to know?  is it important for you?
+R: yes
+E16 Can you tell me why you answered this way about you, the world and future generations knowing about what has happened?	E16 chi qe ji tere muhime ji buna hemo insan zanibin che bu?	E16 Können Sie mir sagen, warum Sie so über sich, die Welt und zukünftigen Generationen geantwortet haben?
+I:  why is it important for your the world to know?
+R:  I want them all to know how and what happened.
+E17 And what should be done to ensure that future generations know about what happened?	E17 che gereke (lazime) haye hamo zarok u naviye zanibin che bu?	E17 Und was sollte getan werden, um sicherzustellen, dass künftige Generationen wissen, was passiert ist?
+I: What should we do so the world and the Next Generation to know what happened?
+R:  I say let them all know.
+I:  what do you think or how do you think this should be done?  what should be done so they don't forget about this thing?
+I:  do you understand Arabic?
+R: no
+I:  for example write a book about it or make a movie about it so they don't forget
+R: yes
+I:  so it's all as a history
+R:  yes in a book,  the book will be read and not forgotten. 
+E18 Have you heard of a truth commission?	E18 tu bare naha ta qat bisti bi (komisiyone rastiye)(lejnet edelete)?	E18 Haben Sie schon einmal von einer Wahrheitskommission gehört?
+I: have you heard before of a committee called the truth commission?truth organisation?
+R: i didn't do any interviews in Germany, only in Iraq, i talked many times.
+I: No, have you heard about the truth commission or organisation?  there's an organisation called the truth commission have you heard about it?
+R: no
+E19 Truth Commissions investigate a pattern of crimes over a period of time, they are temporary and end with a report, and they are officially created by the government of the country. Do you think it is appropriate to have a truth commission for ISIS crimes?	E19 Komîsyonê rastîyê (lejnet edelete) li ser rojed pashi (bori) (maddi) fehse wen digrin chu kare e ne bash bi xelkero biye di waxteki u ew komisyona (committee) karixwe xeles dike w pishte dinifsine.Komîsyonê rastîyê bi navi hukmete welate che dibe.nirine te chiye ji bo komisiyonek e rastiye hebe ji daishre?	E19 Wahrheitskommissionen untersuchen vergangene Verbrechen über einen bestimmten Zeitraum. Sie arbeiten zeitlich begrenzt und schreiben am Ende einen Bericht. Sie werden offiziell durch den Staat (Regierung des Landes) gebildet. Denken Sie, dass es angemessen ist, eine Wahrheitskommission für IS-Verbrechen einzurichten?
+I: I'm going to tell you now what the truth commission is,  it's not gonna that goes back to the previous time and write a report about it like when people were held Captive by Isis,  this committee is established by the government like for example the Iraqi government,  in your opinion do you believe that this committee is appropriate and good to be done?
+R: yes
+E20 In general, what do you think should be done for victims of ISIS?	E20 nirine te chiye, gerek(lazime) che bibe ji bo dehiyet (qorban) e daish?	E20 Im Allgemeinen, was denken Sie, was für die Opfer von IS getan werden sollte?
+I:  what do you think should be done for those people who were held Captive by Isis?
+R:  I swear they have went through horrible things,  a lot of things should be done for them,  they should feel safe and comfortable and so many other things are necessary to be done.
+E21 And what should be done specifically for the Yazidis?	E21 Û bi taybetî ji bo Ezidîya gereke (lazime) che bibe?	E21 Und was sollte speziell für die Jesiden getan werden?
+I: What should be done specially for the yazidis?
+R:  put them in a place where they feel safe and rested, where there is no a daily kill and fear.
+E22 And yourself, do you feel recognized as a victim?	E22 Gelo hûn xwe wekî qûrbanek dibinen?	E22 Und Sie, fühlen Sie sich als Opfer anerkannt?
+I: Do you feel like people admit that you are a victim?
+I: how much?
+R: 3 
+E23 Why do you feel that way?	E23 Hûn çima wiha (wilo) xwe dibinin?	E23 Warum haben Sie dieses Gefühl?
+I: Why do you think that people see you as a victim?
+I: If you find it hard to answer you are not obligated to.
+R:  it is hard. 
+PEACE	Aşitî	Frieden
+F00 Thinking about the situation in Iraq and how to move forward, I wanted to ask you a few questions.	F00 Bi nirxandina rewşa Iraqê û bi pesh chubun ez dixwazimhin pirsan bipirsim.	F00 Ich würde Ihnen jetzt noch ein paar Fragen zur Situation im Irak stellen und wie man diese Situation verbessern könnte.
+F01 In your opinion, is it possible to have a lasting peace in Iraq?	F01 Di fikra we de, li Iraqê aşitiyek direj mumkun e (e hebe)?	F01 Ist es Ihrer Meinung nach möglich, im Irak dauerhaften Frieden zu bewahren?
+I: Do you believe that there's a possibility to have a lasting peace in Iraq?
+R:  I don't know
+I:  do you think it's possible or not possible
+R:  I don't believe so
+F02 In your opinion, is it possible to have a lasting peace in the middle east region, across all countries?	F02 Û li  fikra we (nirine we), gelo li( sharq awsat)(dewlete araba) e aşitiyeke direj bibe , li her  welêtiki?”	F02 Und ist es Ihrer Meinung nach möglich, in allen Ländern des Nahen Ostens dauerhaften Frieden zu bewahren?"
+I:  do you believe let There Be lasting peace in other countries in Middle East like Arab countries like Syria or Afghanistan? you don't believe so?
+R:  I don't believe so
+R:  Muslims don't do good things, I don't believe so.
+F03 What should be done to build lasting peace in Iraq?	F03 Ji bo  aşitiyak direj hebe li iraqe,gerek (lazim) che bibe?	F03 Was muss getan werden, um im Irak dauerhaften Frieden zu schaffen?
+I:  What should a person do so there will be peace in Iraq? what should be done?
+R:  genocide trial and things like it.
+I:  What does genocide mean?
+R:  like to provide security and safety for the yazidis in Iraq,  to end the war. 
+F04 How do you feel about the current military campaign against ISIS?	F04 Hûn bi che dihesin (hun chawa dikin)li hemberî kampanya (hecum) esker (leshker) diji daishe?	F04 Was denken Sie über die aktuelle militärische Kampagne gegen den IS?
+I: Have you heard about any current military campaigns against Isis?
+R: how?
+I:  is there anyone who is fighting Isis in Iraq now?
+R:
+I: who?
+R : There are a lot who are fighting Isis
+I: like who?
+R:  Iraqi government
+I:  and you think it's a good thing, are they making any progress?
+R: yes
+F05 And what do you think should be done to protect Yazidis and other minorities in Iraq?	F05 Û  ji bona parastina Ezîdîya û miletin din li Iraqê gereke (lazim) chi bibe?	F05 Und was denken Sie, sollte getan werden, um die Jesiden und andere Minderheiten im Irak zu schützen?
+I:  what should they do to protect the yazidis and other minorities in Iraq? what should they do? how to protect them?
+R: To provide safety and two finish isis.
+NARRATIVES AND MEMORIALIZATION	VEGOTIN Û PÎROZBAHÎ	Erzählungen und Mahnmale
+G00 We just discussed about truth and knowing what happened during the conflict. I have a few questions about your own experience of sharing what you lived through.	G00 wexte tu qisete xwe bi daishere ji miletere beji,ew milete e te jero guti che geweb dide te?G00 Wir diskutierten gerade über Wahrheit und wissen, was während des Konflikts passierte. Ich habe ein paar Fragen darüber, wie sie das erlebt haben, wenn Sie über Ihre Erfahrung berichtet haben.
+G01 Since you came to Germany, how often have you discussed with anyone your experiences during the conflict with ISIS?	G01 Ji dema ku hûn hatine Almanyayê, we çend caran tecribeyên xwe yên dema şerê DAEŞê bi kesan re denkriye (guhtiye)?	G01 Wie oft haben Sie seit Sie nach Deutschland gekommen sind mit jemandem über Ihre Erfahrungen während des Konflikts mit IS gesprochen?
+I:  since you came to Germany have you ever talked about your experience? about what you have been through?
+R: no
+I:  no friends or family?
+R:  since I came to Germany I didn't talk about it only in Iraq I did
+I:  but here's do talk about it with friends or family or people around you, or even your sister?
+R:  you mean my story?
+I: yes
+R: yes
+I: So you always talk about it
+R: yes 
+I: Have you discussed it with  a psychotherapist?
+R: which means?
+I: In Germany with a therapist, psychotherapist?
+R: yes
+I: you talked
+I: Have you discussed it with social workers?
+R: no
+I:  journalist or police or lawyer
+R: no 
+G02 Why do or did you discuss what happened to you?	G02 Hûn çima tiştan ku hate serê we pe dendikin (dibejin)(niqash dikin)?	G02 Warum möchten Sie nicht darüber sprechen, was mit Ihnen passiert ist?
+G03 Why do you never discuss what happened to you?	G03 çima hûn ticar tiştê ku hate serê we (nabejin,niqash nakin,dengnakin)	G03 Warum haben Sie nie darüber sprechen, was mit Ihnen passiert ist?
+G04 Who did you discuss your experience with? I will read some options to you and you can tell me which ones are people or groups you have spoken to.	G04 Hûn (chirok/tecrube) xwe bi kêre niqashdikin (dibejin) Ez ê niha ji we re hinek bijardeyan bixwînim û hûn jî ji me re bibejin ku hûn bikêre û bi kîjan grûban  niqashdikin (dengdikin)	G04 Mit wem sprechen Sie über Ihre Erfahrungen? Ich lese Ihnen eine Auswahl vor und Sie können mir sagen, mit welchen Personen oder Gruppen Sie gesprochen haben.
+G05 If other, please specify	G05 heger gutinek din heye,xere xwe beje	G05 Falls weitere Personen oder Gruppen, bitte benennen Sie diese.
+G06 If media, what kind of media outlet was it, for example radio, TV or newspaper?	G06 [Heger Medyaye] kijan bû,  (misal) radyo, TV yan ceride bu?	G06 [Falls Medien] Welche Art von Medium war es, z. B. Radio, Fernsehen oder Zeitung?
+IF LAWYER	Heger parêzer be	Falls Rechtsanwalt
+G07 If you spoke to a lawyer, was it a German lawyer or an international lawyer?	G07 [Heger parêzer be](muhami) Heger we bi parêzere we axaftin kiribe(denkirbe), ew parêzerek Alman bû yan jî navnetewî (alami/ international) bû?	G07 Sofern Sie mit einem Anwalt gesprochen haben, war es ein deutscher oder ein internationaler Rechtsanwalt?
+G07.1 If other, please specify	G07.1 heger gutinek din heye,xere xwe beje	G07.1 Falls andere, bitte nennen Sie diese.
+G08 If you spoke to a lawyer, did they approach you or did you approach them?	G08 Heger we bi parêzerekê re axaftin çêkiribe, gelo ew hat jem we  yan  hûn chun jem ?	G08 Sofern Sie mit einem Anwalt gesprochen haben, haben Sie ihn/sie oder wurden Sie angesprochen?
+G09 Do you feel you understand what will happen to the information you shared with the lawyer?	G09 Hûn hîs dikin ku hûn fahm dikin ku dê çi bibe bi agahîyêne e we guti bi parêzere ?	G09 Haben Sie das Gefühl, zu verstehen, was mit den Informationen geschehen wird, die Sie dem Anwalt gegeben haben?
+G10 Have you received any communications from the lawyer since you spoke with them?	G10 Ji dema ku we bi wan re xeber da, we ti ragihandin (ceweb) ji parêzeran girt?	G10 Haben Sie vom Anwalt irgendwelche Mitteilungen erhalten, seit Sie mit ihm/ihr gesprochen haben?
+IF POLICE	[Heger shirteye)	Falls Polizei
+G11 If you spoke to the police, did they approach you or did you approach them?	G11 [Heger shirteye) Heger we bi sherte re axaftin kiribe, ew hatin cem we le win chun cem wan ?	G11 [Im Fall von Polizei] Sofern Sie mit der Polizei gesprochen haben, haben Sie sie oder wurden Sie angesprochen?
+G12 Do you feel you understand what will happen to the information you shared with the police?	G12  hûn fahm dikin ku dê çi bibe bi ifedete  te bi shertede deyi ?	G12 Haben Sie das Gefühl, zu verstehen, was mit den Informationen geschehen wird, die Sie der Polizei gegeben haben?
+G13 Have you received any communications from the police since you spoke with them?	G13 Ji dema ku we bi wan re xeber da, we ti ragihandin (ceweb) ji sherte girt?	G13 Haben Sie von der Polizei irgendwelche Mitteilungen erhalten, seit Sie mit ihr gesprochen haben?
+G14 And since you came to Germany, how often have you written about your experiences during the conflict with ISIS, for example on Facebook, twitter, in letters or in a book?	G14 Ji dema ku hûn hatine Almanyayê, we çiqasî di derheqê tecrubeyên (qiset) xwe yên dema şerê DAEŞê li ser facebook, twitter, nameyan yan jî di kitab de nivîsî?	G14 Und seit Sie nach Deutschland gekommen sind, wie oft haben Sie über Ihre Erfahrungen während des Konflikts mit IS -- zum Beispiel auf Facebook, Twitter, in Briefen oder in einem Buch -- geschrieben ?
+I: Have you ever written about to experience?
+R:  you mean my story?
+I: yes
+R:   in Iraq my brother has wrote for me
+I:  not in Germany
+R: no 
+G15 Why do you write about what happened to you?	G15 çima hûn behsa çi hatiye serê we dikin?	G15 Warum schreiben Sie darüber, was Ihnen passier istt?
+G16 Where did you write about your experience? I will read some options to you and you can tell me which ones are places where you have written.	G16 We li ku derê tecrubeyên xwe ( qiset) nivîsî? Ez ê niha ji we re hinek bijardeyan bixwînim û hûn jî ji me re bibejin ku hûn bikêre û bi kîjan grûban re yazikir (nivisend)?	G16 Wo haben Sie über Ihre Erfahrungen geschrieben? Ich lese Ihnen eine Auswahl vor und Sie können mir sagen, wo sie darüber geschrieben haben.
+G17 If other, please specify	G17 heger gutinek din heye,xere xwe beje	G17 Falls andere, bitte nennen Sie diese.
+G18 And since you came to Germany, how often have you yourself sought information about what is happening in Iraq with the conflict with ISIS?	G18 Ji dema ku hûn hatine Almanyayê, hûn çiqas li agahîyên(malumet) ku di şerê DAEŞê de çi bûye digerin?	G18 Und seit Sie nach Deutschland gekommen sind, wie oft haben Sie sich über die Ereignisse im Irak mit dem Konflikt mit IS informiert?
+I: How often do you seek information about what is happening in Iraq and Isis? what I mean do you want to know any information about it?
+R:yes
+I:  and you do it every day
+R: yes
+G19 Why do you seek information (or why not)?	G19 Hûn çima li agahîyan (malumet) digerin (yan nagerin)?	G19 Warum suchst du Informationen (oder warum nicht)?
+I:  why do you seek information and news?
+R:  I want to know,  I want to know if they killed them (them: ISIS)  or if the situation has improved. 
+G20 Where do you seek information?	G20 Hûn agahîyan (malumet) li ku derê digerin?	G20 Wo informieren Sie sich?
+I: Where do you seek information? from your friends?
+R:  yes friends
+I:  Facebook?
+R:  I don't know how to read on Facebook I just get news from my friends
+I:  television
+R:  no television
+G21 If other, please specify	G21 heger gutinek din heye,xere xwe beje	G21 Falls andere, bitte nennen Sie diese.
+G22 And how do you and other members of the Yazidi community communicate with each other about different issues? I will read you a list of common forms of communication; as I name them, can you tell me whether or not you use each one?	G22 hûn û  malbata Êzîdîyan çawa têdikevin nav ragihandinê (bi hevre didin u distinin)? Ez ê ji we re hin cûreyên (extiyer)ragihandinê bixwînim; dema ku ez wan binavbikim, hûn dikarin ji min re bibêjin hûn kîjani bikartînin(estemaldikin) yan na	G22 Und wie kommunizieren Sie und andere Mitglieder der jesidischen Gemeinschaft miteinander über verschiedene Themen? Ich lese Ihnen eine Liste der häufigsten Formen der Kommunikation vor. Wenn ich sie nenne, können Sie mir sagen, ob Sie diese jeweils verwenden?
+I:  how do you communicate with your yazidi friends? phone calls? WhatsApp?
+R:  WhatsApp
+I:  friends?
+R: yes
+I: Facebook Messenger?
+R:  I ask my friends and then my friends talk to people
+I:  so Facebook
+R:  Facebook and WhatsApp, Facebook Messenger. 
+G23 If other, please specify	G23 heger gutinek din heye,xere xwe beje	G23 Falls andere, bitte nennen Sie diese.
+TRAUMA	TRAÛMA	TRAUMA
+H00 For the last part of this interview, I would like to ask you some questions about how your experience of violence during the conflict with ISIS affects your everyday life today. I understand you have been through a lot and I also want to remind you that you don't have to talk about anything unless you feel comfortable sharing it. You can stop this interview at any time or just tell me if you don't want to answer any question.	H00 ji bu persiyane e teliye ez dixwazim pirsne din ji te pirsbikim,wexte tu di desti daish de bu,tecrube nebashbune (enef) wen bi tero chubu? Jiyane te chu bedili (gewri)	H00 Für den letzten Teil des Interviews möchte ich Ihnen einige Fragen dazu stellen, wie sich Ihre Gewalterfahrungen während des IS-Konflikts heute auf Ihren Alltag auswirken. Ich verstehe, dass Sie viel durchgemacht haben, und ich möchte Sie daran erinnern, dass Sie nicht über alles reden müssen, es sei denn, Sie fühlen sich damit wohl. Bitte sagen Sie mir jederzeit, wenn Sie das Interview beenden möchten, und wenn es irgendwelche Fragen gibt, die Sie lieber nicht beantworten.
+I: We are going to ask you questions about your story, but you are not obligated to answer all of them,If you find it hard to answer you can  say I don't want to.  you can talk about whatever you want,  you are not obligated.  we don't have many questions about the story, you can tell whatever you want.
+VIOL1 What can you tell us about the time you spent in captivity with ISIS?VIOL1 Hûn dikarin ji bo dema ku hûn di destê DAEŞê de bûn çi bibêjin?VIOL1 Was können Sie uns über die Zeit sagen, die Sie in IS-Gefangenschaft verbracht haben?
+I:  what do you want to say about the time you spent in captivity by Isis
+R: No matter how long I talk about the story it will never end.
+I:  you can talk about whatever you want, we would really like to listen to you.
+R: i will talk about the time before i was captured
+I:  we don't have questions about it, you can talk about all the things that you want.
+I:  you can talk about the most important things
+R:  I want to talk about the entire story and  about the horrible things that we have been through
+I:  you can talk about it, we are listening
+R:  i will talk about many things, on the 3rd of August Isis got into Shingal, on the 4th of August they captured us, we are still suffering from the torture until this day. We came and then on the 3rd or 4th they have captured entire family, on that day the entire family was held captive, and two of our family managed to escape, me and my sister were captured.
+I:  so your family managed to escape from the beginning.
+R:  almost, some families stayed for four hours others for 5 hours and others stayed from morning till night then managed to  escape at night. 
+R: They captured us all,  a card that included my mother my father my sister-in-law and four children and my sister also was in it,  but i and the other sister walked , And after Isis captured us we got into their car,  they tried three times to kill us but each time  they tried to kill us they received a phone call so they let go of  Killing us.
+I: what (terk )?
+R: I mean Isis when they captured us,  my family was going by the car,  me and my sister and two Brothers were walking and the rest of the family was in the car,  and Isis when captured us they wanted us to get off the car and they wanted to kill us,  they held the guns to our head, but then they received a phone call being told not to kill us.
+R:   we had that three times, one time they made us stand in front of a house, and then they shot and we fell, And every and each time was the same, they let us get off the car then they try to kill us but then they receive a phone call,  they took us to the border of Syria and Iraq,  they put the man aside and they put women children and girls all together, most of the families went by another bus  so we did not know which one was alive and which one was dead.
+R:  we spent almost two to three hours like that,  they had the men all and ask them to sit and they wanted to kill them all But then they said  there are too many of them so we will take them to shingal.They put the men aside in a bus and the women and children in another bus,  they put my brother's in a bus and put us in a different bus,And they parked the buses in the street,  they picked all of the people and then drove the bus. We reach the bus that my brothers were in and we asked them what are you going to do then they said we will kill your brothers.
+ the buses drove for about 1 hour,  me and my sister were looking the entire time at the other bus where my brothers were in and they were always thinking that they are there,  we tried to start with our eyes inside the bus but we did not see them,  we arrived to Shingal,  and we lost the other bus,  and the airplane started to bomb the area and Isis were shooting everywhere, we wanted to go in the shooting area so we could get killed and die, we didn't know anything about my family until, we did not know anything about the family for about 12 to 16 hours,  at 11  pm we  heard isis sharpening their knives, and we did not know what is going on. at 12 o'clock  they said get up we are going to kill all of you, we got up all of us women and children. At 12 midnight they said get up we are going to kill you all,  at 12:30 the bus drove out of Shingal, they took us to Tal afar  in a school building
+I:  this happened at 12:30 midnight?
+R: yes,  we arrived to the school at 3 a.m.  and there were tons of children, we asked where are we and they said we are in Tal afar.
+R:  at 6 o'clock in the morning, the weather was nice,  they said separate the girls from women,  they separated the beautiful girls,  I told my sister to put mud on herself so she doesn't look beautiful,  it was 6 o'clock in the morning we stayed until 9 or 10 a.m. then we got out to the front yard of the school building, We got out of the room to the yard and there was a hole filled with soot. we put some of the soot on a tissue then wiped our faces with it, 2 - 3 times isis came to the room where he separated girls from women and did not ask us to go with them.
+R: That entire day that we stayed in Tal afar,  Isis and their Princes came for three times  forcing girls to be taken by  their hands separated from their mothers , We stayed in that school until night, we did not know anything about our family so me and my sister  immediately assumed that they killed them,  we were in a horrible situation,  at  1 a.m., they took us at 12 o'clock and transferred us from that school,  then at  1 a.m. they sorted us and put us in buses  to Badosh.
+R: At 1 a.m. they took us until 4 a.m.  to a jail in Badosh, filled with women and children,  the jail was very big and filled with people, --------, We asked where are we,  and on the wall of the jail was written “the jail of Badosh” . A friend of mine knows the language,  we asked where are we, and they said it's Badosh jail.
+R:  the phones were still with us they did not take  them,  when we were captured by Isis we called our cousins,  we said we are now in Badosh jail.  we said if there's anything that you could do to help us, and they asked if we know anything about the family, we said they are dead, we said all of them were killed. 
+R: We stayed in Badosh jail for five days, Every morning Isis came and walked between the women and children, then they picked girls and took them, and the situation was very bad,  and the children were separated from their mothers,  it was scary, They said whoever converted into Islam we will take them  to their families,   2 days, on the third day they wrote the families names, they said we will write the names of women and children and take them to  their families.  me and my sister were alone with no family to write our names to, a lot of women said come and write your names as part of our family,  then they said that they will read the  families names and if the names were different between what we write and what our men wrote and if they expose us they will torture us,  they said where is your family and we said they killed them all and we know nothing about them.
+R: There was no solution for me and my sister but committing suicide,  there was no one that could help us so we decided to kill ourselves.  we tried many times to kill ourselves but they could sense that we were trying to so they stopped us. we stayed 4 days in that jail of badosh  and we did not know anything about our family.   I tried once to call my brother at 10 p.m. and  it rang, I was so happy when i heard the ringing,  when he answered the phone I asked immediately are you my brother or another person? he said yes I am your brother and then he cried and said where are you? both of your brothers are not here either.
+I: so both of your brothers couldn't escape?
+R: both escaped but the other one we didn't  know anything about him,neither us nor my family. we thought both of them were lost or killed. 
+R: they said our brother got killed, they said our mother,father, sister in law and her 4 children escaped,only the 4 of you are here now.
+R: we said “it's great that you all escaped, and both of our brothers were killed then we will kill ourselves too.” then we thought that we should wait for a while,perhaps something will happen so we get over this thing and be free.
+R: we were at Badosh jail,so me and my sister tried to call my brother at night, we always used to call our brother secretly at night. We have taken the phone to the women and girls too,  we had the phone in our underwear trying to prevent anyone to see it.  I called my brother and we talked,  I talked to him and he told me that our brothers are fine only  the two of you are left behind.  then I said” if all of you are fine then this is so great” and then I said that I would rather kill myself than be a Captive by Isis because our religion does not allow the things that will happen, we both decided to kill ourselves (with the other sister).  we cried and then I talked to my father, and I told him that I want to kill myself and I told him that a religion does not accept the things that they want to do with us,  I told him  “we want to kill ourselves and then he said “don't do this my child and wait,God is Mighty and perhaps something will happen and you will be free” 
+R:  for  5 days it was almost the 10th of August, Isis came, it was A continuous situation, continuous fear and continuous torture, they came and they said the girls that suit us and the Beautiful Girls we will take them, this was continuous,  they said those who will we marry we will separate them from children, children were about 10 years old or 15 or 8, they separated all the children from their mothers,  a bus came and took girls their ages were around 10 or 11 and separated them from their mothers and then they separated us  women and then the Iraqi aircraft started to bomb  we were at  Badosh jail.  after round 1 hour isis  came to the place where they locked us up and then Isis prince escaped because of the aircraft,  and the aircraft could not save all of us and  it  will perhaps kill us all. the  aircraft stopped and Isis Returned ------------  Then they took us to tal afar again.
+R: they took us to tal afar again,  it was almost 4 or 5 p.m. and they put us in a school building,  they put us in a big yard and they said stay there and we sat there all of us,  there was a friend of ours she was a yazidi woman,  she gave me her son and she said if they ask you say that this is my son.  her son stayed with me for several days, ----------   The woman tall vases that these two girls are my daughter in laws,  and she said if they asked you about your spouse tell them that these two are our husbands ( referring to her sons).  they said “ all of the families come here and give us your husband's names”   but then they discovered that I was lying and they told me that I am lying then I said no I'm not lying I am married and this is my son.  one of Isis member told me by my arm and said you are lying you're not married. 
+I: did that isis member take you?
+R: yes, he gave me a paper and so for my sister after me, They  gave papers to all of the women and girls who looked beautiful and did the same thing and gave them papers to pass, Did not allow them to pass to the school building,  the phone was with me, They put us all in cars especially the women they liked.  and they asked where are your families and we Answered, they all are killed. Because if we told them that our family is still alive they would torture us and then kill them. then they took us to Mosul and put us in a big house,  we stayed there for 3 or 4 days, when we came from shingal it was the 10th.  they took the beautiful girls that they liked to that house and they took us to to that house, we arrived at 10 p.m.  when we arrived to that house we saw that it was filled with women and girls, all of them were crying, they were in a bad situation,  we couldn't sleep, during the entire time of captivity there we could not sleep neither I nor my sister, and we did not eat,  would not eat but did not sleep, because of the continuous horrible situation we cried the entire time, we only drank water. in Badosh jail,  there's to bring huge cans of water, there were big cans and small cans,The used to bring the big cans and pour the water in the small cans and the small cans were filled with dead chicken
+I: dead chicken?
+R:  yes and we drank it because we thought we might die, after arriving to Mosul,  my friend.. Isis  have took away part of the girls,my friend said give me your phone, she had a brother who managed to escape she said I will call him.  I gave her my phone and we were sitting she went to another room for 15 minutes then it became an hour but she couldn't call because there was an Isis member in that room. she was sitting there and others were laughing at us and scaring us,  they took some and beat them. 
+R: isis  came and said if you have any phone with you get it out because we will search you , and we have to give the phones up because we knew they will search us and if they find any phones they will torture us.  my phone was still with my friend and they told her to give the phone up and she gave them my phone. they asked me to give my phone up and I told them that I don't have one then they said that we will take your clothes off and search you and I told them I don't have any  phone,  they said if we take your clothes off and if  we find a phone with you,you know what will happen, then I said I don't have a phone with me. they took the phones from everyone and the next morning came, at 8 o'clock in the morning Isis princess came,  they chose the girls that they liked,  we were all sitting and they came walking between us with weapons,  we were all crying.  they stood  beside me and said raise your head but I didn't so they pointed the weapon to my head and they said raise your head then I did because the gun was pointed to my head,  one of them said I will take this for myself,  the situation continued until night, they always chose the beautiful girls with blue eyes and blond hair, there was a lot of us.  they chose girls from us, they kept choosing until night and they got tired because of the choosing process,  Isis was always with us and between us.  the next morning they came again and again and chose the beautiful ones,  again until 4 p.m. take them all to that room, it was a big room, and they made them all sit there, they laughed at us tortured us beat us  molested us,  then the person said those who remained we will take them to Baaj.
+I: who? the ones who remained.
+R: to Baaj.
+I: is Baaj a city or a village?
+R: city
+R: they took us to Baaj, they took our earrings off our ears,they took our jewelry.they took us to Baaj again and we heard aircraft at night,the Iraqi aircraft, but they did nothing for us. they took us to the buses, And they put the girls in the Buses, a lot of girls  wanted to try to kill the driver and they said even if that meant for the bus to roll off a cliff and we all die.  They tried and they said even if the bus flipped, not all of us will die,  after a long time of weeping and crying and talking in the bus the driver got tired then the bus stopped and all of us got off,  and Isis member came and asked  the driver “why did you do that? ,  then the driver answered” it's because of the girls talking and crying and their voices, I couldn't see any more”. then they said” if you keep doing this will kill all of you” and then we said “do that , kill all of us we are not afraid of death” Then the bus continues his way and we arrived to Baaj  at night.
+R:  at night they took us and put us in one house, two houses in desert,  there was nothing else in the middle of nowhere only these two houses.  and that house for the next morning, we were all girls single girls and beautiful,  in the next morning it was the same situation all over again, and Isis prince came and chose a girl, they took her forcibly,They asked one of the girls to stand up and then the girls said no I don't want to stand up, and then they ordered her to stand and one of them shows her, the girl’s name was ...(due to the cloud file sharing condition of the university,i was asked not to write any specific names of the victims) They asked her to stand up and they brought her clothes and they said you have to wear this,  she said I need to go to the bathroom first, she went there and she cut her veins.  the blood started to pour out from under the door and Isis was so angry and they knew that she had cut her veins,  after half an hour,  they put the girl in a blanket and throw her in the hall, they did not take her to the doctor.  one of my friends had a phone with her,  me and my sister and the rest of the girls surrounded the girl in the room, the girl knew how to write in Arabic,  she wrote a message and sent it to an Iraqi channel,  she wrote that  we were in  the desert in Baaj,  and we are located in two houses, red coloured, and she said that they killed the girl and they started to choose girls from us. the message appeared on the news line on the channel.  I just came again and started to walk between us with weapons and then they asked” who has phone  and who has sent this message to the news channel?”  they said”  you wrote that a girl has killed herself and you would describe these two houses”.  no one said anything,  again they walked between us and chose girls,  then an isis prince called and said “Transfer the girls again because the Iraqi aircraft might hit again and help the girl”. Then they put us in buses and took us into the centre of Baaj and put us in a school building,  there was an Arab woman searching us for any phones,  but they couldn't find anything,  then we got into the school building,  and we entered the same situation all over again with beating and choosing the girls and taking them for themselves,  we stayed in Baaj  for five days with the same situation,  it was always beating and crying and torturing and princess coming and choosing girls,  we stayed for 5 days and then they came and said  we will transfer you,  me and my sister and 5 other girls,  a Prince Charles us along with his fighter,  they put us in the bus and took us, whenever they chose a girl they took her with them,  they put us in a car and took us at night to Mosul. me and my sister were always thinking about suicide, and we were always searching for an opportunity to kill ourselves.  they beat us so we get on the cars, they took us to Mosul,  when we arrived there we had to ride in another car and the driver was a Kurdish man,  he said come and draught in the front but I said me and my sister will ride in the back and then me and my sister and two other girls sat in the car in the back seat,  me and my sister and the others were thinking the entire time how to kill ourselves,  we even thought that if the car started we will open the door and throw ourselves out.  when the car started, my sister threw herself from it but an Isis member was inside the car with us and he grabbed her from her arm, then he hit her with the weapon along with the rest of us,  then they asked why would you throw yourself?  you have to convert into Islam  because yazidis  are atheists and we will kill you if you did not convert into Islam and then we said you can't kill us because you will not convert into Islam.  and then they said we will take you to isis base,  and then we said even if you take us to the base or to a house we will kill ourselves both ways .
+and they said if we took you to a place filled with women will you kill yourself? and we said no if you take us to a place filled with women we will not. One of men had his sister in law in the base and he said that my sister-in-law is there then we said if your sister-in-law is there or even if the place was filled with our men we will not kill ourselves. they took us to house,  and then the man took us to his house where her sister-in-law is there,  at night we went there and I don't remember the exact time.
+I: wait i will translate.
+R: We stayed at that house until the next morning,  then they said our  prince will come now, the prince came and asked us to convert into Islam he said that the yazidis are atheists,  and you have to convert into Islam but we said that we don't want to, then he said do you know what is waiting for you if you did not convert into Islam? we said “what?”.  he said he will take you to a camping site filled with men and all of them will  rape you and you will become slaves for us and we will keep on raping you as much as we want.
+R:  we were so afraid and then we said we will become Muslims,  the seven of us said we will become Muslims but don't take us to that camping site, then they said if you become Muslims then we will not take you there and then we agreed to convert into Islam.
+R:  he stayed there for an hour reading Quran and talking about this religion and  saying how yazidis  are atheists and that the yazidi  religion is not a good one and that Islam is better.  the worst and hardest part was when we decided to convert into Islam and leave our religion.The press asked us to stay still, we told him that we don't want to get married and he said that I will not marry you forcibly,  as long as you stay Muslims you are free.  we said” our entire family has been killed”  me and my sister asked him about our family location and he said that he doesn't know. he said if they convert it into Islam then would not kill them, then we told him that we don't know because we think that they have been killed in the minute Isis entered the village, we said that but we were lying,  we asked him if he could take us to our families as they did before with the friend of our’s.  he said” don't worry as long as you converted into Islam and if they did the same then we can reunite you with them”.
+ we stayed there for 3 days and every day they came and checked us out,  we faced fear and torture for these 3 days, their women were worse than them,  they used to come and say that the yazidis  are Faithless and atheists and Islam is the right religion but the yazidi  is not, they were worse than the men.  after 4 days at night they came and put our names as in lottery draw,But they did not write my name or my sister’s, they said if we know how to write in Arabic but we said we don't know,  they wrote 5 names, and then we asked why didn't they write our names and they said we wrote your names too,  we said what will you do with these names and they said we will take you to your  families, and they put the five names in the Jar,  whenever a name was withdrawn, they took the girl to themselves.  then there was this Isis member who came after the prince, he said that we have to pray as in Islam way and we said that we don't want to then he said that if you don't pray then we did not enter into Islam completely, Then they said that they will teach us how to pray.
+I:  teach you Arabic?
+R:  no, praying.
+I; (the interpreter couldn't understand the word)
+I:  oh you mean praying. ok!
+R: they took 3 of us and only 4 left, they separated 2 sisters, we begged them not to separate the sisters, one of the girls hit her head against the window and  bled, and the man was angry and told the girl that she has broken the window and then hit her despite the blood and the cut.They did not take her to the doctor or  treated her, but we covered her head with a Bandage.  the next morning came the Kurdish man who i told you that was the driver of the bus,  he came along with his wife and his brother and his children, I said to myself that this Kurdish man is a good man, I asked him if he could take us to his house but he said that my name is my sister's name was not in the draw and that they came to take there share. we tried so hard to convince him to take us to his house, and Isis member then came he was very ugly he was a bearded man, you could not bear looking at him because of his hideous look, he stood beside me and said” what are you talking about?”  the Kurdish man said that we wanted to go with him,  then the man asked why would we want to go to the Kurdish man's house since we did not got into the withdraw process,The Kurdish man said that he doesn't know why,Send a Kurdish man asked if someone hit us or did anything to us but we  didn't dare to say yes so we said no they were so good, my sister did not open her mouth, only I  spoke with the man.  I said I wanted to go with the man because he knows Kurdish and I  don't know how to speak Arabic. they called the prince to ask him and the prince said it's ok let them go with the Kurdish man. 
+R: We went to the Kurdish man house, Had a fight with his brother about the shower because he sold his share, we asked him if he took the girl to her family and he said yes,  we knew that he  was lying and that is sold the girl.
+ we stayed in that house for two days and then the woman asked us about our family and we lied and told her that they are dead,  because if we said that we don't know where are they they will separate me from my sister and take us to the campsite and if we went to the campsite then I will do whatever they want  to us so we lied.  we told them that our family has been killed and we are orphans now,  then the man came to the house after selling his share and went to the campsite and he didn't come back at night. we ask the woman if she could give us her phone because we thought we could call our cousins because they escaped,isis told us that they didn't kill the children  we said  that we don't know what happened to the kids or anyone,We said our three brothers and our father and our sister have been killed in front of us, and then she asked why didn't they kill you too and we said that Isis wanted us alive,  they said where are the children we said we don't know, we don't know if they are dead or alive.  we asked woman to give us her phone so we could call our cousin and ask him about what happened to the children and the family and then she said I will not give you the phone because i am afraid of my husband and he might kill me,  we stayed for two days and we tried so hard to obtain a phone or steal it from the woman to call our cousin, when you are family is alive but we lied the whole time and told them that they are dead. what time the woman was in the bathroom taking a shower and her phone was in the room,  me and my sister stole her phone, I called my brother because I memorized his number, I told my brother before that if I was exposed us calling him he should say that he is our cousin and not our brother because we have already told them that we are orphans now and every member of our family was killed, he asked us about our location and he said that we don't know the address but we know that we are in Mosul, in a Kurdish house.
+R: When the Kurdish man returned home, we did not tell him that we use the phone so we asked him to give us his phone and we told them that we want to call our cousin to ask about what happened to our brother, and to make sure if the children were dead or alive, the man said” give me the number, have you memorized it?” i said “yes” Then I immediately gave him my brother’s number, and I gave him the number slowly number by number so he doesn't know that I have memorized it or used it before.  after giving him the number I told him give me the phone so I could  speak with my cousin but he said no and then he went to the other room to talk,  he told my brother that they should come and convert into Islam because Islam is the right religion,and he said if you don't say that you want to convert to islam i will not give you your cousin to talk on the phone  my brother who pretended to be my cousin said” if we come and convert into Islam, will you give us our cousins?” the man said yes,  then he gave me the phone,  I was in a bad situation, and I had this headache even before isis enters Shingal,  I had this horrible pain.
+I:  this was before Isis attack?
+R: yes,  but after the torture and the Beating it became worse.
+R: he  gave me the phone and said talk to your cousin,  the man new Kurdish so I could not talk about whatever I wanted, then the man asked me to tell my cousin to convert into Islam, then he said what what is he saying?  then out of fear, I said yes my cousin is saying that he wants to convert into Islam because Islam is great religion,I said that me and my sister would stay in one house with them as a family, he said do you think i should com? i said no, they are great people, I couldn't tell my brother that they were bad so I was saying that our time come here they are great people,My brother said so if I come will they kill me, and I kept saying yes..they are great. so my brother understood what I meant. there were people who we used to know,relatives and so, we went with them before the attack happens to the park,they were good people,poor,humble people,they came from Rabia,he told my brother i will go to isis and tell them that we want your sisters to be slaves for us,and if we bought them we will free them from isis. He came and talked to the Prince, the man knew everything about Islam and Quran and they kept talking and discussing, then they said if they do not converted to Islam we will not give them, I will only give them to you if you marry them. the prince of Mosul came and said i will not Give them unless they convert into Islam,  and they said if your cousin's do not convert into Islam I will not give you away----------------------- The prince said ------------ and then they transferred us from that house to another, they brought two men from Syria and forced us to marry them. ----------.  the two Syrian men said that we will buy your jewellery and gold and put you in a house and then we said we don't need your things, we do not want to marry you, then they asked if we converted into Islam and we said yes,but we didnt read Quran,then they said we will not marry you then the kurdish man said i'll take them with me.  I held my sister's hand and they start to beat us, with weapon. they hit us and beat us but despite these attempts i didn't let go of my sister
+I:  did the Kurdish man do that?
+R:  we were at the Kurdish man's house and those two Syrian men came to marry us in his house, I helped my sister because I didn't want to be separated from her and then they hit us.  they called the prince and told him we have been here for an hour and still nothing happened,  then the prince  said-------------, then they transferred us to another house,  near Mosul,the man said i'll take you both,i said I do not want to get married,  then he said that the yazidis are atheists and Faithless, and Islam is the right religion.  they kept on beating us and hitting us and we stayed with his family for month. everyday he was trying to seperate us, the situation was horrible but whatever they have done they couldn't separate us,  he used to beat us for the simplest reasons. one night me and my sister, he asked us why don't  you get married?,  he said “if you marry us you will have children and you will become odalisque, who do you think you are? yazidis are faithless people, now you can convert to the right religion.”
+R: (1:28:52-1:29:12 not clear) Two new men came to buy us,  he came wants to buy my sister and my sister did not agree,--------------,  she said that's not me that's my other sister. one night the man asked us “why don't you take care of yourselves you are beautiful,why don't you come with me?  I will marry one of you and my brother will marry the other one, or i'll send you to Mosul and the other one will take her to Syria,I give you three choices pick one of them,  it's either we separate you and we send one of you to Syria and the other one to Mosul or we take both of you or one for me and one for my brother”.  these three decisions were very hard, we thought that we should kill ourselves, we asked our friend if perhaps she might be capable of  having a phone and tell our brother about what's going on with us,my sister hasn't memorized my brother’s number,only i did. we wrote his number on a paper and put it in a scarf. -------------,  and we told asked the girl to tell our brother about everything if she had an opportunity to call him .the girl’s sister was there for a visit, then they asked us to move and we cried and we told them that these three decisions are very hard, and then me and my sister thought to kill ourselves while they were writing our names,------------,  until 2 o'clock, then we decided that moment to kill  ourselves,  we took the  scarfs and put it around our necks, then me and my sister kissed each other's eyes and cried,  when we hang ourselves, I  wanted to go before my sister but my sister cried and she said that I don't want to see you die in front of me, my friend was there and she said I am so afraid, -------------, and then i said what should we do with these 3 awful choices.
+I: do you want some water
+I: we will take a break.
+R: 8 o'clock my friend came and asked why don't you sleep?  we said we have choices to make and we cannot sleep at all, three choices each one is worse than the other,  we couldn't find an opportunity at night to commit suicide,  I asked my friend to sleep so we could have time to kill ourselves,  and I told her if  you don't stop this, go and sleep beside your sister. there were four of us sleeping on two mattresses,  we should sleep beside each other so if they come and pick one of us the rest of us will know.  I told her but I was sad and I needed her to sleep so we could commit suicide.  after half an hour both of them slept,  at 5 a.m. they I told my sister That they will come now and separate us and we should commit suicide now,  and we repeated the entire procedure again, we kissed each other and we  cried a lot and we decided to commit suicide. Our friends said that they will lie in bed,  then again we put the scarf around our necks  and we hang ourselves and we couldn't see anything then (fainted). Then our friend told us how they saved us and put the scarf away and she told us that our faces were swollen and filled with blood and shaking and our bodies were cool,” we really thought that you were dead,We thought both of you were dead and then I poked you and you moved and only then we knew that you're still alive”. It was 6 a.m, and our situation was still the same then we opened our eyes and then our friend told us about what happened,  when we opened our eyes we saw  are friend sitting there and crying and then they spoke”  you both wanted to kill yourselves and leave us alone, why would you do that? look at your blood”  we were so afraid to go and see Isis,  then we set and we couldn't speak and with all that fun that she must not tell isis about this incident, I told her that we don't want them to know.
+I:  so you didn't want us to know that you wanted to kill yourself.
+R: you want them to know because after that they will take us to the campsite. 
+R:   the Man Who gave us three choices went out at night and didn't come back,  I couldn't speak and our situation was very awful we were always crying.  the woman said” sister, why your voice is not loud? did you cry all night?”  we said”  is there anything Not To Cry for?”.  then they said  that I should go to the doctor but I have to go alone without my sister and then I said I will not go,  I don't want to do that because I was always afraid that they will separate us, and then I said I will not go alone  to the doctor, I said if my sister doesn't go I will not go and then they said no I have to go long and then I said no I will not go.
+R:  they went away and me and my sister were crying ----,  they said you  have to eat, but we didn't because we wanted to die . after two days from the incident,  he came from the campsite and said what did you decide? we said we don't want to get married he said why we said we don't want to get married, and then he repeated the question why and then we said because I want our family is dead,  and we told the man that in Islam when someone dies you spend time mourning, and mourning our family and then he said does that mean that your entire family is dead?  and I told him that for each member we mourn him for a month, and then the man said it's not up to us and you have to get married.
+ they had a lot of benzin and gas tanks in the house,  me and my sister went to the kitchen and stole
+I: stole a car?
+R: lighter, Because we wanted to burn ourselves,  we thought that the minute there was a chance to be alone we will burn ourselves with gas and benzene.  we  took the lighter, but there was no opportunity to do the operation.  at night they said that they will transfer us,  and we thought to ourselves that we could burn the house down including us and his family. A man came to choose my sister, The man said that the prince has declare that I am an old woman and that my sister is younger and he should choose her,  and then the man said since he is not giving me this woman I will not choose the old one and then he went away. 
+R: After spending the night, at 10 o'clock next morning the house  that lies in front of this one was burnt, the generator has exploded and the fire extended to the street and then they asked us to get out of the house because the fire  probably will reach this house too. the street was filled with Isis and everyone was trying to escape,  we ran towards the fire but they held us back and the woman asked us about where we're going but we are so  afraid to tell her about our intention, and then we said that we didn't want to get out of the house without you.  then we escaped and went to the streets, the streets were filled with isis, and only said we will take them with us. we tried to burn the house, there were many attempts to do that, but we failed and we said that all of the woman inside the house will be burnt to and then we escaped because we had no chance to do that. they came and And started to Extinguish the fire and we stayed in the house for two days, and then again they wanted to transfer us and  marry us and separate us.  one day two men came for my sister,  they always came to pick my sister but they always wanted to choose me
+I: you
+R: yes, two men came again, our situation was very horrible, and the man said why do you always cry?  he kept laughing at us and mocking us ,One of them said I would not pick any of them because they keep on crying I will go and choose another one,  and believe me our situation was the worst among all of the yazidi girls, continuous crying, we even had to yazidi girls with us and they weren't crying as much as we have.  and the man said as long as they keep on crying I will not take them to my house and I will go and choose myself another woman, then they went away for two days,And the situation was always the same you know
+I; yes always
+R:  they came again and said we will choose one, the man said.. they always talked about me, and the man said this is for me I will not give her away, take the other one but they did not agree then the man picked another one from the yazidi girls who were with us but the man said that he will not give her away because he had an offer on her.  and then again they said that they want to separate us but we held each other and kept crying and then they pulled me away then the man said that they will not be separated because they don't want you so take the other one too.  we stayed there for one month on the 3rd of September they took us to another house in Tal afar,  we stayed there  until the 4th of October.  and the situation as I told you was always the same, they would come at night, and the prince --------
+R:Me and my sister used to take the cinder  from Isis  cars and then wipe it with tissues on our faces, -------------, because of constant crying,the  tears have erased the cinder off our faces, one day the woman told us,i wasn't speaking Arabic because we were watched the entire time,She said” my husband is a doctor, he has married me and he has an offer on me for one year, why your face is black?”  she didn't know that it was cinder, she said “ look at her legs and hands” to another woman. I was always disciplined in that house because I wanted them to trust me, and I said to myself that I don't want them to understand me, so my sister said” show your hands and legs to someone” one of them looked at my hands and legs,  when her husband came back home,  we were in another room and she told her husband” the girls hand and legs aren't black and they are getting darker day by day, and her face is black and it doesn't look like her  hands and legs”  the man called another person and told him that my situation is bad and  my health is getting worse and he told him that my hands and legs are not as same as my face, and he said that probably I have an illness, perhaps might kidney is not functioning well, and that my face is getting darker and he told them that they don't want to marry me.They came again to buy my sister,  the one who wanted to buy her said that he doesn't want her who wants me and they said that they cannot sell me, then the man said we will take her to the doctor to examine her,  we thought that they  might discover what we were planning so we said that it's ok and that we will go with them to the hospital( the sister and the girl)  and I said that I will get checked.
+ the prince came and looked at me, and my sister said that I should not speak so they don't understand and then my sister told them”  look at her legs and hands she is in pain”  the man who was living in that house said that “I believe that her face is getting darker day by day”. they never thought that this would be cinder. 
+I; did they take you to the doctor? hospital?
+R: no they didn't, The cards didn't come back home and the cinder was already finished, we did not take a shower for two months,the cinder finished and I told my sister that it was finished and I cried so hard because they will discover our scheme.  at night -------,  they came at night, they brought makeup, me and my sister thought about the same idea that we should go and steal the makeup bag.  when they slept at night my sister went stole the makeup back and brought it to me,  and we did the same thing with the eyeshadow , after that they brought a generator and we were done with that too, then I cried a lot because we were always afraid of separation and Sunday all discover that I am fine and I have no pain.   eggplant,  one day the woman said that we will grill them,  when we went to the kitchen, me and my sister took the eggplant skin and wipe it with tissues ( to have the black color).
+R: the man told the woman that they have to watch us because he suspects us, I have never spoken or talked,  even if I understood an Arabic word, the man said “I don't think this girl is sane, watch her and be careful”  and everyone was watching me, I did not dare to move, even if I wanted to go to the toilet I would take my sister with me and there would be another woman with us. my sister said” everyone is watching so be careful and do not talk” ,  even if they called me or wanted me I wouldn't talk or speak.  the woman  said to her husband “ I truly believe that this woman is insane,And her ------------------a week but the Girl has pain and she's insane”  and this all lasted for a week. 
+R: After week they came one night to separate us,  two of them came and they wanted to take the two of us, each one to a different place,not in one place. Then  we asked the man if you are bothering him and then my sister told them that even if they want to marry us we want to be together and she told them man about my situation and how hard it is to be alone and that I cannot be separated from her, and then the man said” if you get out of this house and you take them with you they should be together and in the same place”.  two men came to buy us, and then the man of the House said “  the situation for these two sisters is not easy” he was talking Arabic and he said “ her sister is insane and they should stay together”.  The Man Who was planning to buy me said “ this woman is insane and I don't want to buy her” “ what would I do will a crazy woman?”  and they arranged marriage that they had was always for one night or one week not more. They said that they want to separate me from my sister and they want to take my sister and leave me in that house.
+I:  so you mean that, you will stay in that house and your sister will go away?
+R: yes
+R:  we cried a lot me and my sister both and isis kept saying that they will separate us and we said that we don't want to be separated,  and then Isis started to scream and they put their weapons to our heads and then my sister said” you can kill both of us, it's normal we don't care, kill us, we would have been dead by now,It's much better to die once than dying every night,kill us”. my sister said”  we will not be separated, if you want to transfer us then transfer both of us together”  the one who wanted to buy me said I will not take the woman and then he sold his share to the other man. 
+I: which means that you and your sister stay together
+R: yes
+R:  yes he sold me  to the other one and it was the same situation, They took her and put her in the car,  and we remained in the same situation and they used to come twice a day. they went away for an hour and then they came back, and again we cried and we screamed,  -------- And I told him that our family has been killed in front of us, then the man took out a knife,  it was very huge one and he pointed it to my sister and  my sister said “ if you want to kill me then kill my sister too, kill us together both ways”  And then my sister fainted out of Fear So they left her  and went away and they kept on talking and screaming and the man put the knife away and they talk to the prince of isis. 
+R:  we spent 3 weeks like that,   we  tried the entire month to steal phone, we also try to escape the house, but whoever had a contract with them they used to give them black dresses and niqab (head and eyes veil as in islamic Sharia).  (2:05:35-2:06:11) 
+R: We said that we must still a phone and should find a way to escape.
+I: so you both were on the streets?
+R: we were thinking about escaping,   I want to Cut short, i got tired, you know it was always the same situation
+I: yes
+R:  me and my sister stole the phone from the house, one night the man asked his older son to bring weapons from somewhere.  another person came and got knocked, the man of the house name was abo faisal,  the man asked the woman if abo faisal was there but the woman said that he wasn't,  the woman was scared and she told the man to call her son that even her son was at home. and the woman said” why did this man come while my husband went away for weapons?”  the man said that he will call her son. the woman was very afraid,  the woman told her daughter-in-law to bring a phone,  she couldn't  use the phone because she had no balance in her’s, and all of them use the phone's of the dead yazidis that they killed. There was the drawer that contained a lot of mobiles and SIM cards, They brought the phone and all of the phones contained a PIN code,  and we were thinking about memorising the PIN code to use it later, only two phones had no code, they put the sim card in it and started the phone but the SIM card has no balance,  one of the mobile phones was white and the other one was yellow, the yellow one was with the daughter-in-law,  and I put the  white one in my hand, and I already had a SIM card that I stole from the Kurdish house,  I hid it in my bra,  when the two phones started we  looked at the phones and then me and my sister looked at each other,  and then the woman told her daughter-in-law to put the phones away to the next morning.  the yazidi girl was still in that house,  I said to the girl” go watch them where they hide their mobiles”  she said” I don't dare to” then I told her to go to the kitchen and pretend that she wants to drink water, the girl went and then came back and said - the woman and her daughter in law went away  and they put the mobiles in a bag and then in a box-  the yazidi girl went to the kitchen and then  she told us about the mobile's location she said”  if they catch you they will cut off your hands, and I will not be involved in this” she said that out of here she was very afraid,  and me and my sister agreed on that, and we told her that if they want to kill us we will run away.  we had no chance to do the operation and still the phone, at 12 o'clock next morning the woman went to sleep,  and the other one said that she wants to take a bath then my sister said let's go, I told her that we have to wait, and I told her that we should wait until she gets into the bath and then we will still the phone. 
+R: When the woman went away for a bath, me and my sister went to steal the phone, our yazidi friend asked us if we stole the phone and we said yes. she was very happy,that she kissed my and my sister’s eyes, and then she said” we will call those who escaped”, my brothers and her brother managed to escape,we said “we will call them at night”.
+When night came,  we haven't had a chance to try, and the woman did not sleep after her bath,  and their kids were around the daughter was 10 years old and the boy was 5 year old,  and both of their children were not normal,  they came to our room and we had no chance to call.  and we waited until 11 o'clock at night, at the moment I called my brother and I  said, it has been almost a month since the last call between us and I just give him a missed call and he called me back, I told him that we were in Mosul, and I gave him the exact address of the house I told him that I have stolen this phone and he told me that I should be aware that they catch  it with me,  he said give me the exact address in Mosul,  he wanted the address so he could inform someone that lives there to help us but I told him that I have no idea but people here and I don't know anyone then I asked him to wait  and that I will get back to him at night,  then he asked me “ do you think there will be another opportunity for you to call me again” and then I said no, then he said “go to sleep”  and I told him that since  they separated us from you we haven't slept at all”And then my sister said that I was situation was much worse, each time they still a phone and call somebody with thought that this was yours.  at 2 a.m.  I called, I  didn't know the address but I read it once what we were crossing the street, my friend  could speak Arabic, her husband used to take her out, her situation wasn't like ours as in staying the  entire time at home, she gave us the address and we gave the dress to my brother and he wrote it on the phone and then he said” I have friends and people I know that will try my best to hide you with them, but please pay attention and be aware to not be caught” The next morning  we called my brother again, he gave us an address and he told us that if it's possible for us to go there and then he said call me after half an hour and then he said hang up now and so we did.  after half an hour I called my brother again,  and he said that the same address that we gave him, a man lives there, he said”  I just need something a sign perhaps so I could recognise the house”  we said”  everyone is asleep and we will go to the roof”  we went to the rooftop me and my sister, My brother was talking with us on the phone and that man was talking with my brother while my brother was talking with us on the phone,  the man said that I am wearing a brown shirt and please give me something to recognise your sisters”  we told my brother that we are standing on the rooftop, I don't eat all my brother that there are two women standing and my brother said yes.  I waved with my phone and he did the same, and he said that I am working and you have to wait until I find someone to free them. 
+R: We had the man's number with us, and my sister learnt to speak a little bit Arabic, then my sister told my brother to send  her the men's number, and my brother did,  I went to the toilet because the mobile phone was in my underwear, and I also stole tissues from the room, he sent the number by SMS,  I wrote the number on the tissue and I put them oh by the way, I was much stronger than my sister  in this particular part,  I was always planning. my sister was so afraid about something might be exposed so I went to the toilet and put some water on the tissue to erase the number,  we waited two days for the man, ---------, the man said that I can't  help you,  and we return to the same old situation with a continuous crying, and we couldn't eat and we couldn't walk.The man said I can't help you, he said that one afternoon and then at night they brought to men to buy us,  two came to buy one of us,  they said we want one and then we said again that we don't want to be separated  and cried again and screamed and we knelt by the man's feet and kissed his feet not to sell us, and then we kissed his hand begging them not to separate us,  my sister said”  if you see my sister's situation, her situation is getting worse day by day”  and then she said please don't separate us. 
+R: he gave us two days the man said “that's enough I have to let you know it has been one month since you've been here “ Then he repeated the same sentence that the yazidis are nothing ,Your religion is not acceptable,  and you don't want to get married with us, and they fought with us again, and he was making problems, and then he said that after two days he will transfer us from this house.  he gave us two days and we were always calling my brother, we told him that his friend can't help us,  and then my brother said that the man wasn't the only one that he relied on and that he is looking for  other people to help us, (2:20:06-2:20:20)  and he said “perhaps they will put pills inside the food and if you're capable of cooking your own food that will be great “ And then  he said “ go to sleep and another person will try to help you”
+ and we didn't find a chance to pass by the house, then he called my brother again and  said “ I sent another man,after two hours go again to the rooftop, because the man will arrive after 2 hours”  after two hours we went to the rooftop and we called again. when women stayed by themselves  at home we had more possibilities and chances to call,  we went to the roof and we called my brother and my brother said that the man is searching for the address, and the man said that he is standing in the exact point but he is wondering which house is it, and again we returned to the same situation telling my brother that we are standing on the rooftop and we describe what we were wearing and then the man said “in God's will I will help you and free you” Then again they sent his number again, my brother sent it,  and the man said that I will free you this afternoon,  and then Isis son came home with his car and we had no chance to escape.  the man went away and he said that he will return at night or next morning. the next morning,-The salary for The Fighters- The Man of the house that we stayed in was one of the fighters of Isis as well,  he was talking with his daughter and his wife and he also asked me and my sister to come along but we did not agree because I was thinking if we went with them they will either do something to us and if the man didn't come at night to save us they will separate us, then we said”  only two days remind, please let us stay at home”,  we didn't go and we stayed in the room, the man was waiting for our call,  at 12 o'clock the  man of the House went away and then we had the chance to call,  then the man said at 3:30 call me, and I pointed to my sister that at 3:30 the man will call again,  and then he said wait for a minute, after five minutes we called and he said” I will bring a car and take you” he said” ill bring another 2 cars”. the woman said - You're not it was only one time that we tried to  escape before and that was the only time that we saw what's outside the house-  the woman asked me to take the garbage out and she said that it's near the house.
+I: the yazidi woman?
+R: isis
+I:  did the Isis family help you to escape?
+R:  Isis family,  the woman said that I have to take the garbage out.
+I: ok
+R:  then my sister said that we will cover ourselves and put the veil and we will take the garbage out, she said that it’s fine to go out while wearing veil. we wore the veil then went out to throw the garbage and we called,my sister talked to the man and told him that we were out to throw the garbage,Then my sister said that we should be aware and try not to let anyone see us talking on the phone,  and he said that after five minutes the car will  enter the street. we told the family that lives in the house that  there were too many garbage  bags, and so we  took the garbage bag by bag once at a time,  there was a huge bag filled with garbage and it was heavy,  and because we hadn't eat for two months we had no strength and we couldn't even walk,  when we took the garbage out it cut our leg and it started to bleed. the woman of the house was talking on the phone and then she asked us” why were you late?”  we told her that the  there were too many garbage bags and we had to take them one by one.
+I:  wait a second, I will translate.
+R: The woman said “  why were you late?”  and my sister said” you know, my sister  couldn't walk, we had to walk slowly”  and then the woman said that till we should take a break  and not to go out again so we stayed.  we called the man  again and we told him that we will be late than the man said that it's ok and that the cars are waiting. the man said “ call me after half an hour” and we called him after half an hour,  we had to call the man several times in a row so each time my sister said that she has to go to the toilet and the woman wondered about the situation and about my sister and she said” I can't understand why you keep going to the toilet, you don't eat at all, why do you always have to go to the toilet?It's really weird that you have to go to the toilet every 10 minutes”  and then after 15 minutes my sister said I have to go to the toilet again and she wanted to go to talk on the phone and then the woman said” I can't understand why she has to go to the toilet, she didn't even eat anything, and I don't think she has diarrhoea, and I don't believe you”  then the man told my sister that we have to go out,  then my sister told the woman that we have to take out the garbage and the woman was talking on the phone, we went out to take the garbage and the man  said that we have to go out because the car will come and take us, the man said” it's a black car with the driver”  then my sister asked me to stand by the house door and she said” if the car comes, take the garbage out” --------------- but my sister did not understand, we took the garbage out, we looked out from the window and we saw the car, and when the man looked to the window he understood that we can go out .we went to put the garbage away and then we ran to the car, when I turned my head back I saw an Isis member in the street,  we got into the car and we were followed by another car that belongs to the smuggler from behind and a  third car in front of us, they took us and the man said - he brought us the black dress and Veil-  and we wore them, the man said”  keep wearing these so no one finds out about you” ------------------ and I was crying  and my sister asked the man if he belongs to us what the man said no I am not,  he locked the doors and told us that he is not an Isis member but he's pretending to be one, and he asked us if we know Arabic and my sister said” only I know”,  and the man said “ I will take you to house but be careful not to tell them that you are yazidis” , “  tell them that you are daughters of that man who you called before” ----, Then the man asked” can you pretend to be  dizzy?”  I said yes. we went to that house, they came and we sat with the woman and her daughter, the woman said” where is your father?” and we said “ ----------------” ------. Then we called the man that we were talking with in the first place and he said” Adventure days that I have been communicating with you,  and your brother has sent me,  and I don't know your brother's but I know a friend in common” “ I will save you”.
+R: The man said “ I will make some fake IDS for you, and a marriage certificate”  we told him that a lot of Isis member have seen us, and that they will discover us any minute, will told him that they will recognise us,  he said he will make some fake IDs  and then he said that he can't save us both, then he said”  I will save you one by one, but until then you have to stay in this house, and don't tell them that you are yazidis, tell them that you belong to me and I will take you one at a time”.  we grabbed the man and told him that we cannot be separated but then the man said that he cannot take us both and then we told him that it has been 2 months since we have been held Captive by Isis, and that they couldn't separate us, and that we have tried so hard with crying and screaming cannot be separated, then the man said” don't worry child, I swear I will save you both”   we said” if you take one of us and saved her perhaps the other one  will be taken” then the man called my brother and told him about what we were saying to him, then my brother talk to us and said” don't worry my sister,  trust him and do so”  and we said that we don't want to then my brother said that we have to stay at the house and that careful and not to tell the people in the house that we are yazidis.  the man told the woman to take care of us and the woman said” those both are like my daughters” and the man said” I had a fight with their mother, and now she ran away to Kurdistan, and those two girls are at home by themselves alone and you know the situation here in Mosul, it's filled with Isis and they should not stay home Alone and I work all day,  I want them to stay  at your house for two or three days” then the woman said it's ok.
+ we stayed at that house for five days, the man who freed us from that house brought food everyday, and he came every day to check on us, and when he used to come all the women of that house went to another room and so only me my sister and the man stayed  alone. the man was always singing that he will save us, sometimes he suggested to run away by the car other times he suggested to run away by walking, and we told him that it doesn't matter as long as we go out of here.  on the fourth day he said “ I will take you tomorrow, we will walk to Kurdistan” . we were always afraid of not being free, isis was ----------,  he called that house at night and said” I will come tomorrow to take my daughters and take them to Kurdistan to their mother” the man and the woman did not know that we are yazidis and they told the man “ it's fine, come and take both of your daughters” 
+The man who saved us said “  I will take you to house, I know the family of that house, they are relative” he said “  I'll send the car to take both of my daughters, you can bring your family with you if you want to” the man said” it's fine send the car to take your daughters” . the man sent his friend  in the next morning,  we call the man “ uncle” he was a Muslim,  and we called him that for his effort,  his friend came in the morning to the place where we were staying four five days,  I was pretending the entire time to be dizzy and not normal ( pretending to be insane)  and I have never opened my mouth ( talked),  and on the 4th of October I escaped. I washed the cinder off my face, I was in the bathroom and I cried a lot and I said to my sister “ I have washed the cinder off my face,  and I don't know if we will be free”  on the 5th day the man came, he sent his friend,  the man and his wife and two children came with us,  we acted like an Isis family, we wore the black dress and the niqab,  and also the man and his wife did the same and we took off. we  reached  an Isis checkpoint in Mosul, they asked us about our IDS and we were so afraid,  the man said that he did not make any IDs,  and the driver who we called uncle told the soldier that we are going to Zamar,  and the soldier asked for an ID and then the man said that we are a family, then the soldier said” go on”. 
+R: so, translate!
+I: yes
+R: That was the hardest day among all, we were so afraid to get caught, because if they did catch us they will take us to the campsite.  we were so terrified,  we passed four checkpoints, have no one recognised us, we were talking Arabic the entire time, each time the man asked us to show our eyes only,  and after almost half an hour or an hour we reached an ISis checkpoint,  they had bombs tied to the chest, the man said “ these soldiers will bomb themselves if they discover anything suspicious” , the soldier came close and asked about where were we going, and the driver said that you are going to zamar  as visitors,  then the soldier asked us to turn off our phones so the airplane doesn't catch any signals,  both of the man turned off their phones, then the soldier asked us to move on, when we passed that checkpoint the driver  said “ thank God, we are fine now and we didn't get bombed”.  we arrived to Zamar,  and the man said we are done,  there were aircraft and bumping and peshmerga ( Isis had no control in that area).  we arrived to that house, a woman and two of her children were living there ,she also has escaped Isis, and the woman said that we can stay there  and said”  we will wait for the father of the girls to come back home and then we will find a way to take these two girls to their mother in Kurdistan”  Normal said that she wanted to make breakfast in her house and she asked all of us to go there, me and my sister stood up to go along with her but the driver held my hand secretly and said that we have to stay, and we told the woman that we don't want to come, and that we will wait for our father,The man came and said”  I will go to Mosul,--------, and then I'll find a way whether it was by walking or driving, but you have to stay in this house, lock the door, I will take this family to a taxi and I'll bring  uncle with me”  we said ok and then the man said” don't open the door for anyone and don't talk”.  we sat in that room listening to the sound of shooting and bombing,  we sat for an hour then we heard a phone ringing, two men were talking, we tried to eavesdrop and my sister asked me not to talk so she could hear carefully,  we could recognise uncle’s voice, came to the door and said” open the door child” We opened the door,  my brother and my cousin were standing with peshmarga in front of us,  he said that we have to hold a white flag, they were planning some said we have to go by walking or they said we had to go at night, and the driver said that we will go by walking at night, Then the men who served us said “I have already saved them and we don't want to get killed, we will go by the car, don't let them walk, Isis will be all around, and if a bullet hit them what can I tell their brothers?” It was the 9th of October,  they talk on the phone with peshmerga, and said” we will come by the car  holding a white flag,  don't shoot that car” . they took us by the car and they hung a white T-shirt to it, and we went to an area where the first half was controlled by Isis and the other half was controlled by the peshmerga,  and the peshmerga said that if we could go to their area,  we went there and the man who saved us said” go, but I have never seen you and you have never seen me, you can go now” and then he asked us to walk, we walked for almost an hour in that area and we were very careful with our steps, we didn't want to step on any bomb,  the man said walk behind me and take the same steps in the same place where I do,  we walked for almost two or three hours and then we were saved. 
+I: She says “ thank you very much for everything you said, you are so strong”
+R:  we have been through awful things, if I keep talking  for two days, I will not be done. 
+VIOL2 How long did you spend in captivity?	VIOL2 Hûn çiqas di destê DAEŞê de man?	VIOL2 Wie lange haben Sie in Gefangenschaft verbracht?
+I: you stayed for 2 month in captivity by isis right?
+R: yes, 04-08 i was held captive and on 04-10 i escaped and stayed 5 days in a house and arrived to my family on the 09th
+R: 3 years we have faced horrible things,yazidis were tortured,each day is worse than the day before.
+I: at 3:00 o'clock we should go, can we continue our questions or do you want to have a break? or go to the toilet. 
+VIOL3 What about your escape, would you like to share any information about  your escape?	VIOL3 Reva we (baze we), hûn dixwazin behsa reva xwe (baz dene xwe) bikin?	VIOL3 Möchten Sie uns etwas über Ihre Flucht erzählen?
+H01 How has your experience of violence by ISIS affected your current health related well-being?	H01 chiqes pisbune daishe  (  ser sehete we) (saxbuna we) bedilend?	H01 Wie haben sich Ihre Erfahrungen mit Gewalt durch IS auf Ihren Gesundheitszustand ausgewirkt?
+H02 How much does the ISIS-violence you experienced affect your current health-related well-being?	H02 Gelo ev şîddeta DAÎŞê  chu saxbuna we bedilend?	H02 Wie sehr wirkt sich die erlebte IS-Gewalt auf Ihren Gesundheitszustand aus?
+I: I'm going to ask her questions now, how much did the violence of Isis affect your health?
+R:  extremely
+H03 How much are you suffering from the following symptoms as an effect of the ISIS violence you experienced?	H03 kengi ji van ekhtiyerne derdi we dibije u chiqes derd mekine?	H03 Wie sehr leiden Sie unter den folgenden Symptomen als Folge der erlebten IS-Gewalt:
+H04 Pain	H04 Êş (eshek)	H04 Schmerz
+I:  do you have any pain in your body because of the violence of isis?
+R:  my head,  after Isis experience I started to have headaches, continuous pain
+H05 Parasthesia of the skin or body (e.g. abnormal sensations such as tingling, prickling, numbness, or burning of the skin with no apparent physical cause)	H05 hesesiyet lasha (govd),taviziyen	H05 Missempfindung der Haut oder des Körpers (Kribbeln, Taubheitsgefühle ohne körperliche Ursache)
+I: Do you have any allergies in your skin? 
+R:  no I haven't had any tests,  but my entire skin  itches, but I haven't had any tests. 
+I: and do you feel sometimes That your body is numb?
+R:  after returning from captivity my body aches
+H06 Movement disorder (e.g. walking or coordination difficulties)	H06 Nexweşîya Livindanê (misal. Tu dikeri bi dest w linge xwe bimeshi u rabi u runi)	H06 Bewegunsstörungen (z.B. Gangstörung, Koordinationsstörung)
+I: Do you have any problems with your legs, like you cannot walk?
+R:  sometimes they hurt,
+I:  how much
+R: 2
+H07 Dissociative seizures (i.e. losing consciousness or fainting without physical cause or sudden involuntary muscle contractions or trembling)	H07 be fehse taxtora dista du behs be  herzin/dejerfen	H07 Dissoziative (Krampf-) Anfälle (z.B. Ohnmacht ohne körperliche Ursache / Zittern / unwillkürliche Muskelkontraktionen)
+I:  do you feel sometimes dizzy or are you experiencing any shivering?
+R: how?
+I:  you know like when your hands Shake?
+R:  sometimes
+H08 Functional limitations (e.g. blurred vision, hearing impairments, smelling disorder)	H08 tu hes deke misal debsi, dibne, bindki	H08 Funktionseinschränkungen (z.B. Seh-, Hör-, oder Riechstörungen)
+I:  do you have any problems with your eyes or ears?
+R:  I have made some tests they said that I  have nothing, what sometimes my head aches it affects my eyes
+H09 Feeling of suffocation (e.g. shortness of breath, difficulty breathing)	H09 bena(nafs) ta tang debe	H09 Erstickungsgefühle (z.B. Schwierigkeiten zu Atmen)
+I:  do you experience shortness of breath sometimes?
+R: yes,  now... not now but sometimes  when I'm shaking,  then I lie down to feel better.
+I:  so you experienced shortness of breath
+R: yes
+H10 Dizziness (e.g. sensation of spinning around or losing balance)	H10 gejbun (bidewxe) : wexte  wekî dinya li dora we digere	H10 Schwindel (z.B. Gleichgewicht verlieren)
+I:  are you experiencing any dizziness?
+R: no
+H11 Heart complaints (e.g. palpitations, fast heartbeats)	H11 dle ta deshe	H11 Herzbeschwerden (z.B. Herzrasen)
+I:  do you have any heart problems?
+R:  I have stomach ache
+I:  not stomach but heart
+R:  a fast heartbeat,  3/8 very fast which makes me uncomfortable
+H12 Gastrointestinal disorders (e.g. stomach-aches, diarrhea, nausea)	H12 maade ta(mida ta) deshe misal verek,varshe, zek eshek	H12 Magen-Darmbeschwerden (z.B. Durchfall, Übelkeit, Bauchschmerzen)
+R:  I have stomach ache
+H13 Do you have any other symptoms?	H13 li jem te sebebin din hene (araad)?	H13 Haben Sie weitere Symptome?
+I:  did you have any other pain in any other parts of your body?
+R:  my stomach and my head 
+Group	Group	
+H14 Other symptoms, please specify one here	H14 Heger tiştekî din hebe, hûn bibêjin	H14 Andere Symptome, bitte beschreiben Sie diese
+H15 How much are you suffering from the symptom you just mentioned?	H15 Heger tu pirsgirêkên we hebin, Hûn wana çiqas bi êş dijîn?	H15 Falls Sie an weiteren Beschwerden leiden, wie stark leiden Sie darunter?
+H16 Other symptoms, please specify another here	H16 heger sebebin din hene xwere xwe beje chine?	H16 Falls weitere Symptome, bitte beschreiben Sie weitere
+H17 How much are you suffering from the second symptom you just mentioned, if any?	H17 chiqes tu ji we sebebe dishe? Heger heye?	H17 Wie sehr leiden Sie unter dem zweiten Symtom, das Sie genannt haben?
+H18 How do you explain these effects of the ISIS violence on your health?	H18  Hûn van tiştên şîddeta DAÎŞê li ser xwe (sehet) (saxbun) çawa dibînin?	H18 Wie erklären Sie sich diese Auswirkungen der IS-Gewalt auf Ihre Gesundheit?
+I: Why do you think you are experiencing this kind of pain? your stomach ache your headache?
+R:  I don't know
+I:  you mentioned before
+R:  I used to have headache but I went to the doctor,  sometimes it was fine, sometimes it hurt for two or three months,  but after Isis experience,  I have this continuous pain.
+I:  so what do you think the main cause of that?
+R:  it's because of the experience and the Sadness and torture.
+H19 How important are the following concepts for you in explaining the effects of the ISIS violence on your health:	H19 chiqas je tara muhme ev xiarate eze neha bejem, na bushbuna Daesh chiqas le sar saxbuna ta tasir kir?	H19 Wie wichtig sind die folgenden Konzepte für Sie, um sich die Auswirkungen der IS-Gewalt auf Ihre Gesundheit zu erklären?
+H20 Psychological causes (i.e. reaction of your mind or psyche to the ISIS violence)	H20  Sabebe nafsi misal( rad fel)	H20 Psychologische Ursachen (z.B. psychische Reaktion auf IS-Gewalt)
+I: Do you think your headache comes from a psychological cause?
+R:  I always say that, if nothing has happened to me I don't think I will experience this headache.  I think that's why I have this headache, I would have been fine.
+I:  do you think the psychological causes extreme?
+I: ok
+H21 Physical causes (i.e. reaction of your body to ISIS violence or physical stress reaction)	H21 lashe ta, misal  (rad fel) tafzi, eshek, asbi	H21 Physische Prozesse (z.B. körperliche Reaktionen, auf IS-Gewalt oder physische Stressreaktion)
+I:  and do you think that this problem with your head is not on the psychological but it exists as in physical cause too?
+R: 4
+H22 Supernatural influences (e.g. negative forces as the cause for symptoms)	H22 teshte na bash(misal, shedete(kwet) salbi)	H22 Übernatürliche Einflüsse (z.B. böse Kräfte als Ursache der Symptome)
+I: do you think that a spell has caused these symptoms?  like your headache and your body pain?  like witchcraft cause?  as if someone has had a spell on you or wished you experience the worst?
+R: yes
+R: I don't sleep well at night, it has been three years and I have went to therapy and treatment, but I don't sleep well at night, I always think about it. the experience that we have been through is always appearing in front of my eyes
+I:  so do you think the cause of all of this is witchcraft?
+R: yes
+H23 Religious causes (e.g. punishment of God for sins)	H23 jezaye xode je ber gunaha	H23 religiöse Ursachen (z.B. Bestrafung durch Gott für Sünden)
+I:  do you think that what happened to you was a punishment of God?
+R:  I don't know if I have done anything wrong that makes god does this to me, but this was not a punishment of god it was because of Isis. 
+H24 How does the violence you experienced affect your relationship with other people?	H24 pisbune (nebashbune)daishe ji ware chu tesire peywandiye  navbera we u milete kiri?	H24 Wie wirkt sich die Gewalt, die Sie erlebten, auf Ihre Beziehungen mit anderen Menschen aus?
+H25 How does your experience of violence by ISIS affect your daily life in the Yazidi community?	H25 nav melate ezidya ev teshte geh hate sare ta, cawa tasire xa le sar roj ta haye?	H25 Und wie wirkt sich diese Erfahrung auf Ihren Alltag in der Gemeinschaft der Jesiden aus?
+I:  do you feel that the yazidi community is supporting you or do you feel excluded from that community?
+I:  do feel like you are out of this community?
+R:  no I don't feel  Excluded
+H26 If you feel excluded from the Yazidi community, how much do you feel that exclusion?	H26 Heger tu ji cemaata êzidîyan hatibi dûrxistin, tu vî dûrxistina çawa dibinî?	H26 Falls Sie sich von der jesidischen Gemeinschaft ausgeschlossen fühlen, wie stark fühlen Sie diese Ausgrenzung?
+H27 How did your experience of violence by ISIS affect your faith?	H27 pisbune (nebashbune) daishe ji ware chu tesirkir ser imane (bawari) we?	H27 Wie beeinflusste die erlebte IS-Gewalt Ihren Glauben?
+I:  after experience of violence by Isis, did that affect your faith?
+R:   but still like before, nothing changed and I am still believing in My Religion.  the hard part was the yazidi  honour and religion and thank God that I still have both.
+I:  so do you feel like your faith became stronger?
+R: yes 
+H28 How strongly did your experience of violence by ISIS affect your yazidi faith?	H28 pisbune (nebashbune) daishe ji ware chu tesir imane (bawari)  we ji bo diyanet yizidi?	H28 Wie stark beeinflusste die IS-Gewalt Ihren jesidischen Glauben?
+H29 How do you cope with the effects you have described from the ISIS violence?	H29 Gelo tu çawa li ber van tiştên ku te behs kir didî?	H29 Wie können Sie die Auswirkungen der eben beschriebenen IS-Gewalt bewältigen?
+H30 What can you do for symptom relief?	H30  çi karî tu bikî ji bona rehetbûna xwe (nishan)?	H30 Was können Sie zur Linderung der Symptome tun?
+I: What do you do to improve yourself and to not feel uncomfortable?
+R:...
+I:  when you feel restless and uncomfortable what do you do so you'll become better?
+R: I don't try anything I don't try anything, it's always in my head.  I always think that life will never become better like before, I always think so.
+H31 How much do the following strategies help you cope with the effects of the ISIS violence?	H31 Ev stratejîyên jêr çiqas alikarîya bi tere kir li ber pisbune (nabashbune) şîddeta DSÎŞê :	H31 Wie sehr helfen Ihnen die folgenden Strategien die Auswirkungen der IS-Gewalt zu bewältigen?
+H32 Believe in collective strength (e.g. strength of the Yazidi community or your family)	H32   te heziye xwe ji bawerbune di tefgeri xwe bir ( tefgeriye yizidi yan malbet)	H32 Glaube an gemeinschaftliche Stärke (z.B. Stärke der jesidischen Gemeinschaft oder Ihrer Familie)
+I: when you feel restless and tired and if you like the entire life is black,  does it help to be with the yazidis? do you believe in the community and family?  when you think about the experience does it help to be with them?
+R: yes
+H33 Believe in personal strength (e.g. believe in yourself or your own strength)	H33 baweriya te ya hêza şexsî (b.m. Bawerîya te ji bo te û ya şexsî)	H33 Glaube an persönliche Stärke (z.B. Glaube an sich selbst, an Ihre eigene Stärke)
+I:  do believe in your own strength? do you believe in yourself?
+R: yes
+H34 Praying	H34 limê kirin	H34 Beten
+I:  does it help to pray to God when you feel restless?
+R: yes
+H35 Retreat (e.g. spending time alone)	H35 bi tene hizdki wexte xwe derbeski	H35 Rückzug (Zeit alleine verbringen)
+I:  do you like to spend time alone when you feel restless?
+R:  you mean  to stay alone?
+I: yes
+R: yes
+H36 Avoidance (e.g. avoiding things that remind you of ISIS)	H36 Rev/baz(b.m. Reva ji tiştên ku DAÎŞê tîne bîra we)	H36 Vermeidung (Dinge vermeiden, die Sie an den IS erinnern)
+I:   do you try to avoid thinking about the things that happened with Isis? try to not think about it?
+R:  I tried to forget about it but it's impossible
+I;  but do try to do that?
+R:  I try and I always think that I have to forget but that doesn't simply happen. 
+I: When you feel restless does it help to try not to think about it?
+R:  I really try but I cannot forget. we have been through every kind of torture,  but let's say that I haven't been through this huge amount of torture but I am sure that the person that came after me has been through it. I always say thank god that I have not lost my honour and dignity and Faith. it doesn't simply go away.
+H37 Exchange trauma contents with others	H37 Bi kesên din re, behskirina sadmet (trauma) bikin	H37 Austausch über Traumainhalte mit anderen
+I:  when you feel restless does it help to share and talk about what happened with another person?
+R:  I don't like to burden my friends, I think to myself that I want to talk about it but I don't want to bother my friends. 
+I:  if you talk about it do feel better?
+R:  yes especially when I feel suffocated, I like to talk about it.
+H38 Seeking professional help (e.g. doctors, psycho-therapists)	H38 Lêgerîna alîkarîya profesyonelî/moxts (b.m. dixtor psîko-terapîst)	H38 sich professionelle Hilfe suchen (z.B. Ärzte / Psychotherapeuten)
+I:  when you feel restless do you think a psychotherapist might help?
+R:  you gave me medicine to help me,  I was really in a dark place but after seeing a therapist and taking medicine I have become better.
+H39 Seeking help within the Yazidi community	H39  alîkarîya di nav cemeatê (tefger) yizidiye bigerin	H39 sich Hilfe innerhalb der jesidischen Gemeinschaft suchen
+I:  seeking help within the yazidi community?
+R: yes
+H40 Do you have any other strategies that help you cope?	H40 Heger tiştekî din hebe.	H40 Haben Sie weitere Strategien, die Ihnen bei der Bewältigung helfen?
+Group	Group	
+H41 Other strategies, please specify one here	H41 ji keremea xwe bibêjin	H41 Andere, bitte nennen Sie diese
+H42 How much would you say the strategy you just mentioned helps you?	H42 Heger hûn behsa stratejiyên ku alikarîya berxwadana we dikin bikin, gelo hûn dikarin ev çiqas alikariya we dike?	H42 Falls sie weitere Bewältigungsstrategien angegeben haben, wie stark helfen diese Ihnen?
+H43 Other strategies, please specify another here	H43 ji keremea xwe bibêjin	H43 Falls Sie noch weitere Strategien verwenden, bitte nennen Sie eine weitere
+H44 How much would you say the strategy you just mentioned helps you?	H44 Heger hûn behsa stratejiyên ku alikarîya berxwadana we dikin bikin, gelo hûn dikarin ev çiqas alikariya we dike?	H44 Wie sehr hilft Ihnen die Strategie, die Sie eben genannt haben?
+H45 Now, I am going to name several forms of professional health care aids. Please tell me if you already had contact with them or received them. If you did, please tell me how much each one improved your well-being.	H45 Niha ezê navê  reya  bidim we. ji kerema xwe ji min re bibêjin ku hûn van dizanin û we ew girtine yan na?heger we w e kiribe evane çiqas piştgiriya we	H45 Ich werde Ihnen nun mehrere Arten von professionellen Hilfsangeboten nennen. Bitte sagen Sie mir, ob Sie diese Art vn Hilfe bereits in Anspruch genommen haben. Falls ja, bitte sagen Sie mir wie stark die einzelnen Hilfsangebote Ihr Wohlbefinden verbesserten.
+H46 Medication (e.g. anti-depressant or medicine that improves your mood)	H46 îlaç (derman)	H46 Medikamente (Psychopharmaka / Medikamente, die die Stimmung und psychische Gesundheit verbessern)
+I:  you said that you have taken medicine?
+R: yes
+I:  psychological medication?
+R: yes 
+I: did it help?
+R: no
+I: no?
+R: it didn't help, i didn't get better, my friend helped me not medication.
+I: did you share and talk with your friend?
+R: yes i talk with my friend, helped me and helped me through rough times, he helped me more than therapy and the therapist.
+I: your friend, is your husband or ?
+R: no, just a friend. we talk about marriage
+I: how much can we say about medicine?
+R: 1
+R: i took them for a year but it didn't help so i left it,I went to another therapist and he helped me a lot, I couldn't sleep at night I still can't but I sleep better, every month I have a different appointment.
+I:  is this appointment for a therapy?
+R:  I don't know,  sometimes it's for psychological session.
+I:  and you talk to him?
+R: yes and he gives me medicine
+H47 Psychologists	H47 doxtor pisîkolog (nefsi)	H47 Psychologen
+I:  when you went to the therapist did that help you?
+R:  they said that I have to attend sessions and talk, I didn't do it but then those who were responsible about us said that we have to attend therapy and talk about it, everyone said that I should talk to psychologist then I said that I can't talk about it every week so I didn't do it and I left medicine and treatment. but the reason  psychologist that I go to has helped me a lot.
+H48 Individual psychotherapy	H48 Psîkoterapîya Şexsî	H48 Einzel-Psychotherapie
+H49 Group psychotherapy	H49 Psîkoterapîya Grûpan	H49 Gruppen-Psychotherapie
+H50 Religious or traditional healer	H50 hekime(ilackari) dini (oldari)	H50 Religiöse oder Traditionelle Heiler
+I:  have you visited lalesh?
+R; yes
+I:  and when you went there did that help you, did it decrease your restlessness? you know when you do your prayers there.
+R:  I felt so comfortable and peaceful and everyone helped us,  and we have forgotten about this experience of violence,  and they said that you will become better, it was only a problem that you had nothing to do with and now you return to your religion
+H51 Herbal medicine	H51 Îlacên nebatan (ilace normal wek chayi nebati)	H51 Pflanzliche Medizin
+I:  how about herbal medicine?
+R: how?
+I:  like green tea?
+R: no 
+H52 Social work or help with daily structure (e.g. childcare)	H52 Xebatên be Grupan yan jî alîkarîya karên rojane  (e.g. Nêrîna zarokan)	H52 Sozialarbeit oder Hilfe bei der Tagesstrukturierung (z.B. Kinderbetreuung)
+I: do the social workers here help you when you feel restless?
+R:  yes they are great
+H53 Doctor or physician	H53 toxter?	H53 Ärzte
+H54 If doctor or physicians: how much did it help?	H54 Toxter:  Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H54 Falls Ärzte: Wie sehr half das Ihnen?
+H55 If medication: how much did it help?	H55 îlaç (derman): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H55 Falls Medikamente: Wie sehr half das Ihnen?
+H56 If psychologists: how much did it help?	H56 doxtor pisîkolog (nefsi): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H56 Falls Psychologen: Wie sehr half das Ihnen?
+H57 If individual psychotherapy: how much did it help?	H57 Psîkoterapîya Şexsî: Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H57 Falls Einzel-psychotherapie: Wie sehr half das Ihnen?
+H58 If group psychotherapy: how much did it help?	H58 Psîkoterapîya Grûpan: Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H58 Falls Gruppen-psychotherapie: Wie sehr half das Ihnen?
+H59 If religious or traditional healer: how much did it help?	H59 hekime(ilackari) dini (oldari): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H59 Falls religiöse oder traditionelle Heiler: Wie sehr half das Ihnen?
+H60 If herbal medicine: how much did it help?	H60 Îlacên nebatan (ilace normal wek chayi nebati): Heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H60 Falls pflanzliche Medizin: Wie sehr half das Ihnen?
+H61 If social work: how much did it help?	H61  Xebatên be Grupan yan jî alîkarîya karên rojane: heger cewaba be "erê"be, ew çiqas alîkarîyawe kir?	H61 Falls Sozialarbeit: Wie sehr half das Ihnen?
+H62 How do you think these professional aids might improve your well-being?	H62 Gelo li (nirine we) gorî we ev alîkariyên profesyonel dê çawa alîkarîya we bike?	H63 Wie glauben Sie verbessern diese professionellen Hilfsangebote Ihr Wohlbefinden?
+H64 What kind of professional help would you like to receive but have not received yet?	H64  Gelo hûn(le nirine we) çi cûre alîkarîya profesyonel dixwazin lê heya niha we negirtîye?	H64 Welche Art professioneller Hilfe würden Sie gerne in Anspruch nehmen, haben sie aber bisher nicht bekommen?
+I: Is there any other kind of help you need but you still haven't received yet?
+R:  whatever they can do, they provide  and do their best for us
+I:  so you don't need anything?
+R:  I don't think they can replace my heart with a new one, my heart is very tired. ( metaphorically)
+H65 Below is a list of difficulties people sometimes have after stressful life events. Please indicate how distressing each difficulty has been for you DURING THE PAST SEVEN DAYS	H65 Li jêr lîsteyeke( kaeme) dijwarîyên ku mirov piştî bûyerên jîyaneke stresê dijî heye. Ji kerema xwe behsa dijwarîya tiştan bikin DI VÊ HEFTA VÊ DAWÎ de	H65 Ich nenne Ihnen jetzt einige Probleme, die Menschen manchmal nach belastenden Lebensereignissen haben. Geben Sie bitte an, wie bedrängend jedes Problem für Sie IN DEN LETZEN SIEBEN TAGEN war
+I: I'm going to list some problems and you will tell me if you're  experiencing any in the last 7 days
+R: ok
+H66 Any reminder brought back feelings about it	H66 Gelo tu tiştek van hêstan anî bîra we	H66 Immer, wenn ich an das Ereignis erinnert wurde, kehrten die Gefühle wieder.
+I:  first question,  when you think about Isis does it bring back feelings about it like being restless and angry?
+R: yes
+I:  can you tell me on the scale?
+R:  extremely
+I:  all of our questions are related to the scale
+H67 I had trouble staying asleep	H67 Min pirsgirêka xewê jîya (moshkiled xewkirine hebu)	H67 Ich hatte Schwierigkeiten, nachts durchzuschlafen.
+I:  do you have any problems sleeping, is there a sleep study or do you wake up in the middle of the night?
+R: yes
+R:  extremely
+H68 Other things kept making me think about it	H68 Tiştên din min xist nava fikirandina wê	H68 Andere Dinge erinnerten mich immer wieder daran.
+I:  other things make you think about Isis?  for example if you look at a tree you remember Isis when you go and meet someone you remember Isis, it's like when you look at anything it's makes you think about Isis?
+R:  yes, that day I went out and I met a Muslim and an Arab,  and then suddenly everything came back to me.
+H69 I felt irritable and angry	H69 Ez xwe bi hêrs û nerehet hîs kir	H69 Ich fühlte mich reizbar und ärgerlich.
+I:  do you feel angry?
+R: yes
+I:  extremely?
+R:  extremely
+H70 I avoided letting myself get upset when I thought about it or was reminded of it	H70 Dema ku ez ev bûyer hate heşê min an jî ku hate gotin, min xwe ji fikra xemgînbûnê dûr xist.	H70 Ich versuchte mich nicht aufzuregen, wenn ich daran dachte oder daran erinnert wurde.
+I:  do try to not get angry when you think about it?
+R:  I try
+H71 I thought about it when I didn't mean to	H71 ez pe defkrim, dema men na dexast	H71 Ich habe auch darüber nachgedacht, wenn ich es nicht wollte
+I:  you think about it but you did not mean to?  like being forced to think about something?
+R: yes
+H72 I felt as if it hadn't happened or wasn't real	H72 Hîssa min wekî ku ev tişt nehat serê min û nerast bû	H72 Es kam mir vor, als ob es gar nicht geschehen wäre oder irgenwie unwirklich war.
+I:  do you feel like everything that has happened wasn't really it was like a dream?
+R:  I said it was like a dream and I want to get out of it.  and everything was like before
+I:   do you think it's half half  that you think it was like a dream?
+R:  extremely
+I:  I understand but when you think that this was like a dream,  do you always think in that way, or do you think that no it wasn't a dream? 
+R: no it was real
+H73 I stayed away from reminders of it	H73 Min xwe ji tiştên ku têdixiste bîra min xwe dûr xist.	H73 Ich versuchte, Erinnerungen daran aus dem Weg zu gehen.
+I:  do try to  erase this memory?
+R:  I try but it doesn't go away, we have been through a lot of things and we have witnessed terrible things.
+H74 Pictures about it popped into my mind	H74 suret e ten sari ta	H74 Bilder, die mit dem Ereignis zu tun hatten, kamen mir plötzlich in den Sinn.
+I:  sometimes pictures about it pop into your mind? pictures about Isis or about the experience that you have been through?
+R:  a lot of things appear for of my eyes, I have talked a lot with you about it but it's all in my head.
+H75 I was jumpy and easily startled	H75 Ez tirsîyam û bi rehetî ketim nav tirsê	H75 Ich war leicht reizbar und schreckhaft.
+I:  do feel fearful?
+R: yes
+I:  extremely?
+R: yes
+H76 I tried not to think about it	H76 Min hewl da ku nefikirim.	H76 Ich habe versucht, nicht daran zu denken.
+I:  do try not to think about it?
+R:  I try but I still think
+H77 I was aware that I still had a lot of feelings about it, but I didn't deal with them	H77 Ez ji hebûna fikrên wan haydar bûm (zani), lê min guhê nadaie.	H77 Ich merkte zwar, dass meine Gefühle durch das Ereignis noch sehr aufgewühlt waren, aber ich beschäftigte mich nicht mit ihnen.
+I:  when you feel angry or restless or fearful, but then you do something else to get busy and not to think about it?
+R:  I cry or I do something for myself,  I have 4 5 sisters with children and I always think that the children should not hear about anything so they don't get scared
+H78 My feelings about it were kind of numb	H78 Hestên min di derheqê wê de, wekî cureyeke lalbûnê bû( moxder)	H78 Die Gefühle, die das Ereignis in mir auslösten, waren ein bisschen wie abgestumpft.
+I:  do you feel sometimes like your feelings were kind of  numb ,you know like dead?
+R: ..
+H79 I found myself acting or feeling like I was back at that time	H79 Min xwe wekî lîstina rolekê an jî wekî ku ez ji demê paş ve hîs kir.	H79 Ich stellte fest, dass ich handelte oder fühlte, als ob ich in die Zeit (des Ereignisses) zurückversetzt sei.
+I:  do you feel sometimes like you were back at time to the same place with Isis in the same time?
+R yes
+H80 I had trouble falling asleep	H80 Min zehmetîya raketin(xewkirin) hîs kir.	H80 Ich konnte nicht einschlafen.
+I:  do you fall asleep immediately or do you need time to fall asleep?
+R:  I really want to sleep but I don't sleep immediately
+H81 I had waves of strong feelings about it	H81 Bi min re pêlên hestên dijwar çêbûn- bi miro hisik mekin chebu ji derheqe we	H81 Es kam vor, dass die Gefühle, die mit dem Ereignis zusammenhingen, plötzlich für kurze Zeit viel heftiger wurden.
+I;  when sometimes the feeling of sadness or  anger, do you feel strongly these feelings sometime?
+R: yes
+H82 I tried to remove it from my memory	H82 Min hewl da ku ez ji bîra xwe derxim.	H82 Ich habe versuchte, es (das Ereignis) aus meiner Erinnerung zustreichen.
+I:  do try to remove the story from your memory ?
+R: I tried but it doesn't go away
+H83 I had trouble concentrating	H83 Min zehmetîya lê hûrbûnê (terkiz) hîs kir.	H83 Es fiel mir schwer, mich zu konzentrieren.
+I:  do you have trouble concentrating or focusing?  like for example when you study German language but you feel like your head is already full because you think about other things?
+R: yes
+H84 Reminders of it caused me to have physical reactions, such as sweating, trouble breathing, nausea, or a pounding heart	H84 waxte dehat bira men, lasha men xu da, nafse men tang bu, madi men le hav kat, dli men be kwat lekat	H84 Die Erinnerungen daran lösten bei mir körperliche Reaktionen aus, wie Schwitzen, Atemnot, Schwindel oder Herzklopfen.
+I:  when you think about that story and the experience they feel like having trouble breathing or sweating?
+R:  extremely
+H85 I had dreams about it	H85 Min di derheqê wê de xewnan dît.	H85 Ich träumte davon.
+I:  do you have dreams about it?
+R:  you mean sleeping?
+I:  no do you see isis in your dreams?
+R: yes
+H86 I felt watchful and on guard	H86 Min xwe baldar û di nobettê de hîs kir.	H86 Ich empfand mich selber als sehr vorsichtig, aufmerksam oder hellhörig.
+I:  when someone shouts, do you feel watch full and on guard?
+R:  extremely
+H87 I tried not to talk about it	H87 Min hewl da ku ez di derheqeê we de xeber nedim.	H87 Ich versuchte, nicht darüber zu sprechen.
+I:  do you try not to  talk about it? about the things that happened to you?
+R:  I don't feel uncomfortable or restless when I talk about it.
+I:  so you want to talk about it?
+R: yes
+H88 Thank you for these responses.	H88 ez sipasiye we dikim ji bu bersive we dat	H88 Danke für diese Antworten.
+H89 Finally to conclude, can you tell me what was the most positive experience you had within the last two years in Germany?	H89 Pirsa herî dawî, tecrûbeya we herî xweş ku tu li Almanyayê jiyayî çi ne?	H89 Können Sie mir zum Abschluss sagen, was die positivsten Erfahrungen waren, die Sie innerhalb der letzten zwei Jahre in Deutschland hatten?
+I: Can you tell me your most positive experience you had in Germany?
+R:  the good thing about Germany, I have never went to school before, but here I went to school and I'm learning a new language.
+H90 How satisfied would you say you are with the Special Quota Project at this time?	H90  tu chiqas kani beji ew projekta (mashrou) special quota bash bu?	H90 Wie erfolgreich würden Sie das Sonderkontingent zu diesem Zeitpunkt bewerten?
+I: How satisfied would you say you are with the special quota  project that brought you here to Germany? do you think it's a good project or not?
+R:  extremely great
+H91 What are the three most positive aspects of the Special Quota Project in your opinion?	H91 ka nav se(3) tecrubeya bash be ta ra darbas bun je projekte special Quota?	H91 Was sind Ihrer Meinung nach die 3 positivsten Aspekte des Sonderkontignents?
+I:   what are the most positive aspects of this project?
+R:  the good thing that they brought us here because our lives and there was really horrible,  half of Us committed suicide because of the situation and the problems and the  political conflicts.
+H92 What are the three most negative aspects of the Special Quota Project in your opinion?	H92 ka nav se(3) tecrubeya Na bash be ta ra darbas bun je projechte special Quota?	H92 Was sind Ihrer Meinung nach die 3 negativsten Aspekte des Sonderkontignents?
+I:  is there a negative aspects  of this project?
+R:  nothing negative everything is great.
+H93 And what gives you hope for the future?	H93 che neren (Amale) je roja peshra (Mostakbel)?	H93 Und was gibt Ihnen Hoffnung für die Zukunft?
+I:  what gives you hope for the future?
+R:  the only hope is that we went out from that horrible life.
+I:  I couldn't understand?
+R:   what I mean is the previous life was not beautiful,  and I think now perhaps our life will change here and we will see some better days.
+I;  we have finished the interview and would like to know if you have any questions?
+R:  I only say that I hope everyone gets out of captivity from Isis,  and they all live peacefully and have a great life.  I stayed for two months and I have faced an Unbelievable torture.  3 years, every day I feel suffocated and tortured much more than the time that I spent in captivity for two months because of Isis.
