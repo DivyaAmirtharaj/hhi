@@ -18,8 +18,8 @@ class Preprocessing:
             logging.info(e)
         
         self.database = Database()
-        self.database.delete_table()
-        self.database.create_table()
+        #self.database.delete_table()
+        #self.database.create_table()
 
     def create_text_files(self):
         try:
@@ -66,7 +66,7 @@ class Preprocessing:
         else:
             return False
 
-    def get_raw_responses(self):
+    def add_raw_responses(self):
         files = os.listdir(self.processed_data_dir)
         for file in files:
             interview_name = file[:-4]
@@ -102,14 +102,21 @@ class Preprocessing:
                     response += lines[idx]
             formatted_dict[key] = response
         return formatted_dict
-                    
 
+    def get_normalized_responses(self):
+        users = self.database.get_user("", True)
+        questions = self.database.get_question_id("", True)
+        for question in questions:
+            q = self.database.get_question(question)
+            r = self.database.get_raw_responses(users[0], question)
+            print(q, r)
 
 if __name__ == '__main__':
     pre = Preprocessing()
     #pre.create_text_files()
-    pre.init_tables()
-    time.sleep(1)
-    pre.get_raw_responses()
+    #pre.init_tables()
+    #time.sleep(1)
+    #pre.add_raw_responses()
+    pre.get_normalized_responses()
 
     

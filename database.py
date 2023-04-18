@@ -63,23 +63,51 @@ class Database:
         con.commit()
 
     @thread_db
-    def get_user(self, con, cur, interview_name):
-        cur.execute("""
-            SELECT uuid FROM users WHERE interview_name = ?
-        """, [interview_name])
-        val = cur.fetchone()
-        if val is None:
-            raise Exception("No interviews found for this interview name")
-        return val[0]
+    def get_user(self, con, cur, interview_name, all=False):
+        if all:
+            cur.execute("""
+                SELECT uuid FROM users
+            """)
+            vals = cur.fetchall()
+            if vals is None:
+                raise Exception("No interviews found")
+            return [val[0] for val in vals]
+        else:
+            cur.execute("""
+                SELECT uuid FROM users WHERE interview_name = ?
+            """, [interview_name])
+            val = cur.fetchone()
+            if val is None:
+                raise Exception("No interviews found for this interview name")
+            return val[0]
 
     @thread_db
-    def get_question(self, con, cur, question_name):
+    def get_question_id(self, con, cur, question_name, all=False):
+        if all:
+            cur.execute("""
+                SELECT question_id FROM questions
+            """)
+            vals = cur.fetchall()
+            if vals is None:
+                raise Exception("No questions")
+            return [val[0] for val in vals]
+        else:
+            cur.execute("""
+                SELECT question_id FROM questions WHERE question_name = ?
+            """, [question_name])
+            val = cur.fetchone()
+            if val is None:
+                raise Exception("No questions found for this question name")
+            return val[0]
+
+    @thread_db
+    def get_question(self, con, cur, question_id):
         cur.execute("""
-            SELECT question_id FROM questions WHERE question_name = ?
-        """, [question_name])
+                SELECT question FROM questions WHERE question_id = ?
+            """, [question_id])
         val = cur.fetchone()
         if val is None:
-            raise Exception("No questions found for this question name")
+            raise Exception("No questions found for this question id")
         return val[0]
 
     @thread_db
@@ -105,6 +133,17 @@ class Database:
             #UPDATE users SET audio_name = ? WHERE uuid = ?
         #""", [audio_name, uuid])
         con.commit()
+    
+    @thread_db
+    def get_raw_responses(self, con, cur, uuid, question_id):
+        cur.execute("""
+            SELECT raw_response FROM responses WHERE uuid = ? AND question_id = ?
+        """, [uuid, question_id])
+        val = cur.fetchone()
+        if val is None:
+            return 0
+            #raise Exception("No questions found for this question name")
+        return val[0]
     
     @thread_db
     def delete_table(self, con, cur):
