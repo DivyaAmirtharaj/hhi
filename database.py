@@ -38,6 +38,7 @@ class Database:
                 response_id integer PRIMARY KEY,
                 uuid integer,
                 question_id integer,
+                raw_response text,
                 response text
             );
         """)
@@ -92,17 +93,17 @@ class Database:
         return val[0]
     
     @thread_db
-    def add_responses(self, con, cur, interview_name, question_name, response, audio_name):
-        response_id = random.randint(1, 2**20)
+    def add_raw_responses(self, con, cur, interview_name, question_name, raw_response):
+        response_id = random.randint(1, 2**50)
         uuid = self.get_user(interview_name)
         question_id = self.get_question(question_name)
         cur.execute("""
-            INSERT INTO responses (response_id, uuid, question_id, response)
+            INSERT INTO responses (response_id, uuid, question_id, raw_response)
                 VALUES (?, ?, ?, ?)
-        """, [response_id, uuid, question_id, response])
-        cur.execute("""
-            UPDATE users SET audio_name = ? WHERE uuid = ?
-        """, [audio_name, uuid])
+        """, [response_id, uuid, question_id, raw_response])
+        #cur.execute("""
+            #UPDATE users SET audio_name = ? WHERE uuid = ?
+        #""", [audio_name, uuid])
         con.commit()
     
     @thread_db

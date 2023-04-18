@@ -5,6 +5,7 @@ import docx2txt
 import logging
 from database import Database
 import re
+import time
 
 class Preprocessing:
     def __init__(self) -> None:
@@ -65,9 +66,50 @@ class Preprocessing:
         else:
             return False
 
+    def get_raw_responses(self):
+        files = os.listdir(self.processed_data_dir)
+        for file in files:
+            interview_name = file[:-4]
+            #with open(os.path.join(self.processed_data_dir, file), "r") as text:
+            example_file = os.path.join(self.processed_data_dir, files[0])
+            response_dict = {}
+            with open(example_file, "r") as text:
+                lines = text.readlines()
+                transcript = []
+                question_name = ""
+                number_pattern = r'^[A-Z]\d{2}'
+                for idx, line in enumerate(lines):
+                    if re.search(number_pattern, line): # check if the line matches the pattern
+                        response_dict[question_name] = transcript
+                        transcript = []
+                        question_name = line[0:3]
+                    else:
+                        transcript.append(idx)
+                    if idx == (len(lines)-1):
+                        response_dict[question_name] = transcript
+            res = self.__format_responses(response_dict, lines)
+            for question, response in res.items():
+                if question:
+                    print(question, response, interview_name)
+                    self.database.add_raw_responses(interview_name, question, response)
+            
+    def __format_responses(self, response_dict, lines):
+        formatted_dict = {}
+        for key in response_dict:
+            response = ''
+            if response_dict[key]:
+                for idx in response_dict[key]:
+                    response += lines[idx]
+            formatted_dict[key] = response
+        return formatted_dict
+                    
+
+
 if __name__ == '__main__':
     pre = Preprocessing()
     #pre.create_text_files()
     pre.init_tables()
+    time.sleep(1)
+    pre.get_raw_responses()
 
     
