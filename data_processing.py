@@ -5,7 +5,10 @@ import docx2txt
 import logging
 from database import Database
 import re
+import openai
 import time
+
+openai.api_key = os.environ['api_key']
 
 class Preprocessing:
     def __init__(self) -> None:
@@ -70,10 +73,9 @@ class Preprocessing:
         files = os.listdir(self.processed_data_dir)
         for file in files:
             interview_name = file[:-4]
-            #with open(os.path.join(self.processed_data_dir, file), "r") as text:
-            example_file = os.path.join(self.processed_data_dir, files[0])
+            text_file = os.path.join(self.processed_data_dir, file)
             response_dict = {}
-            with open(example_file, "r") as text:
+            with open(text_file, "r") as text:
                 lines = text.readlines()
                 transcript = []
                 question_name = ""
@@ -89,7 +91,7 @@ class Preprocessing:
                         response_dict[question_name] = transcript
             res = self.__format_responses(response_dict, lines)
             for question, response in res.items():
-                if question:
+                if question and response:
                     print(question, response, interview_name)
                     self.database.add_raw_responses(interview_name, question, response)
             
@@ -106,10 +108,48 @@ class Preprocessing:
     def get_normalized_responses(self):
         users = self.database.get_user("", True)
         questions = self.database.get_question_id("", True)
-        for question in questions:
-            q = self.database.get_question(question)
-            r = self.database.get_raw_responses(users[0], question)
+        try:
+            q = self.database.get_question(questions[15])
+            r = self.database.get_raw_responses(users[0], questions[15])
             print(q, r)
+        except Exception as e:
+            logging.info(e)
+        if q and r:
+            try:
+                res = self.__normalize_answer(r)
+                print(res)
+                self.database.add_normalized_responses(res, users[0], questions[15])
+            except Exception as e:
+                logging.info(e)
+        '''for user in users:
+            for question in questions:
+                try:
+                    q = self.database.get_question(question)
+                    r = self.database.get_raw_responses(users[0], question)
+                except Exception as e:
+                    logging.info(e)
+                if q and r:
+                    try:
+                        res = self.__normalize_answer(r)
+                        print(res)
+                        self.database.add_normalized_responses(res, user, question)
+                    except Exception as e:
+                        logging.info(e)
+                else:
+                    continue'''
+
+    def __normalize_answer(self, transcript):
+        response = openai.Completion.create(
+            model="text-davinci-003",
+            prompt=f'Given that R: is the respondent, summarize this from the perspective of the respondent:\n\n {transcript}',
+            temperature=0.7,
+            max_tokens=150,
+            top_p=1.0,
+            frequency_penalty=0.0,
+            presence_penalty=0.0
+        )
+        summary = response.choices[0].text.strip()
+        return summary
 
 if __name__ == '__main__':
     pre = Preprocessing()

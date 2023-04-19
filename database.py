@@ -124,7 +124,7 @@ class Database:
     def add_raw_responses(self, con, cur, interview_name, question_name, raw_response):
         response_id = random.randint(1, 2**50)
         uuid = self.get_user(interview_name)
-        question_id = self.get_question(question_name)
+        question_id = self.get_question_id(question_name)
         cur.execute("""
             INSERT INTO responses (response_id, uuid, question_id, raw_response)
                 VALUES (?, ?, ?, ?)
@@ -132,6 +132,14 @@ class Database:
         #cur.execute("""
             #UPDATE users SET audio_name = ? WHERE uuid = ?
         #""", [audio_name, uuid])
+        con.commit()
+    
+    @thread_db
+    def add_normalized_responses(self, con, cur, response, uuid, question_id):
+        print(response, uuid, question_id)
+        cur.execute("""
+            UPDATE responses SET response = ? WHERE uuid = ? and question_id = ?
+        """, [response, uuid, question_id])
         con.commit()
     
     @thread_db
