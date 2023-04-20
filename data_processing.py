@@ -108,24 +108,11 @@ class Preprocessing:
     def get_normalized_responses(self):
         users = self.database.get_user("", True)
         questions = self.database.get_question_id("", True)
-        try:
-            q = self.database.get_question(questions[15])
-            r = self.database.get_raw_responses(users[0], questions[15])
-            print(q, r)
-        except Exception as e:
-            logging.info(e)
-        if q and r:
-            try:
-                res = self.__normalize_answer(r)
-                print(res)
-                self.database.add_normalized_responses(res, users[0], questions[15])
-            except Exception as e:
-                logging.info(e)
-        '''for user in users:
+        for user in users:
             for question in questions:
                 try:
                     q = self.database.get_question(question)
-                    r = self.database.get_raw_responses(users[0], question)
+                    r = self.database.get_raw_responses(user, question)
                 except Exception as e:
                     logging.info(e)
                 if q and r:
@@ -136,7 +123,7 @@ class Preprocessing:
                     except Exception as e:
                         logging.info(e)
                 else:
-                    continue'''
+                    continue
 
     def __normalize_answer(self, transcript):
         response = openai.Completion.create(

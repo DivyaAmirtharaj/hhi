@@ -152,6 +152,16 @@ class Database:
             return 0
             #raise Exception("No questions found for this question name")
         return val[0]
+
+    @thread_db
+    def get_responses(self, con, cur, uuid, question_id):
+        cur.execute("""
+            SELECT response FROM responses WHERE uuid = ? AND question_id = ?
+        """, [uuid, question_id])
+        val = cur.fetchone()
+        if val is None:
+            return False
+        return val[0]
     
     @thread_db
     def delete_table(self, con, cur):
