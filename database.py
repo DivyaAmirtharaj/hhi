@@ -111,14 +111,25 @@ class Database:
         return val[0]
 
     @thread_db
+    def get_sections(self, con, cur):
+        sections = []
+        cur.execute('SELECT DISTINCT section FROM questions')
+        results = cur.fetchall()
+        for row in results:
+            sections.append(row[0])
+        return sections
+
+    @thread_db
     def get_section_questions(self, con, cur, section):
+        questions = []
         cur.execute("""
             SELECT question_id FROM questions WHERE section = ?
         """, [section])
-        val = cur.fetchone()
-        if val is None:
-            raise Exception("No questions found in this section")
-        return val[0]
+        val = cur.fetchall()
+        if val:
+            for q in val:
+                questions.append(q[0])
+        return questions
     
     @thread_db
     def add_raw_responses(self, con, cur, interview_name, question_name, raw_response):

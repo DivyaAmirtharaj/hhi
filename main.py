@@ -6,6 +6,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+from nltk.stem import PorterStemmer
+import string
 
 openai.api_key = os.environ['api_key']
 
@@ -16,23 +18,34 @@ openai.api_key = os.environ['api_key']
 # Sentiment analysis across questions -> generally identify the questions that could be the most polarizing or triggering and measure sentiment of the responses?
 # Answer the given questions in the prompt
 
+# 1. Create a list of all the different sections
+# 2. Loop through and create a list of questions for each section
+# Side note, I should make some more of the normalized responses into bools for easier demographics details
+# 3. Summarize the types of responses and then group responses by similarity
+
 class Analysis:
     def __init__(self) -> None:
+        logging.basicConfig(filename='example.log', level=logging.DEBUG)
         self.database = Database()
         self.question_ids = self.database.get_question_id('', True)
         self.uuids = self.database.get_user('', True)
-        logging.basicConfig(filename='example.log', level=logging.DEBUG)
+        self.sections = self.database.get_sections()
+        self.section_questions = {section: self.database.get_section_questions(section) for section in self.sections }
 
-    def extract_keywords(self):
-        answer = ''
+    def __get_response(self, qid):
+        full_response = ''
         for user in self.uuids:
-            res = self.database.get_responses(user, 458111)
+            res = self.database.get_responses(user, qid)
             if res:
-                answer += res
+                response += res
+        return full_response
+
+    def extract_keywords(self, qid):
+        context = self.__get_response(qid)
 
         response = openai.Completion.create(
             model="text-davinci-003",
-            prompt=f'Extract keywords from this text:{answer}',
+            prompt=f'Extract keywords from this text: {context}',
             temperature=0.7,
             max_tokens=150,
             top_p=1.0,
@@ -40,19 +53,14 @@ class Analysis:
             presence_penalty=0.0
         )
         keywords = response.choices[0].text.strip()
-        print(keywords)
         return keywords
 
-    def create_analysis_questions(self, themes):
-        answer = ''
-        for user in self.uuids:
-            res = self.database.get_responses(user, 458111)
-            if res:
-                answer += res
+    def create_analysis_questions(self, qid, themes):
+        context = self.__get_response(qid)
 
         response = openai.Completion.create(
             model="text-davinci-003",
-            prompt=f'Based on these themes:{themes}, and this text {answer}, create a list of questions that could be used for analysis',
+            prompt=f'Based on these themes:{themes}, and this text {context}, create a list of questions that could be used for analysis',
             temperature=0.7,
             max_tokens=500,
             top_p=1.0,
@@ -60,22 +68,17 @@ class Analysis:
             presence_penalty=0.0
         )
         questions = response.choices[0].text.strip()
-        print(questions)
         return questions
     
-    def answer_analysis_questions(self, questions):
+    def answer_analysis_questions(self, analysis_questions):
         pass
 
-    def theme_analysis(self):
-        answer = ''
-        for user in self.uuids:
-            res = self.database.get_responses(user, 458111)
-            if res:
-                answer += res
+    def theme_analysis(self, qid):
+        context = self.__get_response(qid)
 
         response = openai.Completion.create(
             model="text-davinci-003",
-            prompt=f'Extract the main themes from this text and write thesis statements for each theme:{answer}',
+            prompt=f'Extract the main themes from this text and write thesis statements for each theme:{context}',
             temperature=0.7,
             max_tokens=500,
             top_p=1.0,
@@ -85,33 +88,39 @@ class Analysis:
         themes = response.choices[0].text.strip()
         return themes
     
-    def document_similarity(self):
+    def document_similarity(self, qid):
         docs = []
         for user in self.uuids:
-            res = self.database.get_responses(user, 458111)
+            res = self.database.get_responses(user, qid)
             if res:
                 docs.append(res)
+        
+        stop_words = ["yes", "no", "maybe", "the", "a", "an", "them", "this", "that", "to", "be", "for", "and", "from", "my", "it", "is", "r", "i", "of", "me", "perspective", "respondent", "r", "we", "these", "respondent's", "r's"]
+        tokenized_responses = []
+        for response in docs:
+            doc = response.translate(str.maketrans("", "", string.punctuation))
+            tokens = doc.lower().split()
+            tokens = [token for token in tokens if token not in stop_words]
+            stemmer = PorterStemmer()
+            stemmed_tokens = [stemmer.stem(token) for token in tokens]
+            tokenized_responses.append(' '.join(stemmed_tokens))
+       
+        question = "Who should be held accountable?"
+        sample = tokenized_responses[:15]
 
-        # Create a TF-IDF matrix
-        vectorizer = TfidfVectorizer(stop_words='english')
-        tfidf_matrix = vectorizer.fit_transform(docs)
-
-        # Apply SVD to reduce the dimensionality of the matrix
-        svd = TruncatedSVD(n_components=2, random_state=42)
-        lsa_matrix = svd.fit_transform(tfidf_matrix)
-
-        # Calculate cosine similarity between documents
-        similarity_matrix = cosine_similarity(lsa_matrix)
-
-        # Print the similarity matrix
-        print(similarity_matrix)
-        # Get the index of the maximum similarity score for each document
-        most_similar = np.argmax(similarity_matrix - np.eye(similarity_matrix.shape[0]), axis=1)
-
-        # Print the most similar documents
-        for i, idx in enumerate(most_similar):
-            print(f"Document {i+1} is most similar to Document {idx+1}")
-
+        response = openai.Completion.create(
+            model="text-davinci-003",
+            prompt=f'Group these responses to the question {question} by similarity and explain in detail why:{sample}',
+            temperature=0.5,
+            max_tokens=2049,
+            top_p=1.0,
+            frequency_penalty=0.0,
+            presence_penalty=0.0
+        )
+        similar = response.choices[0].text.strip()
+        print(similar)
+        #return similar
+    
     def sentiment(self):
         # sentiment analysis of some kind
         pass
@@ -121,6 +130,6 @@ if __name__ == '__main__':
     #keywords = a.extract_keywords()
     #themes = a.theme_analysis()
     #questions = a.create_analysis_questions(themes)
-    a.document_similarity()
+    #a.document_similarity()
 
     
