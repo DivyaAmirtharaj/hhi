@@ -199,3 +199,30 @@ Respond veri import those respons ani harm they have experienc held account they
 Group 1 contains statements that show a strong emphasis on holding members of ISIS responsible for their actions and punishing them for the crimes they have committed. The statements in this group are consistent in the strength of emotion, with all of them emphasizing how important it is to hold ISIS accountable and to ensure that those responsible for any violence are punished.
 
 Group 2 contains statements that are more focused on the devastating consequences of ISIS' actions, such as the tears of women and children, murder, and the taking of relatives away from their families. These statements express a much stronger emotion than those in Group 1, with some even expressing a desire to kill those responsible.
+
+## Using clustering/ k-means
+Cluster 0: This cluster consists of phrases that are focused on the concept of justice as a means of holding perpetrators accountable for their actions and restoring the rights of victims. This cluster also touches on the idea that justice should not involve taking revenge and that it should be applied equally to all people regardless of their religion or political affiliation.
+
+Cluster 1: This cluster consists of phrases that are focused on the idea that justice is about being rescued from captivity or violence, and about having the right to call for help and receive protection from the state. These phrases often describe feelings of hopelessness and helplessness, and emphasize the importance of being able to rely on others for support.
+
+Cluster 2: This cluster consists of phrases that focus on the idea that justice should be about being together with one's family and having one's rights respected. These phrases often reference the idea that material possessions are less important than family and honor, and emphasize the importance of restoring what was taken away from victims of injustice.
+
+Cluster 3: This cluster consists of phrases that are somewhat more difficult to categorize, but they seem to be focused on the idea that justice should involve protecting people's religious beliefs and providing support for victims of violence. These phrases also often reference the idea that justice is elusive and difficult to define or achieve.
+
+
+[2 1 0 0 2 1 2 0 1 0 0 2 0 0 1]
+Cluster 0 is focused on the concept of justice related to civil law and the rights people should have. People believe justice is achieved when people are able to receive their rights without any interference from forces such as Islam, and when people are protected from oppression and have equal rights. This cluster is differentiated from the other clusters as it focuses on the concept of justice from a legal standpoint, whereas the other clusters focus more on the concept of justice in relation to specific events or situations. 
+
+Cluster 1 is focused on the concept of justice in relation to specific events or situations, such as the siege in Kojo village and violence against women who had fled ISIS. People in this cluster believe justice is served when people are rescued from captivity and experience less violence, and when their rights are called for and help arrives in fifteen days. This cluster is differentiated from the other clusters as it is more focused on justice in relation to specific events or situations, rather than justice from a legal standpoint. 
+
+Cluster 2 is focused on the concept of justice in relation to family and restoring rights that have been taken away. People in this cluster believe justice is achieved when perpetrators of crimes are held accountable for their actions, and when their rights are restored and they are reunited with their family. This cluster is differentiated from the other clusters as it focuses on the concept of justice in relation to family, rather than justice from a legal standpoint or justice in relation to specific events or situations.
+
+### Final
+[2 0 0 1 2 0 0 2 1 2 2 0 1 1 1 2 2 1 1 2 1 2 1 2 2 0 2 1 1 2 0 0 2 1 2 1 2
+ 0 0 2 0 0 2 1 1 2 2 2 1 1 0 0 0 2 2 0 0 0 0 2 2 2 0 0 1 1 1 2 1 2 2 1 2 2
+ 1 1 2 1 0 0 1 1 1 1 2 0 1 0 0 1 1]
+Cluster 0: This cluster centers around the concept of justice as restoring rights and returning to a life before the trauma experienced at the hands of ISIS. Major themes found in this cluster include restoring rights, reclaiming family and material possessions, and receiving justice for wrongs done. This cluster is differentiated from the others because it focuses on the idea of restoring rights, rather than punishing wrongdoers, or other forms of justice.
+
+Cluster 1: This cluster focuses on justice as a form of punishment for wrongdoers, as well as a concept of fairness and equality for all people. Major themes found in this cluster include retribution for wrongs done, equality and fairness for all, and providing rights to those who have been wronged. This cluster is differentiated from the others because it focuses on the idea of punishing wrongdoers, rather than restoring rights, or other forms of justice.
+
+Cluster 2: This cluster centers around the concept of justice as a human right. Major themes found in this cluster include equal rights for all, freedom from oppression, and protecting the rights of those who have been persecuted. This cluster is differentiated from the others because it focuses on the idea of human rights, rather than punishing wrongdoers, or restoring rights.
