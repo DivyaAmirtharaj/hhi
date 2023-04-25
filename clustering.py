@@ -10,22 +10,19 @@ from nltk.stem.snowball import SnowballStemmer
 import nltk
 import string
 import numpy as np
+from demographics import Demographics
 
 openai.api_key = os.environ['api_key']
 
 class Cluster:
     def __init__(self) -> None:
         self.database = Database()
+        self.demographics = Demographics()
         self.uuids = self.database.get_user('', True)
-        self.docs = []
-        for user in self.uuids:
-
-            res1 = self.database.get_responses(user, 785919)
-            if res1:
-                self.docs.append(res1)
+        self.demographic_details = self._data_scrape()
 
     def _data_scrape(self, qids):
-        data = []
+        data = {}
         for user in self.uuids:
             try:
                 responses = [self.database.get_responses(user, qid) for qid in qids]
@@ -33,8 +30,23 @@ class Cluster:
             except Exception as e:
                 pass
             if res:
-                data.append(res)
+                data[user] = res
         return data
+
+    def _demographic_scrape(self):
+        dem_users = []
+        for user in self.uuids:
+            demographics = {
+                "user": user,
+                "sex": self.demographics.get_data("sex", user),
+                "age": self.demographics.get_data("age", user),
+                "marital_status": self.demographics.get_data("marital_status", user),
+                "widow": self.demographics.get_data("widow", user),
+                "ethnicity": self.demographics.get_data("ethnicity", user),
+                "religion": self.demographics.get_data("religion", user)
+            }
+            dem_users.append(demographics)
+        return dem_users
 
     # Preprocess the text by removing stop words, punctuation, and special characters
     def _preprocess_text(self, text):
@@ -51,8 +63,9 @@ class Cluster:
     
     def kmeans(self, data, k):
         # create the TF-IDF vectorizer and transform the phrases
+        data_values = list(data.values())
         tfidf = TfidfVectorizer()
-        vectorized_phrases = tfidf.fit_transform(data)
+        vectorized_phrases = tfidf.fit_transform(data_values)
 
         # Compute the first two principal components of the TF-IDF matrix
         pca = TruncatedSVD(n_components=2)
@@ -104,13 +117,13 @@ class Cluster:
 
 if __name__ == '__main__':
     a = Cluster()
-    '''justice_qids = [785919]
-    justice_data = a._data_scrape(qids)
-    a.kmeans(justice_data, 3)'''
+    justice_qids = [785919]
+    justice_data = a._data_scrape(justice_qids)
+    a.kmeans(justice_data, 3)
     
-    optimism_qids = [972241, 898570]
+    '''optimism_qids = [972241, 898570]
     optimism_data = a._data_scrape(optimism_qids)
-    a.kmeans(optimism_data, 2)
+    a.kmeans(optimism_data, 2)'''
 
     '''accountability_qids = [458111, 243034, 245609, 174244]
     accountability_data = a._data_scrape(accountability_qids)

@@ -40,6 +40,20 @@ class Demographics:
             WHERE uuid = ?
         """.format(column), (data, uuid))
         con.commit()
+    
+    @thread_db
+    def get_data(self, con, cur, column, uuid):
+        try:
+            cur.execute("""
+                    SELECT {} FROM demographics WHERE uuid = ?
+                """.format(column), (uuid))
+            val = cur.fetchone()
+            if val is None:
+                raise Exception("No data found for this interview name")
+            return val[0]
+        except:
+            return ''
+
 
     def _scrape_data(self, qid):
         data = {}
@@ -150,13 +164,32 @@ class Demographics:
                 self.update_data("ethnicity", ethnicity, key)
             else:
                 self.update_data("ethnicity", 'NULL', key)
+    
+    def age(self):
+        data = self._scrape_data(768766)
+        for key, value in data.items():
+            if value:
+                response = openai.Completion.create(
+                    model="text-davinci-003",
+                    prompt=f'How old is this person, just return a number or NULL if unclear {value}',
+                    temperature=0.1,
+                    max_tokens=10,
+                    top_p=1.0,
+                    frequency_penalty=0.0,
+                    presence_penalty=0.0
+                )
+                age = response.choices[0].text.strip()
+                self.update_data("age", age, key)
+            else:
+                self.update_data("age", 'NULL', key)
 
 
 if __name__ == '__main__':
     a = Demographics()
     #a.update_table()
     #a.is_married()
-    a.is_widow()
+    #a.is_widow()
     #a.religion()
     #a.res_sex()
     #a.ethnicity()
+    a.age()
