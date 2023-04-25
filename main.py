@@ -3,13 +3,11 @@ import os
 import openai
 import logging
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
-from nltk.stem import PorterStemmer
 import string
 from sklearn.cluster import KMeans
-import ast
+from nltk.stem.snowball import SnowballStemmer
+import nltk
 
 openai.api_key = os.environ['api_key']
 
@@ -144,8 +142,11 @@ class Analysis:
         for response in docs:
             doc = response.translate(str.maketrans("", "", string.punctuation))
             tokens = doc.lower().split()
-            tokens = [token for token in tokens if token not in stop_words]
+            stemmer = SnowballStemmer("english")
+            lemma = nltk.wordnet.WordNetLemmatizer()
+            tokens = [stemmer.stem(lemma.lemmatize(token)) for token in tokens if token not in stop_words]
             tokenized_responses.append(' '.join(tokens))
+        print(tokenized_responses)
         
         # create the TF-IDF vectorizer and transform the phrases
         tfidf = TfidfVectorizer()
@@ -171,7 +172,7 @@ class Analysis:
             else:
                 cluster_dict[cluster] = [tokenized_responses[i]]
         #print(cluster_dict)
-        response = openai.Completion.create(
+        '''response = openai.Completion.create(
             model="text-davinci-003",
             prompt=f"Explain in detail why the phrases were clustered the way they are, major themes found in each, and how each cluster is differentiated {cluster_dict}",
             temperature=0.7,
@@ -182,7 +183,7 @@ class Analysis:
         )
         similar = response.choices[0].text.strip()
         print(similar)
-        #return similar
+        #return similar'''
 
     def demographic_details(self):
         demo_q = [768766, 818556, 127515, 737666, 866648, 180654, 511429, 158078, 363930, 868157, 388462, 396790, 946197, 4539, 155061, 147984, 725234, 225300, 812253, 431358, 920510]
@@ -216,5 +217,18 @@ if __name__ == '__main__':
     #a.document_similarity(785919)
     a.similarity(785919)
     #a.demographic_details()
+
+    '''
+    Get the clusters and the phrases associated to each, then run a demographic analysis and display the demographics associated with each
+    Run that code above for justice, accountability
+
+    Get major themes for each section, as well as keywords
+
+    Using the clusters above, we are displaying major thesis statements already
+
+    Mathematical display of trauma?  Yes/ no for health concerns and display them in graphs
+
+    Answer the five questions posed
+    '''
 
     
