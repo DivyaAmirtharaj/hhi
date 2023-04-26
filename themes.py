@@ -12,23 +12,29 @@ import nltk
 openai.api_key = os.environ['api_key']
 
 class Themes:
-    def __init__(self) -> None:
+    def __init__(self, qids):
         logging.basicConfig(filename='example.log', level=logging.DEBUG)
         self.database = Database()
         self.question_ids = self.database.get_question_id('', True)
         self.uuids = self.database.get_user('', True)
         self.sections = self.database.get_sections()
+        self.qids = qids
+        self.keywords = ''
 
-    def __get_response(self, qid):
-        full_response = ''
+    def _date_scrape(self):
+        data = []
         for user in self.uuids:
-            res = self.database.get_responses(user, qid)
+            try:
+                responses = [self.database.get_responses(user, qid) for qid in self.qids]
+                res = " ".join(responses)
+            except Exception as e:
+                pass
             if res:
-                response += res
-        return full_response
+                data.append(res)
+        return data
 
-    def extract_keywords(self, qid):
-        context = self.__get_response(qid)
+    def extract_keywords(self, ):
+        context = self._date_scrape()[:10]
         response = openai.Completion.create(
             model="text-davinci-003",
             prompt=f'Extract keywords from this text: {context}',
@@ -39,6 +45,7 @@ class Themes:
             presence_penalty=0.0
         )
         keywords = response.choices[0].text.strip()
+        print(keywords)
         return keywords
 
     def create_analysis_questions(self, qid, themes):
@@ -72,10 +79,10 @@ class Themes:
         return themes
 
 if __name__ == '__main__':
-    a = Themes()
+    a = Themes([785919, 245609, 174244])
     keywords = a.extract_keywords()
-    themes = a.theme_analysis()
-    questions = a.create_analysis_questions(themes)
+    #themes = a.theme_analysis()
+    #questions = a.create_analysis_questions(themes)
 
     '''
     Get the clusters and the phrases associated to each, then run a demographic analysis and display the demographics associated with each
