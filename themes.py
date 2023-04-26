@@ -11,26 +11,13 @@ import nltk
 
 openai.api_key = os.environ['api_key']
 
-# LDA -> helps identify underlying topics that are present in a large corpus of text
-# LSA -> identify which interview answers are most similar to each other
-# Create analysis questions and answer them -> look at the questions for each section and try and create overarching analysis questions based on themes
-    # string together the data from the responses to answer them
-# Sentiment analysis across questions -> generally identify the questions that could be the most polarizing or triggering and measure sentiment of the responses?
-# Answer the given questions in the prompt
-
-# 1. Create a list of all the different sections
-# 2. Loop through and create a list of questions for each section
-# Side note, I should make some more of the normalized responses into bools for easier demographics details
-# 3. Summarize the types of responses and then group responses by similarity
-
-class Analysis:
+class Themes:
     def __init__(self) -> None:
         logging.basicConfig(filename='example.log', level=logging.DEBUG)
         self.database = Database()
         self.question_ids = self.database.get_question_id('', True)
         self.uuids = self.database.get_user('', True)
         self.sections = self.database.get_sections()
-        self.section_questions = {section: self.database.get_section_questions(section) for section in self.sections }
 
     def __get_response(self, qid):
         full_response = ''
@@ -85,7 +72,7 @@ class Analysis:
         return themes
 
 if __name__ == '__main__':
-    a = Analysis()
+    a = Themes()
     keywords = a.extract_keywords()
     themes = a.theme_analysis()
     questions = a.create_analysis_questions(themes)
