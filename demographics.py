@@ -43,16 +43,13 @@ class Demographics:
     
     @thread_db
     def get_data(self, con, cur, column, uuid):
-        try:
-            cur.execute("""
-                    SELECT {} FROM demographics WHERE uuid = ?
-                """.format(column), (uuid))
-            val = cur.fetchone()
-            if val is None:
-                raise Exception("No data found for this interview name")
-            return val[0]
-        except:
-            return ''
+        cur.execute("""
+                SELECT {} FROM demographics WHERE uuid = ?
+            """.format(column), (uuid, ))
+        val = cur.fetchone()
+        if val is None:
+            raise Exception("No data found for this interview name")
+        return val[0]
 
 
     def _scrape_data(self, qid):

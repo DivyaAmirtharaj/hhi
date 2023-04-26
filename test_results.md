@@ -252,3 +252,27 @@ The major theme found in cluster 0 is despair and a lack of faith in the justice
 The major theme found in cluster 1 is hope and optimism. The respondents in this cluster express a strong desire for justice to be served and for their rights to be returned to them. They have faith that justice will eventually be served, and that it may be achieved both through earthly and divine means. They also express a hope that their missing families will be returned to them.
 
 The two clusters are differentiated by the respondents' levels of optimism. The respondents in cluster 0 express a lack of optimism and hope, while the respondents in cluster 1 express an optimistic outlook and faith that justice will eventually be served.
+
+
+
+### With Demographics
+#### Accountability
+Cluster 0 accounted for 22.94% of the responses
+Cluster 1 accounted for 77.06% of the responses
+The responses in cluster 0 were on average 32.0 years old, and 57.89% are/were married and 11.11% are widowed
+The responses in cluster 1 were on average 33.98 years old, and 42.42% are/were married and 48.72% are widowed
+The phrases were clustered into two major themes: accountability and punishment. The first cluster (0) focuses on the need for ISIS to be held accountable for their violations and the importance of punishing those responsible for the suffering they have caused. The respondents in this cluster emphasize that the criminals should experience the same pain and suffering that they have inflicted on others, and that the punishment should be the same for all parties involved. The second cluster (1) focuses on the need to punish those responsible for the violence experienced by the respondents. The respondents in this cluster emphasize that the punishment should be equal to the suffering caused, and that the leaders of ISIS should be held accountable for all the crimes they have committed. 
+
+The two clusters are differentiated in terms of their emphasis. The first cluster focuses on the need for accountability and justice, while the second cluster focuses on the need for punishment and revenge. The first cluster emphasizes the importance of holding those responsible to the same standards and providing the same punishment, while the second cluster emphasizes the need to punish those responsible in a way that is equal to the suffering they have caused. Additionally, the second cluster emphasizes the need to punish the leaders of ISIS specifically, while the first cluster does not mention this.
+
+Cluster 0 accounted for 22.94% of the responses
+Cluster 1 accounted for 77.06% of the responses
+The responses in cluster 0 were on average 32.0 years old, and 57.89% are/were married and 11.11% are widowed
+The responses in cluster 1 were on average 33.98 years old, and 42.42% are/were married and 48.72% are widowed
+The phrases were clustered into two groups, based on the similarity of the content. Group 0 consists of phrases which focus on the importance of holding ISIS accountable for their violations, and the need for appropriate punishment for the criminals. This group emphasizes the need for equal treatment of all parties involved, and the need for justice and accountability for the suffering endured by the respondent. Group 1 consists of phrases which focus on the desire for revenge on those responsible for the violence, and the need for harsh punishments for the criminals. This group emphasizes the need for punishment for all those responsible for the violence, regardless of their group, religion, or nationality.
+
+The major theme in Group 0 is the need for justice and accountability. The respondent emphasizes the need for all parties involved to be held to the same standard and receive the same punishment, regardless of their group, religion, or nationality. They also emphasize the need for the criminals to experience the same pain and suffering that they have caused.
+
+The major theme in Group 1 is the need for revenge and harsh punishments. The respondent expresses their desire for revenge on those responsible for the violence and their need for the worst punishments possible for the criminals, such as being burned alive, tortured, and killed bit by bit.
+
+The two clusters are differentiated by the focus of the phrases. Group 0 focuses on the need for justice and accountability, while Group 1 focuses on the need for revenge and harsh punishments. The two clusters also differ in terms of the respondent's perspective. Group 0 focuses on the need for equal treatment of all parties involved, while Group 1 focuses on the respondent's desire for revenge on those responsible for the violence.
